@@ -1,2 +1,5 @@
 # 构建产物（GitHub Actions 每次会自动重新生成）
 pages/
+
+# 导出的分析数据
+data/
