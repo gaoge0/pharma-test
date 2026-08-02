@@ -2,8 +2,8 @@ import { mkdir, rm, writeFile } from "node:fs/promises";
 import worker from "../worker/index.js";
 
 const outputDir = new URL("../pages/", import.meta.url);
-const siteOrigin = "https://tianyaya404-dotcom.github.io";
-const siteBase = "/pharma-monitor/";
+const siteOrigin = "https://gaoge0.github.io";
+const siteBase = "/pharma-test/";
 const socialImage = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123f49"/><stop offset="1" stop-color="#07111b"/></linearGradient></defs>
   <rect width="1200" height="630" fill="url(#g)"/>
