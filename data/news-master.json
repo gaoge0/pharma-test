@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-03T16:42:37.146Z",
-  "count": 222,
+  "lastUpdated": "2026-08-03T21:32:28.476Z",
+  "count": 228,
   "items": [
+    {
+      "id": "industry:AstraZeneca and Bristol Myers Squibb Held Merger Talks | PharmExec:1785787442000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "AstraZeneca and Bristol Myers Squibb Held Merger Talks | PharmExec",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVlDWi03eGFNbmxvbDduLXIxUWVoak05eFJVZHBsYm5BTWhhamVvSElvb296SlRvVTFlMFBFeW1BSFk3UnRGbEFvd2xTMXJiQmsxRTc4RTlKUzFZNDd5YXVUNXFyMHBFbXBITkxJd0FlbGZBbDVfcW1UUV91RjVNSm44cUltX3hEZVpjQmNaeXA?oc=5",
+      "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks | PharmExec &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-08-03T20:04:02.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
+    {
+      "id": "industry:Drug spending increasingly rewards pharmaceutical innovation over 'me-too' medicines:1785787201000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Drug spending increasingly rewards pharmaceutical innovation over 'me-too' medicines",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUloQ2VpcXdlVHczSXRkWXFreXQtSVFoc0RLQ296dDlMQnllVGloUk1LejUtYzhoaXAtQkF1cWF0WER5VV9jUUZCa3NMV0dhN0paZEJRWGdrRmlPNTBGRkJSRnVUeGtjbUVWc1pVZkRvdW9DTjlLUFZkUWJZbWJFVUJ5TE9rNHRv?oc=5",
+      "summary": "Drug spending increasingly rewards pharmaceutical innovation over 'me-too' medicines &nbsp;&nbsp; Medical Xpress",
+      "pubDate": "2026-08-03T20:00:01.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
+    {
+      "id": "industry:AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal:1785782586000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
+      "summary": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-08-03T18:43:06.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
+    {
+      "id": "industry:4 Biotech Stocks Likely to Outpace Q2 Earnings Estimates:1785767640000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "4 Biotech Stocks Likely to Outpace Q2 Earnings Estimates",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPci14VFVNcTFJdVl3Qm9JTFlLVVBWNnFSc1BqdkVQbUc2VS1DQmxSN0RoaG5kMXVMZ3YxenJXMEZzMGt0SnRqV1otRnZMZEVkcDh4Wi1lZGtJMjUwX3BhNEFhd2V2ZWxiMkdrMXhuM1N1WkQ5UXllVThCUmF5WXFjQVJqSnRmUlhfcWlLTlFHclZKVUY3Yzh3?oc=5",
+      "summary": "4 Biotech Stocks Likely to Outpace Q2 Earnings Estimates &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-08-03T14:34:00.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
+    {
+      "id": "clinical:Pfizer’s Phase 3 win for Litfulo; Braveheart, Attovia eye IPOs of $275M, $182M:1785424560000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Pfizer’s Phase 3 win for Litfulo; Braveheart, Attovia eye IPOs of $275M, $182M",
+      "source": "endpoints.news",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5wTXJ5WFhfSWdycENCZlkwMTJZRWRBWXNrU2xhWXVCNF9MTzF5cWxfZmd3bi1iTjZwbldid204XzNGZ0dSZUoyZWZWNU94Sm82bENIZVItZmVTeHRMU0xJb1RpN0NoNHNQT0dJZnRaWk1kc0Z2NGRKMUxnekFxTElKNFlHRmg4OUdUSUE2aXI2OEdZZjBBZlR1Qy0?oc=5",
+      "summary": "Pfizer’s Phase 3 win for Litfulo; Braveheart, Attovia eye IPOs of $275M, $182M &nbsp;&nbsp; endpoints.news",
+      "pubDate": "2026-07-30T15:16:00.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
+    {
+      "id": "regulatory:Viatris Receives U.S. FDA Approval for Gwyn Lo™, a Once-Weekly Contraceptive Patch:1785322740000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Viatris Receives U.S. FDA Approval for Gwyn Lo™, a Once-Weekly Contraceptive Patch",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLXlvNHZvLTlEV0pCbUVINDhPUlVxOENoNjBaSjZvTHlVNWNLOHJZc0duOTFYdThheUV0cjNEckZMbGQ2Q2dsc3VwREFCd1VXa2dHN2tIUHhoa0djb01QYXFKNExQbWdwa1RrekxjLUdTei1sdXZVQkFibU1JVDVSclZqcnZ6QzBYSENSd1NKTU1XZ0o4ejY2QTZsMlNFQzAxX2dYVmdMdWwwRmMyQjVkOGRDblFwaEZIZUlhTXRiclR4NjktaXdfTjB0TzFtUG8?oc=5",
+      "summary": "Viatris Receives U.S. FDA Approval for Gwyn Lo™, a Once-Weekly Contraceptive Patch &nbsp;&nbsp; PR Newswire",
+      "pubDate": "2026-07-29T10:59:00.000Z",
+      "collectedAt": "2026-08-03T21:32:28.476Z"
+    },
     {
       "id": "industry:An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.:1785774552000",
       "category": "industry",
