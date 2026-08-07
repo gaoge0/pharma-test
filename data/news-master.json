@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-08-07T00:55:51.597Z",
-  "count": 423,
+  "lastUpdated": "2026-08-07T04:33:47.294Z",
+  "count": 428,
   "items": [
+    {
+      "id": "industry:July Update — U.S. Generic Drug Tariffs: Implications For Pharma And Outsourcing:1786075610000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "July Update — U.S. Generic Drug Tariffs: Implications For Pharma And Outsourcing",
+      "source": "Clinical Leader",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzV5c3NiSlpqTVFoVFBDU2ktVkU3WHpzVDNPNnh1WHdnb1hjQlJZeU9KR1huMnRPaGxveUJfenZzdm5aUll6bk1EVUNRb1dBRkRDdTJCbm5Hd0p1dUx5blNmUERzZERTRzFOelk5cE1LY1dETkZIMHRBMTlqd1lTd04zTGlBT2lHcTlZQzZnQWZNUm9FRmJUNjVoT1ZZd1pLa2tjSDBnM1ZLREd2UW9Relk3MVlqZkk?oc=5",
+      "summary": "July Update — U.S. Generic Drug Tariffs: Implications For Pharma And Outsourcing &nbsp;&nbsp; Clinical Leader",
+      "pubDate": "2026-08-07T04:06:50.000Z",
+      "collectedAt": "2026-08-07T04:33:47.294Z"
+    },
+    {
+      "id": "industry:Pfizer: what the pharmaceutical giant makes and does:1786075347000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pfizer: what the pharmaceutical giant makes and does",
+      "source": "qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1wUUFfcUJIdDlUcDVvam9KZS1hMFpRc3VEaUN6OVhBeDlKenpka2JtX3FHd0F2RUxsUlFHT2FWYjc3d00?oc=5",
+      "summary": "Pfizer: what the pharmaceutical giant makes and does &nbsp;&nbsp; qz.com",
+      "pubDate": "2026-08-07T04:02:27.000Z",
+      "collectedAt": "2026-08-07T04:33:47.294Z"
+    },
+    {
+      "id": "industry:Vital Signs: Benchmarking first half performance in major pharma:1786067286000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Vital Signs: Benchmarking first half performance in major pharma",
+      "source": "firstwordpharma.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcC1Md1ozMVhGUmVKZWxRME5JRWJYS0RpYk9QR0hMVXpBQnlsTnNla1Z1RVNZV0hHZUdvQnlMRnFHYmZHVHlFLTBwbEFkRmlERHhj?oc=5",
+      "summary": "Vital Signs: Benchmarking first half performance in major pharma &nbsp;&nbsp; firstwordpharma.com",
+      "pubDate": "2026-08-07T01:48:06.000Z",
+      "collectedAt": "2026-08-07T04:33:47.294Z"
+    },
+    {
+      "id": "industry:Why Talent and Market Access Should Drive Biotech Location Decisions:1786060643000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Why Talent and Market Access Should Drive Biotech Location Decisions",
+      "source": "BioPharm International",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2FZdFh2U2RGYXp5S1ExYW1YTUgwamNYa2N3S0NJOHhXSGVNV1o4SW1MNXpDcFVPbmNSVjVGbFpRUFZCRVlfV2U0NTF2Ukp1dVV1SV9wS0l2NWJEdWtpb040blptcFVBeW1FUUU4emFGVTF6ZUNWWGx3eld0WFQtckVfZk41OGxPcXB2dmJ0QndTOHI4THNZQjRWM0JYNFpWSURYUjc2NXVzM2xpS2I4UQ?oc=5",
+      "summary": "Why Talent and Market Access Should Drive Biotech Location Decisions &nbsp;&nbsp; BioPharm International",
+      "pubDate": "2026-08-06T23:57:23.000Z",
+      "collectedAt": "2026-08-07T04:33:47.294Z"
+    },
+    {
+      "id": "science:IQVIA partners with Medera to advance cardiac gene therapy and human organoid platform:1785931305000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "IQVIA partners with Medera to advance cardiac gene therapy and human organoid platform",
+      "source": "AllSci",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXROcjlqbDktOWxRVWdUbFB2cXhWc0tOanpXVUU1bWM2M1lpdDlWSy1CSzNDbE12Xy1ndVktbDgzd25VU1duMVM1aE1NcW9PRzgzV0dBT1dRdGpWQnpCdzJHaGJoQXdMOHpQMU52bXFCZzZTa3pIOXFKZF9TbVZNUEJRTktReXNhYk81RE1UclNWUWg1SHlsUXNxQQ?oc=5",
+      "summary": "IQVIA partners with Medera to advance cardiac gene therapy and human organoid platform &nbsp;&nbsp; AllSci",
+      "pubDate": "2026-08-05T12:01:45.000Z",
+      "collectedAt": "2026-08-07T04:33:47.294Z"
+    },
     {
       "id": "industry:Slotkin, Ricketts Introduce Bipartisan Legislation to Keep Biotech Industry in America, Not China:1786058100000",
       "category": "industry",
