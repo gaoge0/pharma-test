@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-08-07T21:02:31.762Z",
-  "count": 472,
+  "lastUpdated": "2026-08-08T03:45:47.522Z",
+  "count": 480,
   "items": [
+    {
+      "id": "industry:3rd Circ. Says Pharma Co. Suit Against Merck Belongs In India:1786151460000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "3rd Circ. Says Pharma Co. Suit Against Merck Belongs In India",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EOVA4ZkQ2THV5akpqRG04ckpWTUNCWWFqeHh6SWxvQUh2SmV4TVhRZXM4UDBrc0tNLTdBWWlwOHhNbkl3eXdwZG9RYkpTZ0hxZHB2NnlR0gFWQVVfeXFMT0Q5UDhmRDZMdXlqSmpEbThySlZNQ0JZYWp4eHpJbG9BSHZKZXhNWFFlczhQMGtzS00tN0FZaXA4eE1uSXd5d3Bkb1FiSlNnSHFkcHY2eVE?oc=5",
+      "summary": "3rd Circ. Says Pharma Co. Suit Against Merck Belongs In India &nbsp;&nbsp; Law360",
+      "pubDate": "2026-08-08T01:11:00.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "industry:Sihuan Pharmaceutical Holdings Group (SEHK:460) Following Profit Guidance Why Valuation Still Looks Pricey:1786148220000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Sihuan Pharmaceutical Holdings Group (SEHK:460) Following Profit Guidance Why Valuation Still Looks Pricey",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQei1YTm5KalVOZElNZjFCSUtPUjIwUzkyZ2NoYVg0SklyLUdWbEo5Z296Y25zVDJKanRvU2V3TFRER1l1eE5sRllMcXVEVDBfekFFQXk2RkVXVjFUM3JIejFnX2pQSFNMR1U4VExySUh0LURPZVpGdFd3bExMbE0zSEpkbFJRM3BVdGFLWUphNllYcFM2WHVLdkVVWHRVQW80dGlDTA?oc=5",
+      "summary": "Sihuan Pharmaceutical Holdings Group (SEHK:460) Following Profit Guidance Why Valuation Still Looks Pricey &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-08-08T00:17:00.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "industry:Russian strike damages major pharmaceutical warehouse in Ukraine:1786140852000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Russian strike damages major pharmaceutical warehouse in Ukraine",
+      "source": "International Rescue Committee",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUp1SXd5MGQ3NXlqZDhKZVlYLTlHRVYwVnFDT0QyVzdlVEpkdWtQaFVBMWJnM3ZXMjM1cUd1ekQ2NDllaXdVeGtuMGJQQldkU2ZwY0tSTVVJOXQzT0JoVTRpRWlGVmJsRE93MHRIejluNHU2MHV1bGYxVnJTb3NIQTZZNF9GYzg0SmlaeEJ4ZTZiTXRRajlubHo1Y1VHYUk?oc=5",
+      "summary": "Russian strike damages major pharmaceutical warehouse in Ukraine &nbsp;&nbsp; International Rescue Committee",
+      "pubDate": "2026-08-07T22:14:12.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "science:Steve Pakola on Leading Clinical Development Programs for Rare Diseases and Gene Therapies:1786138767000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Steve Pakola on Leading Clinical Development Programs for Rare Diseases and Gene Therapies",
+      "source": "Lakeland Currents",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdWltOTBsNkdmZlVVMDE5bzBGOGIzeUlDZ0o2cGRmSy1KaUxydnM5NnhJRy1SMnVuc2tTVW5FV1FjQ1JaY0tHeERjYlNhMk5zVnB6MzRJNmp3M2RwLUdLdnpycjZOT09IVHdBcGN1S2NXVUZZODY5NEZvSUNhS2N6NHJvWFZPaXNvc0JldWhfc2RWYnJTV0NGazBCSEtudFVOMmtOMWEzRUZxWG0xWlc1TGRFTVNSWWliNVFDbw?oc=5",
+      "summary": "Steve Pakola on Leading Clinical Development Programs for Rare Diseases and Gene Therapies &nbsp;&nbsp; Lakeland Currents",
+      "pubDate": "2026-08-07T21:39:27.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "industry:Orrick Advises Cy Biopharma on Acquisition by Ensysce Biosciences and up to $77 Million Private Financing:1786126634000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Orrick Advises Cy Biopharma on Acquisition by Ensysce Biosciences and up to $77 Million Private Financing",
+      "source": "orrick.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXRXOUpuWTQtc0VGaGJtQkIwb0VYVlh5T3VIdjZwLWhrc183ZTRFM05rTkhxM3E5ZXEycnNKeC1vaDBqMlFFYnIzY1FDT0pIODQ2ZEljZVoxUi1WV2x1NmJDRktzZ3Jldnk1QjJpYXphRjZKYWtoNEdUN2tqWUxTeTY3OG51SWpUXzlEVmJjeGtlT2R0aGpPcTZqRVJ2Qld4a0dGTHFGTQ?oc=5",
+      "summary": "Orrick Advises Cy Biopharma on Acquisition by Ensysce Biosciences and up to $77 Million Private Financing &nbsp;&nbsp; orrick.com",
+      "pubDate": "2026-08-07T18:17:14.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "clinical:Tarsus pays $450M for Alkeus and its ph. 3 retinal disease drug:1786026600000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Tarsus pays $450M for Alkeus and its ph. 3 retinal disease drug",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2xoSkdBZlZVSXV1QVJwbHpCNGV1XzVpenctbnZrQ1VHYkF4TURBdHFTdWVOLXA5RGRaYm9GNTZoMjFXYjRhX3QxMVVCeVJJZFp6N2drRDNDUW91b2NSTjVZdVBrYm0xTE1mZzRYenRwSjMzeXRHYmJFS3NiQXdUMEZkTm5iWUR3QUpmY1ZMNzFUakJOaVhR?oc=5",
+      "summary": "Tarsus pays $450M for Alkeus and its ph. 3 retinal disease drug &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-08-06T14:30:00.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "china-policy:北京市药品监督管理局关于批准注册49个第二类医疗器械产品的公告（2026年7月）:1785913200000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "北京市药品监督管理局关于批准注册49个第二类医疗器械产品的公告（2026年7月）",
+      "source": "北京市药品监督管理局",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xZTRmbHlvc25HVmtLWEVkM0tJM3BfYU9KWVd6X0hHSnRpamNBUGNwcXFsS1RPTTBEa05hTkRHQjNSZ1dyVnY3UGdmSGdOT3IzRWdQWDMyd2g2Z3hLdzloWUpLZC11bnNvTTRVU2NMbEM?oc=5",
+      "summary": "北京市药品监督管理局关于批准注册49个第二类医疗器械产品的公告（2026年7月） &nbsp;&nbsp; 北京市药品监督管理局",
+      "pubDate": "2026-08-05T07:00:00.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
+    {
+      "id": "science:IQVIA and Medera to Advance Cardiac Gene Therapy and Human-Based Drug Discovery:1785875440000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "IQVIA and Medera to Advance Cardiac Gene Therapy and Human-Based Drug Discovery",
+      "source": "manilatimes.net",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOTQxNkppLVN3QzlCVWs5ZVktbUIxUWFtQUlKUGRBd0Q3YWV6aGhsZGRQTFRVMnFxLU9LVXFsbEV4ajkzSnVQX2pyTWliRmRkVTNZZVl3ck9MSTMtSXNDeG51WW02R0FDNlc2S1VjVFExRHc2UFM4T3lTSV9qVE9SZGNnUkVBQkNBY2NqWGwzVkNsbU11Vzd4UFZfSFItWUkweWtVSHRTbTNqSm9jSHhIYnI0cDNYdkFGM1ViV0ZVTXByVXpnS0tvdlhZUXkyYTE0eXlXSXBpaWE0dGxjN2VwNlVCckJ2dHlr0gHuAUFVX3lxTE9KQlBUNjg1Q2hMZlI2Y3dNQ3NiQkxsY0VPanhFa2Y0dTk2QkNQYVFPSzEtVG1Uc2lWbmhTeTNJRkx4VG1oWnNrS0xCY2NqWXp0cERYQkphU19lUXVKMUtxc1BHaWdFbUpHOXU2WVl0TTlVMnUzeHFxR3Y0bmRJVUFrZzN4SHRaWXZ1Z3A2NHZzTnlmaGF5ejhEWk0yeDU4VHVFSVUyT1dMSWdiejFORlp5UFd1TFRTV2hDamQxRjJESnNRclhiTVQ0WGJWaVJMTEFlRU8yMG02OU83UGprbG5fVVMwRmp1dDdxRXUybFE?oc=5",
+      "summary": "IQVIA and Medera to Advance Cardiac Gene Therapy and Human-Based Drug Discovery &nbsp;&nbsp; manilatimes.net",
+      "pubDate": "2026-08-04T20:30:40.000Z",
+      "collectedAt": "2026-08-08T03:45:47.522Z"
+    },
     {
       "id": "industry:The New Pharma Patent Battlefield: Litigation Strategy for the Next Wave of Life Sciences Disputes:1786133793000",
       "category": "industry",
