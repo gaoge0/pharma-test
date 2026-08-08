@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-08-08T03:45:47.522Z",
-  "count": 480,
+  "lastUpdated": "2026-08-08T09:03:50.260Z",
+  "count": 487,
   "items": [
+    {
+      "id": "wechat:- mp.weixin.qq.com:1786165926000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- mp.weixin.qq.com",
+      "source": "mp.weixin.qq.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00X1VOZUVCbElUVXpjWFlRTG44OGJGdTNtaThMT1MwMmhNeHRvVkYtLVk0bzVKNWpMQWFpVWRYSHhJcXh1cElwaWhkQXhsUG50eVg3dUtoTnpBdUtMX1E?oc=5",
+      "summary": "&nbsp;&nbsp; mp.weixin.qq.com",
+      "pubDate": "2026-08-08T05:12:06.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "industry:U.S. IPO Weekly Recap: August Kicks Off With Flurry Of Biotech IPOs:1786163400000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "U.S. IPO Weekly Recap: August Kicks Off With Flurry Of Biotech IPOs",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXNXeVk2NEFfdXZGOHRScDNQVWpfa1g3MTRGV1lrZ04zRUpER2tjU0lUUDZMU3NNd0hGNDVSUkRXbmxyakthU21uTmJ1M2g2c0J6MkdtSEJKNWhVaGcwZHEwMGJFMENZVjRNUzBuMUFuMXJxLTRsdWNTdThzcWdYQUJlakFUdmQ4RS1ObUFB?oc=5",
+      "summary": "U.S. IPO Weekly Recap: August Kicks Off With Flurry Of Biotech IPOs &nbsp;&nbsp; Seeking Alpha",
+      "pubDate": "2026-08-08T04:30:00.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "china-policy:【视频播报】离开本市去外地工作，职工医保关系这样转！:1786108100000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【视频播报】离开本市去外地工作，职工医保关系这样转！",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHRvbTQtemRNOHdLdXczQkx4eHQ5U1gxQlZRa0RReDhaQ3dNa2wxbUMzVGx3bDFWNVZSQk9ZeUgyNFB2SVZyMjVsQUNrOXBCdDFPSzRzNG5MNktJemJHTXdpQzhmX2VxeTltaW9SenZ6d0M5cXhtc2l6VDZCS0lQaVljdGdLZ1Fz?oc=5",
+      "summary": "【视频播报】离开本市去外地工作，职工医保关系这样转！ &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-08-07T13:08:20.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "regulatory:US FDA approves Replimune's skin cancer drug after prior rejections:1786051841000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "US FDA approves Replimune's skin cancer drug after prior rejections",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzRDTVZPLXhNYTNDWDYyVXZTemQwOXJNQVlVblBvZHVpbUxPX0dQQzVRVTJIT2h5ZmFjVGlOZjNScjRPT1FveDliRmtNdEh5WEtNWUF4Sk5xVi1qdV9aQ3A3eEZvWHNGUDFCWGNhT0ZEb2gwdWw1amRPWkJ2d1M4em1VVVZCdUM3YW9JLXhMamVWOUFseVZnNTd3OWFwaFdWdy1VNVlITVVqUWR6dFYzZ0xFRzlGZw?oc=5",
+      "summary": "US FDA approves Replimune's skin cancer drug after prior rejections &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-08-06T21:30:41.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "manufacturing:Manufacturing Strategies: AstraZeneca:1786050000000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Manufacturing Strategies: AstraZeneca",
+      "source": "DCAT Value Chain Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQX2xIZWU2WVlHWFNOcVZuVXZFdy1WSndMenEzQUhRVkdHNTB4anMtaVJvdnNVdUVqdEtoZTJ6VGFaRld0ZDNzMkxzUVh3bldUY3g5RjF5MUgxbm5fbUVPLU9PdzFoVVNQaVNGbnlMSmlRLXgwZjRyTGNR?oc=5",
+      "summary": "Manufacturing Strategies: AstraZeneca &nbsp;&nbsp; DCAT Value Chain Insights",
+      "pubDate": "2026-08-06T21:00:00.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "science:Eli Lilly Cuts Gaucher Disease Gene Therapy From Pipeline:1785958773000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Eli Lilly Cuts Gaucher Disease Gene Therapy From Pipeline",
+      "source": "precisionmedicineonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnNRYjAzYXN3MzVDZGVtR1ZaTGowd0tCNFl4bFFlVEYxX0JEc1IxcHViR0l5dldlajBWLWZHLXc3R04xbDJvNklLOWZfUXFjaEg0NFhkbTVVTFlHUGVrTl9TQnVRWGNuSnprZE5Udk1Pd0FTVW43WmYzQVY1STNlU2ppeGhhRXpFZE1kdk1lRDlMbkwyamNXLVFESkplUmpsMXRfMXBMWlFHZw?oc=5",
+      "summary": "Eli Lilly Cuts Gaucher Disease Gene Therapy From Pipeline &nbsp;&nbsp; precisionmedicineonline.com",
+      "pubDate": "2026-08-05T19:39:33.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
+    {
+      "id": "manufacturing:Virtual reality holds the promise of filling medicines manufacturing workforce gaps:1785765406000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Virtual reality holds the promise of filling medicines manufacturing workforce gaps",
+      "source": "The Pharmaceutical Journal",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUprcVI2RzNNWFBKMk1OX2k1ckZzNHB4X3VmR2pnVGFRVXJmdmhYNXU3eExZc2swZ3A2R0RSRVVTOVBUMk9PRUo0X19faTFYaDdQa1VkbUhrdmZyVFhrdVVDX0xNTTlsd2pkZUxaOHUtWk9rcld2VmU5RVpPdHZEaFY2RXV2SUVReDFWN0x3Ym5MWVFSSVdGMU5sU3V6M2pEVkdPbGYxSzBqYnRsTG5Sb3hBUld1ZmgtMWEyelZ0TmNZV3lmeElfQnpBekdhZ3c?oc=5",
+      "summary": "Virtual reality holds the promise of filling medicines manufacturing workforce gaps &nbsp;&nbsp; The Pharmaceutical Journal",
+      "pubDate": "2026-08-03T13:56:46.000Z",
+      "collectedAt": "2026-08-08T09:03:50.260Z"
+    },
     {
       "id": "industry:3rd Circ. Says Pharma Co. Suit Against Merck Belongs In India:1786151460000",
       "category": "industry",
