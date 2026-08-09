@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-08-09T03:54:26.457Z",
-  "count": 521,
+  "lastUpdated": "2026-08-09T09:04:58.682Z",
+  "count": 530,
   "items": [
+    {
+      "id": "industry:Empowered Funds LLC Increases Holdings in Teva Pharmaceutical Industries Ltd. $TEVA:1786262981000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Empowered Funds LLC Increases Holdings in Teva Pharmaceutical Industries Ltd. $TEVA",
+      "source": "MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObzk3Ti1EUXpkbFhkeS1lYnNwb0llTnQwY3B4bS1DNmtVTVdKMFR2RU81T0tkSG1Nd293NzgtV1RidmdpTmpXRWUyRkNFWVQ5V09BNENybzVqWUZDLWd4NTk2OU5zc2Q3RmxVcEZzQXRPU2xwQ0NIZ3lFdHhCbFNSWDA2QW8wWkc1RWpTc3J6QXpHZk5tX2hGSV9PdHp4QnVoUl9XMTVlRGVVNTQzZTB6REUwaHVMNjhfZ1FFUWQ1S28tUUdsXzFKUW9aLXJ0RXZyTnM2R0haa3VmUQ?oc=5",
+      "summary": "Empowered Funds LLC Increases Holdings in Teva Pharmaceutical Industries Ltd. $TEVA &nbsp;&nbsp; MarketBeat",
+      "pubDate": "2026-08-09T08:09:41.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Enveda CEO Viswa Colluru on AI and biotech: 'we're at a unique moment in time':1786259643000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Enveda CEO Viswa Colluru on AI and biotech: 'we're at a unique moment in time'",
+      "source": "qz.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSEtia2RmMjcwektFam5vNkdzcmNZY1JZS21WTlJKY2pOVDJsLXdwWTIzUlJ5MmFqUDFJZ0E0YnpoWHFRV2FJMzdOeTdFc1cxMWU3QmNIWVE3V1YtYmpLYTNwT0diVGxQb0RLUjdkelFYZw?oc=5",
+      "summary": "Enveda CEO Viswa Colluru on AI and biotech: 'we're at a unique moment in time' &nbsp;&nbsp; qz.com",
+      "pubDate": "2026-08-09T07:14:03.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Vor Biopharma Inc. (NASDAQ:VOR) Receives Consensus Rating of \"Moderate Buy\" from Analysts:1786258685000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Vor Biopharma Inc. (NASDAQ:VOR) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
+      "source": "MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnQxcmhfRTJfT2NyakVxTHc0cmp5aC10VWp0aGdJR2J3ZTdZd19mWmpmcTNiYjRqZDRwSzhzRlc4SGxCWXlUM1hscjh6VlVTVDMxc3JaREtpODU0RkFIT3lha2NlQWNjTjc2ZXJ3aUczZGFSU095VUxuQnpwMzljWFNTZENNMjdlaWlGd1k3T3lKajdyMktGWDJKLWlmbFJXNkNWNUxmVlR3cGtSR3MzbV8xTE5ZNUZnekY2QzJUZWtCZ3IxQmhQUVJNZmI5MzlSTHRF?oc=5",
+      "summary": "Vor Biopharma Inc. (NASDAQ:VOR) Receives Consensus Rating of \"Moderate Buy\" from Analysts &nbsp;&nbsp; MarketBeat",
+      "pubDate": "2026-08-09T06:58:05.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Chinese biotech firm wins initial court case against Pentagon blacklisting:1786252574000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Chinese biotech firm wins initial court case against Pentagon blacklisting",
+      "source": "China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qTzNrOWZabEU3M0Y3cGhUTVBLVjFzRkJBNzVEQW5leXN1bE5COU1raUJCV2Z6bFh0MnVIeG1sZkFhb01fdGF0YUNnLWI2ZFRkZDNSTGlQZWx2cjhwYmlnU200RDRsX1VYQklTRnpMRzhiU1gtSXlaWUxER20tZw?oc=5",
+      "summary": "Chinese biotech firm wins initial court case against Pentagon blacklisting &nbsp;&nbsp; China Daily",
+      "pubDate": "2026-08-09T05:16:14.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Has BridgeBio Pharma (BBIO) Run Too Far Ahead Of Its Valuation Narrative?:1786248392000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Has BridgeBio Pharma (BBIO) Run Too Far Ahead Of Its Valuation Narrative?",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkpLYllmNGl6T2o0MVMzaFFpX2MtUWhTejdkdjFzNmc4TWVmMVlnLTdaMkJ5MDVXVzNkb092UURMcmNvaGdCUEZJY3ZDZktlbFlUN0RsZXFfdW9BN0kwRktKU1Q4SF9jZ3FjSVdiNWJ2U3dZdkxEWGY1ZWtuOHV3bHl1SGItbVEwaGI4MTNoR2RsUnRMWC1WOWxib3pkZGtSVGRoSlAyTUo1WkEwMk9FR09DdmdWSEVGQmdJM1ozZzlpTWJTclhwc2ZvcDhBMmhKWFZmS2c5WWljX1QwTlg0TVhhdFbSAeoBQVVfeXFMUE9RUnFBZGxROERlY0l5OThwWnFXVzBGQkxEYVVLdHR2S2RlWjBaSDZ6b3hNTVJhd2F3LVl5VnhIZUxTd21LY2UxOEg3YjIxMnZOSTBhODhhd2xFZG5TbkdzZzBIN2tCVmRmblRMOWprb014SUhqMWhyLWNNbEtmMlRxbjFvdXVRLUY0aHYzRUNHM3Z5RTUtNGZKUDFHNDZZNUlBMTZrMENMU25MaDNsQVpocURIWHhObEtNOUdjVF9oXzFZRjN3YXoxYmJuUHJUTzNrNHk1STA5ZzV6MUsxeVlzZGZod2Mza1Zn?oc=5",
+      "summary": "Has BridgeBio Pharma (BBIO) Run Too Far Ahead Of Its Valuation Narrative? &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-08-09T04:06:32.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "wechat:- 微信公众平台:1786246929000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- 微信公众平台",
+      "source": "微信公众平台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBua0Z6OXR5OUU5dHhueHdPQ0lHMWZOcEVVWHZ0MHRBYjFoaEFZcU5WU3Vpa3BNUmFuWXNxbTRJcTJSUmNfMVNDOUVINTkzc2JUcENXbERIWU16aVNjV3c?oc=5",
+      "summary": "&nbsp;&nbsp; 微信公众平台",
+      "pubDate": "2026-08-09T03:42:09.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Biotechnology Stocks To Watch As Investors Look Past Pfizer’s Covid Revenue Drop:1786243568000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biotechnology Stocks To Watch As Investors Look Past Pfizer’s Covid Revenue Drop",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdFBxZkZsVlB4c2NON1RNcWlSZDBCZ2x4ZXllSzJpSmtuN3RuY0tDTkhidmRkYmNwek5FOU85Rk9oQUNPNlhmTm1jU2czR1lhLVhqbDR4T1gyVTV2ZTd3QUY3Rks1T3B6NUhQTXF1X1Fyajl2TTJnOUhTWEJhVEhULUhhTFBZVTRESHpmRXFMUk1qRGh4cTB0TTRRbnVIREs3QjVXLXUxNVlKOXV5YU42TmJYa0M3NzVXaUdmYS1ONmg3QmRXbUs5NVlIUVdvZFJRM0Q4bU0tWlA2Njk4SDBNOTRn0gHnAUFVX3lxTE5IWUhrUVUydWNPSVZBTVdxLVM5LUxPTWM5NFliS2I5bW9vVV9MWUtRMmVXeXFHOGlMYjBFY0lWOURPUWlROHpNYXFmVVhhQVl0Z3cxSlNYNl9IckdmQnJob3dQcDV6VVM5Wk5CRWRueHZyU09tYWwtRDNVZTczT21TZHNNeWJ1emFFM0ctd0NlcG5WcERDalV6ZnR0MkljSzJINXhXaXRyVkVaOWdqLWNEaDg1YmNoVmpUSkYteWRfRHhWbWFwZXVoYzVSYlEwZE5XZndibFh3WTRONGQ2a3lvNTdpNmRvdw?oc=5",
+      "summary": "Biotechnology Stocks To Watch As Investors Look Past Pfizer’s Covid Revenue Drop &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-08-09T02:46:08.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "industry:Should Xeris Biopharma Holdings (XERS) Be Revalued After Strong Q2 Revenue And Fresh Guidance?:1786243567000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Should Xeris Biopharma Holdings (XERS) Be Revalued After Strong Q2 Revenue And Fresh Guidance?",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTmJrS1JJYkkxUm5TRkR0X0ZOTGlURXVUOHhKQmJkdk5ibDhrTE1QVzlvWFdWOHlRRlBzbVhyU2p6OHFSdTY3NVVCWjZkM0tZdzZMREhzSHh1V2ljWFY3dTFPSWxmQkU4N2ZxNFZHREhZTThiVkZIX25nUmNpb0JSOWhnUGoxbzZRcDd4SnZsa0wwQl83WVJpeGtWLWxGVmhZbGpBaGszdS1hSGszeUZ5dXM2MWh0Tm45Y3NHbUllam1DaTRjZUh1NTYwTjlBNjZSR3Y2OFNiRl82RXNCMVVCejlvRUpubjkwOW1kX3M4Z9IB9AFBVV95cUxPYy0xbnR6Wmt5SWxEZUVOSTZOMnk1aWhuMTFLNnVORHJLS2l1S0RoTDFRZm5PMUxGMzVYTEw2eEdsX3FLM3JJc1UxYVBCQkgzb2FOU2xrSnZ6Vm9lanQ0NF9iVVViR29TbEJMT3VGeldCelF2Szl0SkdPaU9kR2VRNWJYSmVoeXQydWFpd3lOR2k1YzI0OWR6WXA5SXM4Tm5Ubk5yNl90eUR4QnRUYTZYMzdmaUNDSzFreEVZdklWbEJyY2dZTUtIZnhBV1EwYXNzOEktZUtLUDlqRVYzQ2xNMktlS0R3Mi1UaFlWd01kT1BrdlRn?oc=5",
+      "summary": "Should Xeris Biopharma Holdings (XERS) Be Revalued After Strong Q2 Revenue And Fresh Guidance? &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-08-09T02:46:07.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
+    {
+      "id": "science:IQVIA (IQV) Teams Up With Medera To Push Cardiac Gene Therapy Forward:1785951920000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "IQVIA (IQV) Teams Up With Medera To Push Cardiac Gene Therapy Forward",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEdDMHpiTkVWNDlRN2Q3ejVXRjJNOV9UUkZITkF2REgzLUtNamVfX0dUakRNOGlaNUZOV3llRjF5dmhqVWpjNnE4azFYMDliTlYzc2VReTZoZkdnSGtNN0hqbi04YUYydlJNRmNNUnhvQnR6MnljRmZIcktfdGVzWWYtZ0Fya2hVckljYlp1WkdKY3V4eVR2X0RTRUZJczgtN2hQdTZhakFYUDBLY3lnSjBOSWZ1RGVRWnpnd2xFd1d2aFRIam9pVUE2R0pwU0xIR29jU1R3VldwS2Z40gHiAUFVX3lxTE9fT3hlOC0xU3gtVGItVDFVejkxZGx1eDY4V00yamNLTUJrbHdVUXFmNjBuaHA3dVJ4WHJvbzFzaFpvczdXZVZrWXZmY1RfWm9SdTBKMGFmT1NhdHZfbmxETzNPRlB0MG9XVHo2RjRodnpONkRsOTMyWmNUeGRiSThxV2NjeTBOZ3BXcmtFeUNPQ2p0Z3BvX2thbmlxem5Nazl3Q3dqSVNKWElBdFVRV1VzTklpNkRfN0ZsQWFfWFpHX2ZwM2ZuLS05ak5HVk8zeG9ya3hGUHo0cGluRGRnbnJPenc?oc=5",
+      "summary": "IQVIA (IQV) Teams Up With Medera To Push Cardiac Gene Therapy Forward &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-08-05T17:45:20.000Z",
+      "collectedAt": "2026-08-09T09:04:58.682Z"
+    },
     {
       "id": "industry:Has Ultragenyx Pharmaceutical (RARE) Fallen Far Enough To Avoid Overvaluation?:1786245720000",
       "category": "industry",
