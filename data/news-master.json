@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-08-22T03:09:44.247Z",
-  "count": 1291,
+  "lastUpdated": "2026-08-22T08:50:39.941Z",
+  "count": 1294,
   "items": [
+    {
+      "id": "industry:Zentalis Pharmaceuticals:1787371797000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Zentalis Pharmaceuticals",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMRXU1SmZsOVQweVBsNVlBRVdXcE5kMERBcWFXVEhMYWVnbU5IN19xSWduMzNNZjRZazRsUkRuZEl3VVRKWGllRmpvUWlmUHdVYVNqNEVXRTZ2blJCdEVPYmdsMFR2MFVZVkh1U3lzaFlnSW8yZkZKNE1R?oc=5",
+      "summary": "Zentalis Pharmaceuticals &nbsp;&nbsp; The Pharma Letter",
+      "pubDate": "2026-08-22T04:09:57.000Z",
+      "collectedAt": "2026-08-22T08:50:39.941Z"
+    },
+    {
+      "id": "industry:AI Translators Needed! How to Integrate AI into Biotech Research:1787371314000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "AI Translators Needed! How to Integrate AI into Biotech Research",
+      "source": "the-scientist.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWVZRm1HdUdoNlVpTzV1M2g1QV9iREdjVFk4VVZCOUJNVGQwblhMQkNNYkp6clR2anUxelpuTm5zMVNhazZDbS1McHZCbE00TWZkOFhqZkg2NnZQZ3gwWHlLa3lFR1I4bk05UGMtUmc3SFlxV3J4MXVzdnh3Ylh1NkxMbGhsTVB3WTF5Z2dhYXNMUWlCd0oxRnNBSUswYkdE?oc=5",
+      "summary": "AI Translators Needed! How to Integrate AI into Biotech Research &nbsp;&nbsp; the-scientist.com",
+      "pubDate": "2026-08-22T04:01:54.000Z",
+      "collectedAt": "2026-08-22T08:50:39.941Z"
+    },
+    {
+      "id": "industry:Finance Watch: Biopharma IPO Activity Booming In And Outside Of The US:1787345760000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Finance Watch: Biopharma IPO Activity Booming In And Outside Of The US",
+      "source": "insights.citeline.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbHBYWWwtOXlxeG52bzBQSmsyTDVpNG9DSjgxamR6TE9qcnE1VFlsVVdXS2sxSEpIekpCZWc1dXVCbjNNQ2liVjlRc3habkxCOTVIaHVzQkk5Wk1pZ1ZBVzhsM0FfVDR1ZUwySVZMVFJEN0tGUmdvekpEZXI3YVJpc2puZF91UTRuR3Jyd2lkZVRFUXZpY1VXSVZnd25ueWllUWZfWmhfbVpUeWdKNkZfZlhIRmtGRUxwUVRJa2pmRktvVGFMU1ZhUEhXYURsYm1sRmtaRHIwSDJkbGpyRlQzakQ4TUZ3ckZGcGZkci1YNVU0RjZndG84VkZB?oc=5",
+      "summary": "Finance Watch: Biopharma IPO Activity Booming In And Outside Of The US &nbsp;&nbsp; insights.citeline.com",
+      "pubDate": "2026-08-21T20:56:00.000Z",
+      "collectedAt": "2026-08-22T08:50:39.941Z"
+    },
     {
       "id": "industry:Celon Pharma's generic semaglutide drug matches Ozempic in early study, shares jump:1787360094000",
       "category": "industry",
