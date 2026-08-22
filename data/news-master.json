@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-08-22T14:41:27.950Z",
-  "count": 1300,
+  "lastUpdated": "2026-08-22T20:42:32.589Z",
+  "count": 1308,
   "items": [
+    {
+      "id": "industry:Binghamton University’s Doctor of Pharmacy Class of 2030 receive white coats:1787426772000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Binghamton University’s Doctor of Pharmacy Class of 2030 receive white coats",
+      "source": "Binghamton University",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHdyYVlVb2gyQmVQb1RBOThVXzB2TE9pdFM1OHptY2VOZjhDSUo3R0lBcnl3QnNaSVg4LU42cHdlb1ZjQy10dDJ5X0N2eXNBWXJiRTM3Ul9KR0ZMVTJSSERfRVcxYUVBdnhlVWh1ZGI1MkwtUk5wVDJob1BvSXVkeGRuSDNSUlJMU2lLMktEN2xESFdKSDBqdkhvNHZNTWJWdlZMQmJiaTBZa0FLbFhhSjNvYndxQ2VPWWc?oc=5",
+      "summary": "Binghamton University’s Doctor of Pharmacy Class of 2030 receive white coats &nbsp;&nbsp; Binghamton University",
+      "pubDate": "2026-08-22T19:26:12.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "industry:Biotech ETF Showdown: Why a 251-Stock Basket Is Beating Concentrated Rivals:1787422020000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biotech ETF Showdown: Why a 251-Stock Basket Is Beating Concentrated Rivals",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2WU5sLWF2VDFnbFpaeW9jRXlJSzkxckk1Z18zcEdERG1fekZnanZ5OGtKYUZKUDlrQzN1LWZZdmloR01VLUVlaEZWeC1HM3UzN1VrVG5KQ3RPcktuajFfVXotQUExTEhIVE5pTmRvY2NWbW5JRkE?oc=5",
+      "summary": "Biotech ETF Showdown: Why a 251-Stock Basket Is Beating Concentrated Rivals &nbsp;&nbsp; finance.biggo.com",
+      "pubDate": "2026-08-22T18:07:00.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "industry:IIM Ahmedabad Launches Digital Archive Tracing 125 Years Of Indian Pharma:1787415502000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "IIM Ahmedabad Launches Digital Archive Tracing 125 Years Of Indian Pharma",
+      "source": "BW Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdm5mZmhDaWJhU3N4eFlCekU2em1mWkZfNDBLMWtmSUl0LXZZejB3eElnbm5NMlZ0Y1RNeTY3UXdFLUtCTm4wNTAtSWxpNnR4SjRsM0ZfVXl5TTRyTG5kZGI5bVNwS1NGbU40QmR0dDBES1lUZ0FUMmJMc2JEMnRFNVdSdHZINm93RkEwRlpNakNIY0ZjWkJ1TmdYUWxiY1NjNnBlTmtOZmE4aGxkcXpnUURITnp2UHFkVWhHeWpqVQ?oc=5",
+      "summary": "IIM Ahmedabad Launches Digital Archive Tracing 125 Years Of Indian Pharma &nbsp;&nbsp; BW Healthcare",
+      "pubDate": "2026-08-22T16:18:22.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "industry:Assessment of neurotoxicity and oxidative stress induced by environmentally persistent pharmaceutical pollutants:1787413253000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Assessment of neurotoxicity and oxidative stress induced by environmentally persistent pharmaceutical pollutants",
+      "source": "Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oTTZ6WG96SzR0SmVKcUdCT0ptRVVmVmpvVjVvb1A3Y1YySkRtRzNwLWNLSW9PdjlmWGVLN2xKcDhYVXFOdDlySEt2R0xwR1phYUVqNUpISWM4cGljYTBpREZnYm1ickJjMFN0MA?oc=5",
+      "summary": "Assessment of neurotoxicity and oxidative stress induced by environmentally persistent pharmaceutical pollutants &nbsp;&nbsp; Springer Nature Link",
+      "pubDate": "2026-08-22T15:40:53.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "industry:Ascentage Pharma: Product Sales Jump 33% As Olverembatinib Hospital Coverage Expands 34%:1787412005000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Ascentage Pharma: Product Sales Jump 33% As Olverembatinib Hospital Coverage Expands 34%",
+      "source": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzNRVEdDVW81aFNQdFI3aVQ0UVloMTV3aWdpWHVDeXZQZUVIMjlEOE52OFIyeGNwN0RaWGgzRGd0b3JtTlAtSTZPeXVmb3NWTlZBTUFJWmxGVk5rNV9vNjVERGZnRmY5QWcwZmROSEEydkQxVms1R0tRXy1VYmNrV0N0bEJKYWJpMkRPYTY0Q21WRTJNczRlOTlKckZVNDF6WmxkWDFoYXPSAa4BQVVfeXFMTkp6d2dTc1oxSjdBVVdEcGh6ZE9sTnY5elh2bnBFQTlTREhtZnZ2Q1dXci1ueTM4NkZ2NWJTRXg4aFpvTkdtSmtzMWNlVTBkcWlYQ1laMTl2dnFxOEJCV1lXbW44UkVjNU0xekZ3VzZBTDlYMGRqa1p0WG1HQjcxcHo3NlcwYm90TWhvdEVXbDBJM0tEeU5iU3lFcmY1UXpOTWVhT3p3dkluRzNUVm9R?oc=5",
+      "summary": "Ascentage Pharma: Product Sales Jump 33% As Olverembatinib Hospital Coverage Expands 34% &nbsp;&nbsp; Pulse 2.0",
+      "pubDate": "2026-08-22T15:20:05.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "industry:2 Biotech Stocks Shaping Up for Major Breakouts:1787411533000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "2 Biotech Stocks Shaping Up for Major Breakouts",
+      "source": "MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVdhSnFvWXFfMllNS1d5THBZWjZfVkMwcWZ1Z3FFdl9sZTFIb2Npc0szVE9tTUVFbkpiMFlyUl9iQnhxZndwRnNDLVVoS2V5TWEtVUtHcjZQZEVmUXVReWxnaE8wR2wtWXBMbmVWdjNzdnBxUmNfczdkYWR0MXFMRUwtWnJSenM5U0tEdQ?oc=5",
+      "summary": "2 Biotech Stocks Shaping Up for Major Breakouts &nbsp;&nbsp; MarketBeat",
+      "pubDate": "2026-08-22T15:12:13.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "clinical:MSD, Moderna skin cancer vaccine scores historic phase 3 win:1787152013000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "MSD, Moderna skin cancer vaccine scores historic phase 3 win",
+      "source": "pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0owQmxGejFxTnczSEtBUC1qS09VeWxXNVJHRHZHNndxdDVTS2ExcFpOX291eG4wVVQ2cDE5T2NOdVdkQXE1YVRwcVFUOUVBYWZ4TGp4X0RJSC1wZWdVWjM1dk1EOXRWVFZqRTVFRUFxdjhKWE4yLXp4OExZLTJKUng1QjJ1MnZWS3k5VGc0NzM5NUk?oc=5",
+      "summary": "MSD, Moderna skin cancer vaccine scores historic phase 3 win &nbsp;&nbsp; pharmaphorum",
+      "pubDate": "2026-08-19T15:06:53.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
+    {
+      "id": "market-data:西普发布·产业蓝皮书 | 银发经济浪潮下的中医药焕新：3332亿市场重构，谁在定义下一个十年？:1786809180000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "西普发布·产业蓝皮书 | 银发经济浪潮下的中医药焕新：3332亿市场重构，谁在定义下一个十年？",
+      "source": "QQ News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCU0J1bHdQdkYwQW9NdHBVTmI5NHltR3RkWXpWejl4TUZxRUpvQ0ZpLW53dWhNWkgwT0kxMWZmWldqbUphci1BM0hjOFhHdmdNUmY3OWp3?oc=5",
+      "summary": "西普发布·产业蓝皮书 | 银发经济浪潮下的中医药焕新：3332亿市场重构，谁在定义下一个十年？ &nbsp;&nbsp; QQ News",
+      "pubDate": "2026-08-15T15:53:00.000Z",
+      "collectedAt": "2026-08-22T20:42:32.589Z"
+    },
     {
       "id": "industry:Possible Turnaround For Burning Rock Biotech Insiders, Still Down CN¥1.4m:1787403891000",
       "category": "industry",
