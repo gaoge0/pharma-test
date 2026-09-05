@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-09-05T11:51:12.353Z",
-  "count": 2124,
+  "lastUpdated": "2026-09-05T16:51:16.104Z",
+  "count": 2136,
   "items": [
+    {
+      "id": "industry:State Street SPDR S&P Biotech ETF (XBI) rated B...:1788620805000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "State Street SPDR S&P Biotech ETF (XBI) rated B...",
+      "source": "Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWhEU2xGRGpUUFFyTUJUMDJTSy1jSjB5QzlkU0hwWHZCd3Q4bTFBN1VwdE91OUhmV2JReFVOYWdLUlhZaG1tT2RMenc0SjNPTURfRjE2UmpzX09UWHRvYlBRT3BCN2g1MkdENERjVTJ4ckI0TzU2d0VLbmg2c1pSTjZaWXpjSUlJdXZ3?oc=5",
+      "summary": "State Street SPDR S&P Biotech ETF (XBI) rated B... &nbsp;&nbsp; Pluang",
+      "pubDate": "2026-09-05T15:06:45.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "industry:XBI: Big Pharma Can Keep The 76% Rally Going (NYSEARCA:XBI):1788619617000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "XBI: Big Pharma Can Keep The 76% Rally Going (NYSEARCA:XBI)",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThtelNlYXFPU2Z2UWNWaEM1NjkyQ19tTXk3SDdXaWdjUFh4WXM2S1JkWUhUMFFJQm1NQ01rUlgtb2c1WkZycTh4Zkc3TW1HbnlOR3JTZGVvRnU5bThTdXV0SW9WRXZYZENfUFNheUFMSmtoS2tQSks3WEw4dEVSMzVJbzNjeGpySjdZaDlhb2hKOVFKd2c?oc=5",
+      "summary": "XBI: Big Pharma Can Keep The 76% Rally Going (NYSEARCA:XBI) &nbsp;&nbsp; Seeking Alpha",
+      "pubDate": "2026-09-05T14:46:57.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "industry:How Serum Pharma Advances Green Tea Extract Supply Through Botani:1788619596000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How Serum Pharma Advances Green Tea Extract Supply Through Botani",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWRxbjB3bHFHdkFxRjdtaU1yS0xMYW50dWlnX3pZSlRRalVVNXREUF9ZX1RraUVpLThiWE01MWxsYVQweTk3WW02bmlBVmRDb0s1NEhGMnFjdEVkRHB6TXVYRFFaNFlqV3hoeDRVV0MwWjV4OXFHeEpaRmhPUG9qeHlBc1prTUdZMmRUTGlLOGY1QlhScjJ3bjY3Y1dvWXY1dEtQUEdUU1k2QURx?oc=5",
+      "summary": "How Serum Pharma Advances Green Tea Extract Supply Through Botani &nbsp;&nbsp; The National Law Review",
+      "pubDate": "2026-09-05T14:46:36.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "industry:VRXA Jumps As Traders Focus On Biotech Breakout Setup:1788617280000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "VRXA Jumps As Traders Focus On Biotech Breakout Setup",
+      "source": "timothysykes.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNFg3ZTdkY3JpdjR6MS1QLW1GTzhSdmxnOEdmQjdUS3AtQVMtQjdJQUlHREZHemNUcEhKb1pPS3lLZFN4WHN6SmZTcDE2NmhueFBlOUJESDJLSENTS0lyWFU5UEZFVnNMUUNyblhTUXBMdkJZeDM1VTVvQQ?oc=5",
+      "summary": "VRXA Jumps As Traders Focus On Biotech Breakout Setup &nbsp;&nbsp; timothysykes.com",
+      "pubDate": "2026-09-05T14:08:00.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "science:NewBiologix and Synastra Join Forces to Advance rAAV Manufacturing for Duchenne Gene Therapy:1788615873000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "NewBiologix and Synastra Join Forces to Advance rAAV Manufacturing for Duchenne Gene Therapy",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSlB6emhXS3h0Nkd0eHJZekI2UHpvSVBldjFIaW50bG1iQ0ZhbXlVUW9HZm5XNkxuOFpQSG5JNDJjMTdWcTBtMTVmNHp4eHFwcExxODJ5YzdqT0VFT1BtZUNzc1RqQXdpRjZSWDhhNlQ3NUtTMm5MbUdnTjY1RkVBT24tUWV1eTNab01SRG9iODhHdThJVDRYR3ExMjh5RVN6enVJclJTSkZWZHhqWlgyREFYWFlseHdmN1dhUlc5M1lMTFU2djU4U3RJMTJrdmZqNVdJVW8ydjA?oc=5",
+      "summary": "NewBiologix and Synastra Join Forces to Advance rAAV Manufacturing for Duchenne Gene Therapy &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "pubDate": "2026-09-05T13:44:33.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "industry:Pfizer punts Seagen ADC, further muddying value of the $43B buyout:1788526869000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pfizer punts Seagen ADC, further muddying value of the $43B buyout",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSW43NV84dkVmZlVPTVQyX1Z0ZTA3NXBiOUlWVm1iN1pmQlhMVDVSSVQzX3JIVk1yTHB3S0ZOcnI2RW9qQ3F5LUZyNUthMy0yTUxtbnB5WFhSemxDMWxYblM2U3A1N21zMHNha0pUR0N4cjRkXy1CVjBoV0s0RnFNX2lNOHV6TnpsZzNnYy1EUjJOck95RExta0h1Yw?oc=5",
+      "summary": "Pfizer punts Seagen ADC, further muddying value of the $43B buyout &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-09-04T13:01:09.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "china-policy:首届全国数智健康大赛收官，国家中试基地多项成果获奖:1788521164000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "首届全国数智健康大赛收官，国家中试基地多项成果获奖",
+      "source": "北京市中医药管理局",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTE9xdzc0d3BtMjFFMWF4a1l5RDVRMXg3TWc5VE91blhiQl9xczRBTHFieHJfbmZ6SVIyV2hOVnNrZ2pIMkxPWlZpMnRYU2p3cEZ2WEVDc25jbHJuQUR3a0lhckZ4UTZFQXVNcW5jUQ?oc=5",
+      "summary": "首届全国数智健康大赛收官，国家中试基地多项成果获奖 &nbsp;&nbsp; 北京市中医药管理局",
+      "pubDate": "2026-09-04T11:26:04.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "china-policy:刮痧、耳穴压豆、制作中药香囊…… 驻华外交官沉浸式体验北京中医药传承创新:1788487639000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "刮痧、耳穴压豆、制作中药香囊…… 驻华外交官沉浸式体验北京中医药传承创新",
+      "source": "北京市人民政府外事办公室",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TTS1EYlNMSUZIX0lzblA3RkNXYkdLNDRWWTJjbDdxQm9ZN1FVRnN4bFJsS2xlUTlkRDZWWTZ3MmlpS1dHZTJCUDJvSWRQeThvYzRObXlTSFoyQXptam5CQmwyalZnSDZxUUJicENBVXhNYnhId2RBN3NXbw?oc=5",
+      "summary": "刮痧、耳穴压豆、制作中药香囊…… 驻华外交官沉浸式体验北京中医药传承创新 &nbsp;&nbsp; 北京市人民政府外事办公室",
+      "pubDate": "2026-09-04T02:07:19.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "science:uniQure Files for US Approval of Its Huntington's Gene Therapy and Asks Regulators for Faster Review:1788431467000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "uniQure Files for US Approval of Its Huntington's Gene Therapy and Asks Regulators for Faster Review",
+      "source": "Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVNMVjlSNmN2dDkzRkFDbzgwdEFDZDNaQl9Da2xNWWhqclB4TVpSZl81N21kWnFjQUtfcjZidlR1cDlvV1lYYUt3VHBEdzhaZ2JLSTFBN1A4RnBSTEk1RlBMTnpTZWU5aHdzdmJVc0R5YTl1Z0t1eDRJUDZ1SUNvbmNnNjFqdVFXMklvODhLeEpCU0E?oc=5",
+      "summary": "uniQure Files for US Approval of Its Huntington's Gene Therapy and Asks Regulators for Faster Review &nbsp;&nbsp; Medical Daily",
+      "pubDate": "2026-09-03T10:31:07.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "regulatory:C.S. Mott Children’s Hospital first in country to implant expandable heart valve during FDA review phase:1788177600000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "C.S. Mott Children’s Hospital first in country to implant expandable heart valve during FDA review phase",
+      "source": "Michigan Medicine",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDllQ0t3MnJkeURGNmhLSE1wUmkwUEVXcS1PcXJfaHYzTTkxODlKOVlPN3MzV2pMMTJydHFBUEUxcG9Ud2t2MEh4OGY2bnp3Uk9NNUdEUjY3d3dteUdRVk9vVEdOVnVEaUI0TGxZNjJpN1diYXEwZV9Rd1c5MkhCTmR4TDM4M3gwOEFVZjlxQlBHRXZHZ09ZaFdqZkU5STdPZGVWdDVncEQwNlJDWlNIbVpzOEY4cEV5V0N3ZUFUUnd0YV9lNkZXcmlNdGF1Y1pmRFJ1dzNn?oc=5",
+      "summary": "C.S. Mott Children’s Hospital first in country to implant expandable heart valve during FDA review phase &nbsp;&nbsp; Michigan Medicine",
+      "pubDate": "2026-08-31T12:00:00.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "market-data:200亿市场承压！13个独家中成药上榜，潜力品种飙涨112%，康缘、以岭......14款中药新药来袭:1788164940000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "200亿市场承压！13个独家中成药上榜，潜力品种飙涨112%，康缘、以岭......14款中药新药来袭",
+      "source": "新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWRmMklaYWVienRiU2VKMTBYdHFDWlNXdnVsMXJIc0EwVll3S01HbU1vbl9CXzZocEZvUFp2VHRiTzFfbkkzOTB3NFJuX3gyTklRV0RmRE5GZEhOZ19HbUN0LTk2ZkdkTlZibUs1SlpwWFdWWDUtYlg0Ulo1bE84R20yRzVYMDJ3?oc=5",
+      "summary": "200亿市场承压！13个独家中成药上榜，潜力品种飙涨112%，康缘、以岭......14款中药新药来袭 &nbsp;&nbsp; 新浪财经",
+      "pubDate": "2026-08-31T08:29:00.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
+    {
+      "id": "company-disclosure:中粮生物科技股份有限公司九届六次董事会决议公告:1787727600000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "中粮生物科技股份有限公司九届六次董事会决议公告",
+      "source": "static.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUZGp2eFZmNm9DTDJqNkxOVzFxUFV5VTlyN0g2WkpYTTJDaWZOeWtBVXpKaHliWEhfZ2RoSGxVZ3BuWVNHaUlkMkllQnZyejdjSkpiNE4xUTYtVzNUZHNMVWVQRUFHeFJVb1VLVHYxZ1k?oc=5",
+      "summary": "中粮生物科技股份有限公司九届六次董事会决议公告 &nbsp;&nbsp; static.cninfo.com.cn",
+      "pubDate": "2026-08-26T07:00:00.000Z",
+      "collectedAt": "2026-09-05T16:51:16.104Z"
+    },
     {
       "id": "industry:UroGen Pharma (NASDAQ:URGN) Combines High Growth Momentum with a Breakout Setup:1788601883000",
       "category": "industry",
