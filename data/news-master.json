@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-09-05T06:58:03.212Z",
-  "count": 2119,
+  "lastUpdated": "2026-09-05T11:51:12.353Z",
+  "count": 2124,
   "items": [
+    {
+      "id": "industry:UroGen Pharma (NASDAQ:URGN) Combines High Growth Momentum with a Breakout Setup:1788601883000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "UroGen Pharma (NASDAQ:URGN) Combines High Growth Momentum with a Breakout Setup",
+      "source": "ChartMill",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObkRNNnpCMGp4WFFJd2hqNEpQNzZVZlpXQ2NUY2NWN2ZaLXcwcU54b1VodHpNQzhFM3lNNVFDOVZnTFc1cGhJRHFfTUxYN0ZndmxpLVV2Tk1lbUVGM2t2TFZCVkhEdDZOLWo0OGJFWUNrYk1EdlRJU1pWU1FjZTdfZmF0UkQyOUdqRURUZTlQY21nampEc1lhRWZibk5ibEstY0tfMHBKT3NXaG42ZThCLUNkektFSGZhMUNwc3dfeDVPVzZnT1pR?oc=5",
+      "summary": "UroGen Pharma (NASDAQ:URGN) Combines High Growth Momentum with a Breakout Setup &nbsp;&nbsp; ChartMill",
+      "pubDate": "2026-09-05T09:51:23.000Z",
+      "collectedAt": "2026-09-05T11:51:12.353Z"
+    },
+    {
+      "id": "deals:The Friday Brief for September 4, 2026: Licensing Deals Dominate the Week:1788529908000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "The Friday Brief for September 4, 2026: Licensing Deals Dominate the Week",
+      "source": "contractpharma.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnRaSUF1clVHRGFnUl8tSFJrMFBhOGxWM3FxX2wzX2t4V1B6SDRVSjRfcFBjTlItODRBcGlRcXJBay1CX0FURDlrQWpCd2V2SkdiQ2gyeFkzc1dnRHdGZ0t5QmQxRE1rY0NHU0YxQ0lwQTNTeGk0Q0c2aHoyU0JWOUJZUGdlbllGS2NtZ19tZk15Z1c1b3NkMnlYTjliYUdGVFFMY0ZqMTBaQVk2UEE?oc=5",
+      "summary": "The Friday Brief for September 4, 2026: Licensing Deals Dominate the Week &nbsp;&nbsp; contractpharma.com",
+      "pubDate": "2026-09-04T13:51:48.000Z",
+      "collectedAt": "2026-09-05T11:51:12.353Z"
+    },
+    {
+      "id": "company-disclosure:关于沪港通下港股通标的调整的通知:1788526791000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "关于沪港通下港股通标的调整的通知",
+      "source": "sse.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjFxQzF4cXZIVUNNQ05waTY2QXZsbGViTHh6bC1oRVZmT3ZTTjBrenBOc0lFdXllUlFEM2QyLWxjS3A1bUU3cURac0FNejJGdmgwWGd4V1hUNnM4ZTdrRXVPUk9ERGJsQXF3MWF5alMzQ19veFROMk1PcUtaQkNjVmMtS1VjZw?oc=5",
+      "summary": "关于沪港通下港股通标的调整的通知 &nbsp;&nbsp; sse.com.cn",
+      "pubDate": "2026-09-04T12:59:51.000Z",
+      "collectedAt": "2026-09-05T11:51:12.353Z"
+    },
+    {
+      "id": "science:Cell therapy weekly: first patient dosed in Phase III geographic atrophy gene therapy trial:1788424276000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Cell therapy weekly: first patient dosed in Phase III geographic atrophy gene therapy trial",
+      "source": "RegMedNet",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3BSb1NmZ1VLZFlRaHR3RTN0N0xEWHYzZzVpLUdJYmxBamVaSE5idXlCZXl3Um15WGRWbmNnTE1NWnk3NWk0cEJkaW8wWEsxMnNHd3NMbW5QNHFUNmFzaXh1Nld5YUZ5NWpjbHlYQ3ZoeDhiWS1QVDYyQmxVRnE2bmlzdEVwZF8xUjM4OUdvdkVhUWVDb29YbnY0RWNGbXdSYnVoUnJUXzNvVTdhREdvMVpzel9uVEhf?oc=5",
+      "summary": "Cell therapy weekly: first patient dosed in Phase III geographic atrophy gene therapy trial &nbsp;&nbsp; RegMedNet",
+      "pubDate": "2026-09-03T08:31:16.000Z",
+      "collectedAt": "2026-09-05T11:51:12.353Z"
+    },
+    {
+      "id": "china-policy:查询详细页:1788332400000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "查询详细页",
+      "source": "北京市药品监督管理局",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMXdFVU1JbnRlR3g1cHMtNjZrdVRMdTVPcllSVF9xQXo4bjBJV3JCdUZYME50eFlpcWEtbWEzYUlrdXhTUFBzQ3RMSUlnU2UzRy1Sb3NTLUtQVHhYcUxWNllma2Jmc2FyY2dBMXJFclFseGVLbkVMal9ROF85VHhBbjhZVWxyTnJiMFh6MU5iNHhWNDBfdlJvVUI0TlpYdmZz?oc=5",
+      "summary": "查询详细页 &nbsp;&nbsp; 北京市药品监督管理局",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "collectedAt": "2026-09-05T11:51:12.353Z"
+    },
     {
       "id": "industry:BioMarin Pharmaceutical (BMRN), What Is Behind The Fresh Attention?:1788586781000",
       "category": "industry",
