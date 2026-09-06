@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-06T12:10:28.336Z",
-  "count": 2158,
+  "lastUpdated": "2026-09-06T17:06:37.401Z",
+  "count": 2168,
   "items": [
+    {
+      "id": "industry:This $26 Billion Biotech Name Is Ripe for a Covered-Call Trade:1788707700000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "This $26 Billion Biotech Name Is Ripe for a Covered-Call Trade",
+      "source": "TheStreet Pro",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXVWbGNWalRxS29LZVFfMXE0aWNYMW0xRGFCcXJBakJ0VzRnZGMycWxaT2JFWGF6SHpaWFdSYVdIWS1iaWV1YVJJU3ZhR1lMZ3ZSYXNnbGQ2UHBDWFRGeTVNZDcyTWJEb2otYjhUbmoxUDBZY2JVSjI2elB5anNKZ1ZYeVRjOGd5YzVzdktmX2s1ZTduSDl6dkN4R3NZeWs1?oc=5",
+      "summary": "This $26 Billion Biotech Name Is Ripe for a Covered-Call Trade &nbsp;&nbsp; TheStreet Pro",
+      "pubDate": "2026-09-06T15:15:00.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:Shanghai Fosun Pharmaceutical : Fosun Pharma Announces H-Share Repurchase Plan of Up to HK$ 1 Billion:1788705185000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Shanghai Fosun Pharmaceutical : Fosun Pharma Announces H-Share Repurchase Plan of Up to HK$ 1 Billion",
+      "source": "marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdkNrdTlUd3Jfbkh5U1IwWnZUUUd4c2p2MWd1SkwtZ0NRQ3JITW9DQnlLQTRPMUpqLUMtMDZ5THpUWkNTYUh3cGNnNWVvSS1ISE1LN3M3b3FmWHRjUEVFWXFvc3ZCbk9oSTNPQ19OdDYyQkd5aXFkTUwtUTJVVTQwaEtSLTFOMFFwV2dYYXlGYmdhZFhiSndjaGkxNWVGanRNY2hTOWFRcm9kbURzVk0zU0Q0aEhKUXNfWUc3QVNtSTE2LTl5UUp5ak5MUDgyS1d5VEV5WHprdlNjNU1NYWVMLXNFdXE?oc=5",
+      "summary": "Shanghai Fosun Pharmaceutical : Fosun Pharma Announces H-Share Repurchase Plan of Up to HK$ 1 Billion &nbsp;&nbsp; marketscreener.com",
+      "pubDate": "2026-09-06T14:33:05.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:VRXA Rises As Veraxa Biotech AG Draws Trader Focus:1788703680000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "VRXA Rises As Veraxa Biotech AG Draws Trader Focus",
+      "source": "timothysykes.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKM01ReUhtM0QyUUNsSmw5S25jd3FkOEVNaC1sYTU2TzdXMHgyZGliTXJ6RkJtWmREN3gxaDVsOVFCOE53R0pIVG4wRUR3WDc3NlYyNy1FTHRkNVdqeXBnUnhPYUU1ZUs2elVJc2Q4blpKVEJwSE1EbGdDRQ?oc=5",
+      "summary": "VRXA Rises As Veraxa Biotech AG Draws Trader Focus &nbsp;&nbsp; timothysykes.com",
+      "pubDate": "2026-09-06T14:08:00.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:How Pharma Will Navigate the NDC-12 Transition:1788700948000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How Pharma Will Navigate the NDC-12 Transition",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTlJWG1fZEVtcUZMNGd2SUQ0YXFfRkViV2NyUFMzZXoyRlFwUWNzQ243X3lyMHB2WHhxZm11empGUzYtd3hXR19Xa2g1VnFsYmpHUDA2VW1pMUJLcmxpSEZuODhmM1ViNmpUbjk4UFlKdVl4RDJHUFhPaHlDZkozdHRkdm1LemdockhWUGMwZFdRd3gzNjhB?oc=5",
+      "summary": "How Pharma Will Navigate the NDC-12 Transition &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-09-06T13:22:28.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:MDC invests £1m in biotech approaches to autoimmune and neurodegenerative disease:1788697006000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "MDC invests £1m in biotech approaches to autoimmune and neurodegenerative disease",
+      "source": "Laboratory News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUxqOGVCcF9Rb1JQaHVSLVlKVExMY3VfX1kxMTJGbGIyRTFRa1FVeWluV01STFM0TXRFQWQ1MktmSEpoTlJBRWJxZ3VUQzVFQjczeXZKMzJBM0p0SG0xLWZiMnd0ekJySU5BRnJ3TGZwcTBvMlZrcVJpel9rYUJmQzQ3b0JUUUV5QVI1MG12ZFMzWmJtSFVsZHJnMW1qRUtyZEZjdU1n?oc=5",
+      "summary": "MDC invests £1m in biotech approaches to autoimmune and neurodegenerative disease &nbsp;&nbsp; Laboratory News",
+      "pubDate": "2026-09-06T12:16:46.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:Price to sales forward of EASTGATE BIOTECH CORP – OTC:ETBI:1788694772000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Price to sales forward of EASTGATE BIOTECH CORP – OTC:ETBI",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHA0THdKc3pIMlFPemY0ZGZEWktMZjh2WXNuWWwzSGc4bmhINzRYUHA5bDBMVlpITVBiY0QyRk5ManBjRW11WjRXRm1odnRJY0x2aVpNaXZCUENJY2F6VWVYQURtTVg4eFBGaGk5a2M4T0V4N3B3TjU1NDR3SjZfa3hEMGVLM1RaYUZfZVU5OWZJMzBGYTVBZmNB?oc=5",
+      "summary": "Price to sales forward of EASTGATE BIOTECH CORP – OTC:ETBI &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-09-06T11:39:32.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "industry:Big pharma eyes Australian biotech as $300b patent cliff looms:1788667500000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Big pharma eyes Australian biotech as $300b patent cliff looms",
+      "source": "AFR",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUJEcjJmRUlTS1BNaEZ6SVlhaGFOYUZhSkdwMnZIOWl4cmVuelBNOHY3NXBUaHIzZ042UXo3X3hrZ0VPcjllS1AtQnlDX3V6dUdKbDFjNFdwN2J2MkV2MmFtVi1PRDRkVGRwV2F2R0RVQWdzbzZCU1lyZjdEZGRrcmdkNGlId1Z3aHBVbDZGT0p4cUV1TjhDbnhGcVRDc2Z4ZUhUSWJuOG5GVExBY3lVXzRhUHYtMENDUHR2MlBDTV9qRlg0c0Vjb1F3?oc=5",
+      "summary": "Big pharma eyes Australian biotech as $300b patent cliff looms &nbsp;&nbsp; AFR",
+      "pubDate": "2026-09-06T04:05:00.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "science:Superluminal Medicines secures $60m to advance rare obesity therapy:1788519548000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Superluminal Medicines secures $60m to advance rare obesity therapy",
+      "source": "Pharmaceutical Business review -",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlY3NHN2U2RiVkROU1FRME9YNzRfR05EdDlDTGlOOXJudWYtZVVXUkJ1eXB5cVBlbS13Z2pWRHIycFdkQVpQTXVvd3R6Y2VwYTJWWThMTkN6OFl4SjdOVnhOMXpETC1CbTNTMnRYVjVVMmdMSUFWQm5HZWpQZ0tJQ3A4elV4cDVsMTZ4NU9yUzBLaDVkQ2VLYThrdjBkMTQ?oc=5",
+      "summary": "Superluminal Medicines secures $60m to advance rare obesity therapy &nbsp;&nbsp; Pharmaceutical Business review -",
+      "pubDate": "2026-09-04T10:59:08.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "company-disclosure:四川和邦生物科技股份有限公司关于控股股东部分股份解除质押及部分股份质押的公告:1788418800000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "四川和邦生物科技股份有限公司关于控股股东部分股份解除质押及部分股份质押的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3R2bkFSZy1EaExrN0xpVkZtZVBnVGVSNGwzUUpuaXZaYlhjWTgyRGFuUk9iNTZFdUhrbnVRWEdxSU1yR1c3a2ROeXN1bXZadnk5N05sLWdnSk5OUDUwSk52Wk12V0t5bTJuQWtaUzVyVThSNEZMVzhRVDN0WXNueUw2OGk2U1lzZkEtMVdxaUQyd2JvV2VLeHdnQk90aEpldWdmcg?oc=5",
+      "summary": "四川和邦生物科技股份有限公司关于控股股东部分股份解除质押及部分股份质押的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-03T07:00:00.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
+    {
+      "id": "clinical:TScan Therapeutics sheds majority of staff, pauses Phase 3 trial amid funding shortfall:1788369720000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "TScan Therapeutics sheds majority of staff, pauses Phase 3 trial amid funding shortfall",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0ZDTVRza3o4S0d0YVhUZlVyRWlFRDRUZjd0X0taLXZMbnlyMHhMUDJNU1piUnc1enpDZURBV3hfSjNjNVZNTUUxQW9CaWk4cFY3VFFDbTY2OGNzYUdFdXBSTE80XzRDSHpsYVVveVNDeWZQNUxmRkpuVEJrdHMySElHaGN1VWF6YjdjV1o3VVE?oc=5",
+      "summary": "TScan Therapeutics sheds majority of staff, pauses Phase 3 trial amid funding shortfall &nbsp;&nbsp; The Business Journals",
+      "pubDate": "2026-09-02T17:22:00.000Z",
+      "collectedAt": "2026-09-06T17:06:37.401Z"
+    },
     {
       "id": "industry:Health projects in food and pharmaceutical sectors near completion:1788695526000",
       "category": "industry",
