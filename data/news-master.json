@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-05T22:04:28.074Z",
-  "count": 2143,
+  "lastUpdated": "2026-09-06T07:09:53.221Z",
+  "count": 2149,
   "items": [
+    {
+      "id": "industry:PBSV 8-K Filings - Pharma-Bio Serv Inc SEC 8-K:1788668885000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "PBSV 8-K Filings - Pharma-Bio Serv Inc SEC 8-K",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vclpXX2R5US1qTk5qUy1reUdXYzQwcFYybDA1ckFMNnJPMElYV195Y3ZGZ05tX29xVjZQMzBDU1Z0bmJ0YlZaUnhyR0owQVhVSVl4QVFJX1ltNXREVEV2cUZR?oc=5",
+      "summary": "PBSV 8-K Filings - Pharma-Bio Serv Inc SEC 8-K &nbsp;&nbsp; Stock Titan",
+      "pubDate": "2026-09-06T04:28:05.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
+    {
+      "id": "industry:Price to sales forward of Medicus Pharma Ltd. – NASDAQ:MDCXW:1788650846000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Price to sales forward of Medicus Pharma Ltd. – NASDAQ:MDCXW",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjFPbnA3WXdjVmFtVkppUmVyZkVOWUxaTVg4ZzUzZDlSa0NIUmNZWGhhVUlLQWVtUUFIcWJacGVrS1B5WXZocHJpdkprTnVfV29obG1MUkRxbTZhUUFuZU5HbURWTkxlTDBSbXh2MFY2N2wwWFhYWlBHaC1pMlNLeGVLOHhJXzNVaTVtUUJCTHEyLUZZNW81TlNKcDUyM28?oc=5",
+      "summary": "Price to sales forward of Medicus Pharma Ltd. – NASDAQ:MDCXW &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-09-05T23:27:26.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
+    {
+      "id": "industry:American Conference’s Women Leaders in Life Sciences Law:1788639485000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "American Conference’s Women Leaders in Life Sciences Law",
+      "source": "Mintz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEE3Q2ZNN1lOZzZmUnlMZURDYjQ2U3p0NndncW9rSEwxd2tTUlpFbFZ1b25iUEpNM2xaZzZrZ1ZFSmkzLXlvdkprS19nZ1JGUU9MSEpNZ0VoaXN6ZUdpaEsxMm53b1kzWXZITU0tWWs2ejI4eUpwLXkyRHVlSkdMSk9ia0hZLWZaNHpnb1o0bnVFd0hSWXMxaDQ3clhHQl84UmVIeA?oc=5",
+      "summary": "American Conference’s Women Leaders in Life Sciences Law &nbsp;&nbsp; Mintz",
+      "pubDate": "2026-09-05T20:18:05.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
+    {
+      "id": "industry:Trump Administration Reaches Drug Pricing Deals With 9 Companies:1788602509000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Trump Administration Reaches Drug Pricing Deals With 9 Companies",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3lwVl9oSmx2WEswNFh2WG9ITGN1c0hyTmh3MFZ4N1ZOLUF2TzZUQkpfaWdybG5sQXc1RGJtZC1xRU5nc2tpOUdEMTNHZUdpUmNVenZib0I3OXdDNzlaM194U1VCOElmbnVreEo4cVhPRlBnd3ljYUkxM0J2dThkR3M1UUtPLWZ4X2wyaVcxLUFXbWMzbUZaN2o4dmZEU1Nlak1ON09UOEw1NW8?oc=5",
+      "summary": "Trump Administration Reaches Drug Pricing Deals With 9 Companies &nbsp;&nbsp; WSJ",
+      "pubDate": "2026-09-05T10:01:49.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
+    {
+      "id": "china-policy:查询详细页:1788436910000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "查询详细页",
+      "source": "北京市药品监督管理局",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSE9WLVM4U1VnRFlZdS1wcndxWnpNYTZlUFJZVjF4eHgxWnROQ3ktejRkd2Ria1Q5dFVFbHhxUlRsUGpkMk1yRUUwTkhPWTl5R3F2aHZHTEprRFBkOFBjbGhvM2FseTdUalVrQXVzQzI0ck1UQUliclBFSy1aaFRMcDA3VW9oSU9HaEV1SVNHZjZHVUdtdTZGTHY2RHZWMkE?oc=5",
+      "summary": "查询详细页 &nbsp;&nbsp; 北京市药品监督管理局",
+      "pubDate": "2026-09-03T12:01:50.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
+    {
+      "id": "market-data:东阳光药首款LY6G6D/4-1BB双抗HEC-921获批临床，21项肿瘤管线同步推进创新转型:1787715218000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "东阳光药首款LY6G6D/4-1BB双抗HEC-921获批临床，21项肿瘤管线同步推进创新转型",
+      "source": "摩熵医药",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVkVDeVJ4UGpuaUVncjVneEJjZGppUzJCQl80LS16QXNKN090YWhoZmpic3FvOXc2VzdYendQblprdXM0aHJ2SkRXQW1kNGw2WjFDai1mblhmdw?oc=5",
+      "summary": "东阳光药首款LY6G6D/4-1BB双抗HEC-921获批临床，21项肿瘤管线同步推进创新转型 &nbsp;&nbsp; 摩熵医药",
+      "pubDate": "2026-08-26T03:33:38.000Z",
+      "collectedAt": "2026-09-06T07:09:53.221Z"
+    },
     {
       "id": "industry:Why Ultragenyx Pharmaceutical (RARE) Is Down 40.3% After Aspire Trial Failure And Expense Cut Plans:1788637207000",
       "category": "industry",
