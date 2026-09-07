@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-07T18:45:20.310Z",
-  "count": 2242,
+  "lastUpdated": "2026-09-07T22:52:19.851Z",
+  "count": 2251,
   "items": [
+    {
+      "id": "industry:Horizon Europe needs tailored biotech funding, report says:1788814989000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Horizon Europe needs tailored biotech funding, report says",
+      "source": "Science|Business",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmNwVDBfLU5VWDJLeVU1T2NjU1Q1WmNlaVVHdEJJbWRmVXZLNGh0Q1BXN2U1YnZlbzdvUUt0bEtlb2hwdm5ERnh3QXBKTWcwSExYV2YxVUhSWEMtS2ZrSVpGQV9YcXl5bWYxNkJiR0dRSXNDbG4tOHotR3lreGtrc1A5MDlEYlNNbmFJbDZTa2VfWXZjalhHNEZWZHpGMkF4Ry1kVGpqXzlkaFc1M1NXT2pKYzc?oc=5",
+      "summary": "Horizon Europe needs tailored biotech funding, report says &nbsp;&nbsp; Science|Business",
+      "pubDate": "2026-09-07T21:03:09.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "industry:Osteoarthritis Clinical Trial Pipeline Appears Robust With 100+ Key Pharma Companies Actively Working in the Therapeutics Segment | DelveInsight:1788809412000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Osteoarthritis Clinical Trial Pipeline Appears Robust With 100+ Key Pharma Companies Actively Working in the Therapeutics Segment | DelveInsight",
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcm44WS1iRE1PN3NMekxTWWVyZ0toeTdYX3lPQTQ3UUJqQ0szdEtOR0dFX0lHMkVuM1diR0s1T1hESEViV2JCTDdzTkszS1hfTFlTQy1PNnR5XzVDazRmbVZabzVJYW5WZG04LVphaExEQ1dVQVJpenA0Mm5pWDViZHNva0lNSGxlZ2FPNkVfNGVZazlTMkRLazVzdzRtcmg0RmxDbjZSYnRXbHBmWjdCYWdSVkdiNHIzaDdBZG9WU3ByU1ZXOE4yS3NBWWxXTU5MZlhUUkFia01BcWVuTXhNel8zZzdTSXc0VnJuQ2xKYmdQTjlXZ2NKNnBYbm51T3pTcU4xUUhmWS1NVjBoZnBMSVpBendIUWo0?oc=5",
+      "summary": "Osteoarthritis Clinical Trial Pipeline Appears Robust With 100+ Key Pharma Companies Actively Working in the Therapeutics Segment | DelveInsight &nbsp;&nbsp; Barchart.com",
+      "pubDate": "2026-09-07T19:30:12.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "science:Opinion | This Is the Biggest Obstacle to New Cancer Cures:1788512411000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Opinion | This Is the Biggest Obstacle to New Cancer Cures",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDd3a2NFak1nS0piTC1TaFlSUnJiMHZBNVQ1QS01TmN5Y3NILVE1VDJXc2N0bTBNVTFKLXBLY0dHVFBfakJYWDB5Ui1WR2swTFlPUjVfZTRfdURRazNUZTFQR3lTUUFteHprV21NQ0ZCLUhSSnU2WjNtaU5ZejlZcHY2OA?oc=5",
+      "summary": "Opinion | This Is the Biggest Obstacle to New Cancer Cures &nbsp;&nbsp; The New York Times",
+      "pubDate": "2026-09-04T09:00:11.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "deals:Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data:1788446820000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzNROUNPQ2w1OExHREwtTWRkZzF1MzhuMDZQcVc3dnh3eG1jUE85S1FydTRSTWZhSmFJQTFMN0cySThHVnFZd3RaTnQ5TTdHSy1KYnA5akhyYUtIdGc1OWlrQ1Jzam1qRHVpdTFmdTVXazA5UW9fZVVkd1N1SXBSMlBTS2lMOU1VSmdUWUd6WnQ3Z1lkY3VDTnBMWHhuQTI1Mko2cXRvdW9FU1M0WGhOdXl1OTJNRmE5NmxWekZOMG9PZGdFeU9hWQ?oc=5",
+      "summary": "Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-09-03T14:47:00.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "regulatory:Outbreak Investigation of Salmonella: Eggs (July 2026):1788445800000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Outbreak Investigation of Salmonella: Eggs (July 2026)",
+      "source": "fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDVJNTZOMHdsdDc5Z0dBSHBMZHZQaUVJQzVLYXV4TUg3emVGcHBPb0JRQWc4Nm1XLWVKY0lFekIzRVVpLUdkN084OFlmWktPNGFrUE9DdDVWSXlRZmNweUJXa2hHSjMwQmcydVNvcHZnQzJHYlZuRlVIcF9ZZDBlVmM4ZS1rNVlTYUE1ZnRkblFJekF0eTRzN0JScVFBQmxnWlpn?oc=5",
+      "summary": "Outbreak Investigation of Salmonella: Eggs (July 2026) &nbsp;&nbsp; fda.gov",
+      "pubDate": "2026-09-03T14:30:00.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "china:Akeso, Summit’s ivonescimab extends lives in Keytruda head-to-head trial. What now?:1788445761000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "Akeso, Summit’s ivonescimab extends lives in Keytruda head-to-head trial. What now?",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2RzUWhoUURObnhvdk1KeHRaaGFMdnJXNVVxc1VXajhEZHBleGdBVnNmakhWaHZjWm5td1E4T0NLYmRhZ3FfNEVWS2ZXc1ZYQjVMVnNPeFVhYW16bkZybGp1d0FrZEhyOE1IX01sUFZlT3RCek91YUFic3RqVkk4WkktN1lEM2g2Sm5YQ3c1ZlA4VlFpNjlMTkhXb1hBU2J5WTBMV3hCQTZmZk9s?oc=5",
+      "summary": "Akeso, Summit’s ivonescimab extends lives in Keytruda head-to-head trial. What now? &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-09-03T14:29:21.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "deals:Hutchmed strikes licensing agreement with GSK:1788438827000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Hutchmed strikes licensing agreement with GSK",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3ZvQmJ2ZFVsUFk1bVNSdnBWcDl3aXJFbUxmYTk2aG1zeExvVEJpVDl5dE5tMldGTE9ZSlZ2SHoxbTdTckx1MHJ4ZnVlZEFYaXNQektWdWNlMjY3TUlrVjJfRW85eFhJWWV4WF92R21fN1haYndKM2dPWks1bWw5WFk5ZTNHa0VxWnlEa19qSUJSMDlY?oc=5",
+      "summary": "Hutchmed strikes licensing agreement with GSK &nbsp;&nbsp; The Pharma Letter",
+      "pubDate": "2026-09-03T12:33:47.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "science:Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop:1788418800000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54YTd6U0Z6bkhSVmR3cEFEd2lESjRaQjRpZU1paTR6T1dmQjVJTFJETkd3UXNSaGdja1NQbDFocDVaZHV0M0NyRThZT2REM1RWYldvMTJQanRiYS00NzEzVTB1Njl1bEpOQ19ST0x6cmUzTlRKZ2pOZDQtNnI?oc=5",
+      "summary": "Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-09-03T07:00:00.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
+    {
+      "id": "company-disclosure:证券代码：600332（A） 股票简称：广州药业编号：2011—003:1787122800000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "证券代码：600332（A） 股票简称：广州药业编号：2011—003",
+      "source": "巨潮资讯",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GX1BiMm5EWlp1VVUyTUxRYzJiYjA1WXpLLVR3Nncyc1dfNVpzbUd1VF9YdnE2MGtuRmZtVVN4YzFDenBKRkNVLUhheW5uc0loS1lQcEdZdWNza09OVmxfeVRQd1JURzViY1FETGpLQVlKdw?oc=5",
+      "summary": "证券代码：600332（A） 股票简称：广州药业编号：2011—003 &nbsp;&nbsp; 巨潮资讯",
+      "pubDate": "2026-08-19T07:00:00.000Z",
+      "collectedAt": "2026-09-07T22:52:19.851Z"
+    },
     {
       "id": "industry:Vital Signs: Who's enjoying the fruits of pharma's labor?:1788799965000",
       "category": "industry",
