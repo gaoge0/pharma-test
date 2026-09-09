@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-09-08T22:43:25.946Z",
-  "count": 2322,
+  "lastUpdated": "2026-09-09T07:25:45.856Z",
+  "count": 2335,
   "items": [
+    {
+      "id": "industry:Medicine shortages grow in Iran as US tightens sanctions, blockade:1788938325000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXhhMzgzU2tDTWZJMjhIYV9SSVEzMmpEOGpqdTYtY2RfV3Q0dmdNSjhtMjdrSzhIZHVyek9oc0FoQkdZUHRxemk3STdVMDJ3bU1zT2lWN3hoTHlCbFpNSUdlNUI3X201VDctam80SVZseUxMdkROSHBGRXN1QzJEZ0RWLUt5TUt0a00tVnFaYVZ6LTlvX1lRd05PMEFOVE40ZE8xUy03Q2fSAa4BQVVfeXFMT2FPWW5uSzdsZ0dPOS0zWG1JSnpQTlBnUnNzc05ZNDQ0QUFxVUpKWWFqa0tNQURwcjNSNEhtb0V3a25aVWpyOWM4d3pJeEZxMjVfRXJNRVJ3N1lJMlVDN0ZrcEtCSG90dmx6THV1anNxWTBSdzl4eDAwckQxRndlQ0NPcGwyblBta1NucHdGTHFxV0x0WEdKSmE3YnJUaDV1WnhSb3FEbTA5enYyZFZ3?oc=5",
+      "summary": "Medicine shortages grow in Iran as US tightens sanctions, blockade &nbsp;&nbsp; Al Jazeera",
+      "pubDate": "2026-09-09T07:18:45.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:As China embraces AI, only 24% of US pharma execs bet on it for drug-making:1788933615000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "As China embraces AI, only 24% of US pharma execs bet on it for drug-making",
+      "source": "South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTgzUnFzVENIZTNIeGxwbC1IMUNLclhnVU1DVWM0a2R4Rk8tNktBamZaLWIwNkk0S0E3MndvMW9yb0Q5WnVnU0pKVkVNR1BYeVZrRFhOVERlS3hTNkNheGdMcHE2SFY5b3VjYS16WjJZQ3lMR1ZUY2V1YjFrcUdSM2lMTFZPT3g4bkNmVFVaOWEtb1JkdzY1eXdwVzRTZ0ZEQk5WWEN1UUdYVGtRRkl2bTFHcFZ0OXVDQ1ZadFhR0gG-AUFVX3lxTE1JQ0VQTHlZaU56SzlZdnRWYzFrRTU1dVVLNXdwdnI1TEdrejJCaEZ5VnluTkctTkZHNm9CanhKNnNybVpwRzB4MTNsQnpyRE54QmFIcGs4ZHgwb1NyZkJYVUpuaVFCZjFnNGpYNmxjeFd0LWlVaVZQS2gtXzRVZDVjbnJFb00zd21qcWtsam5HNXFMQThrVG5qUHpWaEhlWUVScHhPNlF5N3RjOC1Dc3h0amRVdG9GX1pWVGh1WXc?oc=5",
+      "summary": "As China embraces AI, only 24% of US pharma execs bet on it for drug-making &nbsp;&nbsp; South China Morning Post",
+      "pubDate": "2026-09-09T06:00:15.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:Rznomics brings RNA editing into Lilly’s San Diego biotech hub:1788929028000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Rznomics brings RNA editing into Lilly’s San Diego biotech hub",
+      "source": "Longevity.Technology",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUY4MnFvMGtiWlhjTW03dENJaHh5U3ZNcnFBbjVYSk4wUUdvSTNpMWJfcXRnSlBlbFF6QWZvM1BVOVotbk5XeTdvbGJIaUdQZ3I5c2dIbHJTSWk4SnM1MmVncEZ1MU4tYjVMbnhxYkpzSHNjV2dDSEtVXzNaQURiSkZhbFNXNHlqSVI0S0ZIZWhjLVZ1V0h3LXphczE?oc=5",
+      "summary": "Rznomics brings RNA editing into Lilly’s San Diego biotech hub &nbsp;&nbsp; Longevity.Technology",
+      "pubDate": "2026-09-09T04:43:48.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:Beyond China: Five other overseas destinations for biopharma dollars:1788928062000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Beyond China: Five other overseas destinations for biopharma dollars",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW1fMWFqSjRBeVBSd1o3QlBZYk1EcVhjWmJydlBOMkJfcExQQUhaVHNGeUZPWDVpVXZ1VGwwY3FJb0ZXVnNnVW1HNEExaGtrSWVKUTlqX1BkSlhjUUJYTEFuNmlmN1VUUUtMZWxvaVdXMFhWWlZHZkZaZTJmc0FfaW01SFpsS1ZuMEw5VGxrQl92V2U1d2dwMWc2Y3R1bEVsaWtF?oc=5",
+      "summary": "Beyond China: Five other overseas destinations for biopharma dollars &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-09-09T04:27:42.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "china-policy:守正创新赋能儿科发展！北中医东方医院成功举办中医药继续教育系列学术会议:1788925479000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "守正创新赋能儿科发展！北中医东方医院成功举办中医药继续教育系列学术会议",
+      "source": "北京市卫生健康委员会",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYdGJSRkY5c2tjYVdEQkRWRVNJYi13SEJtdmVuLTlUV0Y3dFZiZGJKVEhGTmtkNTY4ZnJ4NWc0czhHdzRtbWtvVVN0cVFrRTNRX1VDTW9GNWJzZXdPYy1XRU9XSktIdjNKZEFwRjhpMEJYYmlyQWItcDNJREI?oc=5",
+      "summary": "守正创新赋能儿科发展！北中医东方医院成功举办中医药继续教育系列学术会议 &nbsp;&nbsp; 北京市卫生健康委员会",
+      "pubDate": "2026-09-09T03:44:39.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:Asm. John McDonald pushes for greater pharmaceutical drug price transparency:1788910200000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Asm. John McDonald pushes for greater pharmaceutical drug price transparency",
+      "source": "Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTBCNlU3WDRSUWVjQ2E2d3pjaVVEazE0V2dpeU1qUlpIZmoxeGt2dWc5Q1pBRjZDSWJhWEtQU1FzWDM3dE5Xdm9LaWZkYjdiSzFfTmw2RjhEcmNGMzE5ejFSOUpNWU9uSVowRnpIY3kzMGE2ZkJtQzBHdnY3d3RMbm5ha3hReE1OS3dUbDlaYnYtTnp0Z3BrR2JiZ1JZN3BIUFJTVnNscUU0YzBhWjV6c2VuMXk2ZDhPM2t4emgyWFRIRlhXRTRBcFA1VDFYV2JyUjVNOVhaa04?oc=5",
+      "summary": "Asm. John McDonald pushes for greater pharmaceutical drug price transparency &nbsp;&nbsp; Spectrum News",
+      "pubDate": "2026-09-08T23:30:00.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:How Rising Cargo Theft Puts New Pressure on the Pharma Supply Chain:1788909823000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How Rising Cargo Theft Puts New Pressure on the Pharma Supply Chain",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMW1QNHUxRHZWZTlpTjhhclc3dWJxcmI2QzB1MWZBZzdPSndUdXhaeGtqQ0pqcG41R0M3bFU3Mjh2d2VOdzRoWEN0X2N4R2l6bHpEUkkzY24yTDVQXzJjR3ppNlFFUkw4M2tMamJNOS1kbVV2TTRibEFBUHdab2M5Mm10UlVxQm1yOHZRcndyUnhfRHlrODZFOG95NmQyYUVxTFZCUjI4LWZ5MFhtVk12RFpjRG5Lb0luM1ZXdWJmckVyR202UW50UGNR?oc=5",
+      "summary": "How Rising Cargo Theft Puts New Pressure on the Pharma Supply Chain &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-09-08T23:23:43.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:Sandoz sets sights on 100 biosimilars in new 2040 strategy, with $300M facility build:1788893154000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Sandoz sets sights on 100 biosimilars in new 2040 strategy, with $300M facility build",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjBHbU9uT1pER0gteUhnVzc1RkpwWlAzQVFHWk11QmktQkdkLTkydjdPSEJSS014RlVRSDUzNHpjNXEtWXppZF96MDBXNXNKQXVYWW1XQ2c4VG5fSWZVWGF2Q1BIUEFiZ0ZiMGxQV1FtNUl0VE15OUV2RkRiVkVwWU1lQmdOVHBsbnJKTEZQbDNEVmt6NlJKUHJibUxjZmp3OEtqT1FIU3BBcE9pX20xekd2RC1VMnVULTNEYg?oc=5",
+      "summary": "Sandoz sets sights on 100 biosimilars in new 2040 strategy, with $300M facility build &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-09-08T18:45:54.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "industry:Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker:1788882960000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker",
+      "source": "Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUNkUUF5YkxNRlJyUjhZWWdmZ3ZadEdibThHU1o0NUx0RmZvek9PZVd0RGpQLWwyLUVOeHVPOVRVTzJnRUdEaHNSZmZ3YVI5WGtob3RjYjZHWGFad1VnNEZ3SmxjWldRTHNkbG9TSHlNM0VJdGQ3TEpDNTB3SVRfV1gtQWdwcmxaWjBFWHhHWnRZZlp1d2Nuam1ESmlWM0Nm?oc=5",
+      "summary": "Expanding its biopharma plans, Anthropic looks for a life sciences dealmaker &nbsp;&nbsp; Endpoints News",
+      "pubDate": "2026-09-08T15:56:00.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "company-disclosure:金宇生物技术股份有限公司关于股份回购实施结果暨股份变动的公告:1788882311000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "金宇生物技术股份有限公司关于股份回购实施结果暨股份变动的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUF0YUdTV1V6R2pKUjloN3lXTnRJeUUyR0VuM216S01WN2VrTnlNcnR1VEZXWE81NFZWWl9JUDZWcU5QYmFka05PVFZfR3V5VkZOWHY5WGYza3Rzbk55SHFSX2Vzd3RUWEZQVDByRU5VTktHY1pSQWhBVERQSkJHdGxoVUpTSFFTcTVsUERuMk5TQlNEOVMtY2luVTNIMFhveVNDMw?oc=5",
+      "summary": "金宇生物技术股份有限公司关于股份回购实施结果暨股份变动的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-08T15:45:11.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "science:NewBiologix:1788861940000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "NewBiologix",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OT3hoMDYzeGZHSjJJZkxLaV9MSWhSQUZyWEhlTDkxWVo0ODBXZlpDY2RpbnkxT3lRVWlYZXVudllTSzZocWVvbjdnZzdlR1A5LXpiaWd2VEdycFE5RWFUSlJ3RzF1MUph?oc=5",
+      "summary": "NewBiologix &nbsp;&nbsp; The Pharma Letter",
+      "pubDate": "2026-09-08T10:05:40.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "market-data:2026年咽喉用药品牌盘点：主流产品如何选？:1788848618000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "2026年咽喉用药品牌盘点：主流产品如何选？",
+      "source": "t.cj.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWkJVeWxZczFsVzM0VmQ0aFFaR3YtbVp4YVY1ak5XblNjNDNwWW1fZUZEOUF0Z3E5Zy10TUY3Vnp6eHlBcXdwOFpoZGlKT1pieWhsbEJlbkYxM25IdUdCTjJzR0M0Z09wRHhqRlFtcDhuQQ?oc=5",
+      "summary": "2026年咽喉用药品牌盘点：主流产品如何选？ &nbsp;&nbsp; t.cj.sina.cn",
+      "pubDate": "2026-09-08T06:23:38.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
+    {
+      "id": "china-policy:上海中医药大学附属岳阳中西医结合医院临床研究中心办公室（含国家中医临床研究基地办）副主任:1788505200000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "上海中医药大学附属岳阳中西医结合医院临床研究中心办公室（含国家中医临床研究基地办）副主任",
+      "source": "上海人力资源和社会保障局",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yanVjcmhETkNpOHUtUVN5X044YjduTktDb09pZUIwbG1ocWx1WFhVdUdweWRRaHpHQU9mN3BqdWhaMHViXzgxUGpfVHY0N2Nzd0J3cVBBRUxnZkpuLTdRVnN6OUpJc3RVNWs0N2x3?oc=5",
+      "summary": "上海中医药大学附属岳阳中西医结合医院临床研究中心办公室（含国家中医临床研究基地办）副主任 &nbsp;&nbsp; 上海人力资源和社会保障局",
+      "pubDate": "2026-09-04T07:00:00.000Z",
+      "collectedAt": "2026-09-09T07:25:45.856Z"
+    },
     {
       "id": "industry:The 'Blowout' And 'Bull Case' News That Sent Two Biotechs Flying:1788899040000",
       "category": "industry",
