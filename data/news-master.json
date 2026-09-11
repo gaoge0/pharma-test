@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-11T17:46:01.576Z",
-  "count": 2502,
+  "lastUpdated": "2026-09-11T22:38:22.208Z",
+  "count": 2511,
   "items": [
+    {
+      "id": "industry:Pharma wins a battle over the cost of wastewater treatment in Europe:1789165134000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharma wins a battle over the cost of wastewater treatment in Europe",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmFBUTFKYmZfY1BMeFI2am5LdUpJOVk2YTdLM0hjSkZCSDdEMTFNMF9KT3ZfMEVYeTBUUDJqd3JrS3dVYXYtQ085Uk9qVFVoeS1xaTM2TzNOdEdNc3Vhc1Rab1pJVUdNcFlSUEg3cUZTV2p4MkgySHF5UVNqbzRLSWZZZF9fNzZqTUxzYnZHdWJ1Wjk5UUxrQzJGSEYyZG1sbFE?oc=5",
+      "summary": "Pharma wins a battle over the cost of wastewater treatment in Europe &nbsp;&nbsp; STAT",
+      "pubDate": "2026-09-11T22:18:54.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "industry:Axios Live: Research and manufacturing investments boost Philadelphia's biotech role:1789156487000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Axios Live: Research and manufacturing investments boost Philadelphia's biotech role",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORU5WbEFxZ2k2T2tJTmc2ck44R0kwTHRyRnllc1dzZGI4OVRPczFnZkdJVUlMY1FuTVNfTUJSNnc5Z0VOZ1d3Y2ktYmk1QlAzNW50cFQ4WkVoTkZPS2tFMHRrWU5PY3NRR1JjejI5QXF0ZkRkX2d3Tk9zX2t0eWNTSE5CWFFBQ0VoRTRzVUZTVzNSVlpQQkZQanpZWGZpZXJSY1hTbDd0OVBlYkdicGU4OWVTV0dfQQ?oc=5",
+      "summary": "Axios Live: Research and manufacturing investments boost Philadelphia's biotech role &nbsp;&nbsp; Axios",
+      "pubDate": "2026-09-11T19:54:47.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "industry:Samsung Biologics Signs $262M Biologics Manufacturing Deal With Undisclosed European Pharma Company:1789152672000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Samsung Biologics Signs $262M Biologics Manufacturing Deal With Undisclosed European Pharma Company",
+      "source": "BioPharm International",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNam1FWnpMbWNwS1FtLVllWks2RU5DN05hR29LclJLaVBTbmFzNlZZb0tWMzBjZHZsREFoMk5zazMwMlV3ZHduZVIxblNJaHRQdjRENWcyWV9rV0YyUk9VczBLZDh2eXNkeFp5SjYtTGZYb1Y5c0pvZ1BuNzZPUVp0bFNXSTd4WXJuLXAtOGhoN3JiT1dXbkY4UUhWWU9ZZHp5ZWI0MGJUS3NyY3dQS1dzSENxSUJ5bEdia0YyZ0htODZfN090MnF0NUNaR2RrcnFfTlg1dEh2WlY?oc=5",
+      "summary": "Samsung Biologics Signs $262M Biologics Manufacturing Deal With Undisclosed European Pharma Company &nbsp;&nbsp; BioPharm International",
+      "pubDate": "2026-09-11T18:51:12.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "industry:Novartis Shareholders Raise Concerns over M&A Strategy | PharmExec:1789150006000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Novartis Shareholders Raise Concerns over M&A Strategy | PharmExec",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW9xblBRUHJTVXc4ZUU0NXRBSk1uS082MndvZWYxcVdva0w1aXA2RlpUQTAyQzFxNW1HZzVLbXBxXy1yTUZzYTBwR21rVEdZQnRiV0Zjdmx5TVdJWFluVmV4UHVvWEVIQjV0UjhZdVFsUlNoT0ZhdE92Rkt6dUU3VFBkVTZNaFRoV0F1VjhB?oc=5",
+      "summary": "Novartis Shareholders Raise Concerns over M&A Strategy | PharmExec &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-09-11T18:06:46.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "industry:Healey meets with biotech startups to hear about financing needs:1789149967000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Healey meets with biotech startups to hear about financing needs",
+      "source": "The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3ptTHZzbFBrY1ZGTlZiM0NneE5IYjZaNVY5WUNaVmlybjBEMHNuaGE1TlZKd0V6S2NWTnJrdlQ0YktpMzkybWpmZ0ExRG9CUnVBYjlwTnU0cjNRaE9JMXQtbm5Ga2cwbjIxT25pS25xWmlfOWU3ZHMyd0JYZkJ1bXd3UDNBM2pFamc?oc=5",
+      "summary": "Healey meets with biotech startups to hear about financing needs &nbsp;&nbsp; The Boston Globe",
+      "pubDate": "2026-09-11T18:06:07.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "clinical:Helus Pharma at Cantor conference: phase III readout in focus:1789133590000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Helus Pharma at Cantor conference: phase III readout in focus",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3pCR0I4ZlBEcy1tU3dGSGRBc0kzckNxMkdoWnRRUVR0NFMtVUZvME5hOGtIZTU3ZXJXTkltdHhWTDRHSHBOYVNkVjFSTHRzd3NhSGNWVzVYM2RRSWt5dFVGNnN5bWVjVmdldWotUElHZHQ4WGZwamxkcFVVbHhTUXlyUnJkZTMwdGYtSkVXaWRFTlZtVy1oU1dhRjBHWlZ2RkMwYkVmU1RWQTRTTlNyTlcza1EzM0E?oc=5",
+      "summary": "Helus Pharma at Cantor conference: phase III readout in focus &nbsp;&nbsp; Investing.com",
+      "pubDate": "2026-09-11T13:33:10.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "regulatory:FDA Priority Review Puts Satralizumab on Track as First MOGAD Drug:1789058433000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Priority Review Puts Satralizumab on Track as First MOGAD Drug",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVYzb0UwNVFsOUh3bkRVZE9IN0M5UmlmTWpKOWhwQTV3dVU4alczOE0wckJ5S0tJWFRSYXFOUjRVTDN3bF9DVHRTUU04YjdBUHZiUVNsY1lfby1xV2x2T2x5WlV6ekdlWlVjNWZDblpVZV93WlFhMDN4TkpPczRYNGhsTDVYMHVmVzk3eWpMcjhyZEV2ZmhGSG15RQ?oc=5",
+      "summary": "FDA Priority Review Puts Satralizumab on Track as First MOGAD Drug &nbsp;&nbsp; NeurologyLive",
+      "pubDate": "2026-09-10T16:40:33.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "science:Cryovials Market Report 2026-2031, By Material, Application, and Geo:1789034164000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Cryovials Market Report 2026-2031, By Material, Application, and Geo",
+      "source": "MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN01mRXZvbmVkZ1dOQ3VUNkJ1UHhMdkxiYUFOZ3BOV0tJVnZXc09WX3huYVVLWDMzalpKUE9YSGR4bi1rZ21jcmNYQ1hiX2pBZHkzOWN1ajJld3VHSFB4VDRYR1lXMDBEVXBDTTJaTEdTQ2xvTDJrOS1hdWZyMzZTblp2enlPUQ?oc=5",
+      "summary": "Cryovials Market Report 2026-2031, By Material, Application, and Geo &nbsp;&nbsp; MarketsandMarkets",
+      "pubDate": "2026-09-10T09:56:04.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
+    {
+      "id": "company-disclosure:重庆智翔金泰生物制药股份有限公司自愿披露关于纬利妥米单抗注射液附条件批准上市的公告:1787900400000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "重庆智翔金泰生物制药股份有限公司自愿披露关于纬利妥米单抗注射液附条件批准上市的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkpaczd2Uk8tQzg2SnRPbmlyTVZGcC1aMWFCVGZZLTBjZ0xmamtDUmw3MUt3NkRfZGp1aWZmbGpUV0VwZzgwVm9ybGpUZXZZV002cDctZjdXWWdLMnB3X0EyVUdqaWl3dU1tSl9Kci1kcmtpMjg0ZXNDUTAtd2NjcmJEZkFoUm9pRkJqeHRQalROUGstYkFISXpDZXpQdGJCTXhDeg?oc=5",
+      "summary": "重庆智翔金泰生物制药股份有限公司自愿披露关于纬利妥米单抗注射液附条件批准上市的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-08-28T07:00:00.000Z",
+      "collectedAt": "2026-09-11T22:38:22.208Z"
+    },
     {
       "id": "industry:Pharmaceutical-Grade Polyethylene Tubing Market Forecast to 2035: Single-Use Bioprocessing to Drive 6-9% CAGR - News and Statistics:1789140379000",
       "category": "industry",
