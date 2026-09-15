@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-09-15T18:15:24.641Z",
-  "count": 2701,
+  "lastUpdated": "2026-09-15T22:56:03.160Z",
+  "count": 2713,
   "items": [
+    {
+      "id": "industry:Perriello meets with local biotech leaders to discuss industry’s future:1789508400000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Perriello meets with local biotech leaders to discuss industry’s future",
+      "source": "cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORjY4REZzbFZkUld6S3hDSnBjU1NSaGFrM0lXNEdac2FUVnRSVXJJeDVQams3MlZOU2tabEd6dnpuMnRGRHNTeHJweHNaSEIyUmFtcWFSZ1FmMlZmUS1pVFRBN0JyUndkV19qdlFlX1o5LWpocnpSVG5DbjNLbDRUS3BTTTBrbWNkQUlaQWVNdm5IQ3hkTzUxMG5kS0xEb1JRdWlYM0JuT0VvRkoxci14WXIwdjVCZGpETUk3ZUR5b2h3dUF6U2ZpN3Z3XzhSNGozdlJVV0UxaVFkS3JneWVWLWpPdmFQa3c?oc=5",
+      "summary": "Perriello meets with local biotech leaders to discuss industry’s future &nbsp;&nbsp; cbs19news.com",
+      "pubDate": "2026-09-15T21:40:00.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:Blood Cancer United Announces $7.5 Million Gift From Royalty Pharma to Expand Therapy Acceleration Program:1789504200000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Blood Cancer United Announces $7.5 Million Gift From Royalty Pharma to Expand Therapy Acceleration Program",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZFVwOFc4WkVoZ0dCeTBaakdPMmllbmVRdy1fUmYtTlpUYk95OWNSVXdqaHVPTGtNSl9iM2xtRzBNV3QxNnBBcVJMeTJJTG00cndXWHhLY3dnNVhPcFFENHdtTEtYaEZRWVlsaWtQOW1aUFlNX1oyYzFoX1ZRZmtxWFRCeHFzcjMxbHl3V2JnQnRSc2Z3emV5TVdpbVRZb2pjaC1aTzNBemRpSTRhYTFBbDJmR002T3g4TWRjXzlaVFo1dDRRWWdKZXZrZDlxc0cxSEVGU0kxalhYdDM1QzVOM1RIYzU4S0ZSZEE2SkdtSDdGVG8?oc=5",
+      "summary": "Blood Cancer United Announces $7.5 Million Gift From Royalty Pharma to Expand Therapy Acceleration Program &nbsp;&nbsp; PR Newswire",
+      "pubDate": "2026-09-15T20:30:00.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:Novartis veteran Ingrid Zhang tapped to lead Legend Biotech:1789502680000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Novartis veteran Ingrid Zhang tapped to lead Legend Biotech",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SSkhsd1pvd3h4blZTbHpCN2UwZEUtRzNCZXgwWVZIMmo3bV9Va1BaamJLd3FBcER0MXZJT2tJYzBidXUxUGtFOExiMUNVMGUtNDFN?oc=5",
+      "summary": "Novartis veteran Ingrid Zhang tapped to lead Legend Biotech &nbsp;&nbsp; FirstWord Pharma",
+      "pubDate": "2026-09-15T20:04:40.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:Sanofi & Cheplapharm Form Strategic Partnership | PharmExec:1789501739000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Sanofi & Cheplapharm Form Strategic Partnership | PharmExec",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNallnTXo3S1BSQUpQRXlXZkFVQmtMVDlIY0xTRFZiMVRXUURIakJZUHctRENJNmNmNkhteGp1UVVzdFRDT0V2ZnRzdGQ1c0hLY1dUdWVHU25wQTRGVm8yWjVBMEZncVpjNURTY2JkMWprTUZPSS1kbHl6eFVBZjg0LWhlWQ?oc=5",
+      "summary": "Sanofi & Cheplapharm Form Strategic Partnership | PharmExec &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-09-15T19:48:59.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:Watch Big Pharma Needs New Drugs. China Has Them:1789500611000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Watch Big Pharma Needs New Drugs. China Has Them",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0NZRWpxcmowaXRKcDlKVjNkcS1TTkhma013ZzhkRXFTdWQ2TlBhai1wTV9sd21CWF9XVXlHUmZ3NmpZbE1iTERnQmVXel80b0NJWkxyMnFjM0l5aU5WUUJZWHJ5LWxXaWtzaWJRNy1MMHBNSHlvVFVfdjdZUWZGNXc1TVg5MzZmTU1uVUZSdzd6UHZzWlpPN0todmc?oc=5",
+      "summary": "Watch Big Pharma Needs New Drugs. China Has Them &nbsp;&nbsp; Bloomberg.com",
+      "pubDate": "2026-09-15T19:30:11.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:How AI is rewriting the rules for medicine and biotech in Mass.:1789499934000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How AI is rewriting the rules for medicine and biotech in Mass.",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmFSVkRicXgxb0hJSVVpQ0tobGxTWnNWcVpiZFpDTkJYV2pacGt4NGJGb2VvQTQ5ZDNPNEM1Q2doYlg4T3dhX01DdnVpN2FkTDVxMUdKUmhrSGFlSDRjb2FYNEtSbGZlM3AxRktWQ0ItY3M3T3hhYXRzLTN6YllYVkVfUF9RVS1XR0JsZGdR?oc=5",
+      "summary": "How AI is rewriting the rules for medicine and biotech in Mass. &nbsp;&nbsp; Axios",
+      "pubDate": "2026-09-15T19:18:54.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "science:Ori Biotech Lands 10-Year, $120M Commercial Cell Therapy Manufacturing Deal:1789498695000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Ori Biotech Lands 10-Year, $120M Commercial Cell Therapy Manufacturing Deal",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmNDS3hTaVVJUWZNQjdNS2RJbzVQVzZUOElBM05LcXFScFVCbDgySi1TMkV5cmNLNkdKVGdtNVhraDQyWW1yNS0tREMzT3gycTR0a1RHajVpTS1xRTZ1VXJrckQ2QzF4X3BsQmpjcU1iWmJQRlJzXzJ6M0d0djdoUUtGTXh4b3RTbmRlY1EzYktRZ2RKd1c4eFpDSkZtc2w3aEVZcC1QQmJIMDk5TDNQWWc0dnYtaldzeTVF?oc=5",
+      "summary": "Ori Biotech Lands 10-Year, $120M Commercial Cell Therapy Manufacturing Deal &nbsp;&nbsp; Contract Pharma",
+      "pubDate": "2026-09-15T18:58:15.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "industry:Three UConn School of Pharmacy Alumni will be recognized at the 2026 UConn School of Pharmacy & Pharmaceutical Sciences Alumni Awards:1789498278000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Three UConn School of Pharmacy Alumni will be recognized at the 2026 UConn School of Pharmacy & Pharmaceutical Sciences Alumni Awards",
+      "source": "UConn Today",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOczcyeTNJMENjOElIeW1Ibm0tdW1yZGdUQURVS2Q1b0d2eGtQSlBTNHBURjUzSEtrQXJCV1JidUxGSk9QYkJCNHpIRE9fUjhoNGx1XzF5OHlhakJ4Tlk5eXhiaUNvR1drX1oyalNTM1pHLWh6YUc2c0JLYmxubVBoY1lkeld4VXZva0RaWTVFbHVacGo5Yi02VFYtYkozX0pwYXBzSjUwckNGYURuWnJBU1VSckk2MFJHUFA4N3ZKby1QTkdLN2pBazJpUlA1Q1FBRWpUS2w4Y0RubjExR0tsRW5oY0d5LTJvcDZYTWJQcXpXY2ZFOHB3?oc=5",
+      "summary": "Three UConn School of Pharmacy Alumni will be recognized at the 2026 UConn School of Pharmacy & Pharmaceutical Sciences Alumni Awards &nbsp;&nbsp; UConn Today",
+      "pubDate": "2026-09-15T18:51:18.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "market-data:尖峰药业聚多卡醇注射液申报获CDE受理，静脉硬化治疗再添竞争者！:1789456785000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "尖峰药业聚多卡醇注射液申报获CDE受理，静脉硬化治疗再添竞争者！",
+      "source": "Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU05YSGFYVllRUGotdU1HcXNfQWdoaFRyeWRNRlZraGd5TnN5Q0JYT1lqVHRkNEIxYm5YTWZFRE5wVld5T2pSSnJrMHNQTnBKcUQ0NS0wVGRueWFxdnlnQS1ITE5nVlZfTkZfdzd0ckdHWnU3OUZyZHRCdldXRkxqSW9UTF9mUVZfX3dTNA?oc=5",
+      "summary": "尖峰药业聚多卡醇注射液申报获CDE受理，静脉硬化治疗再添竞争者！ &nbsp;&nbsp; Sohu",
+      "pubDate": "2026-09-15T07:19:45.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "regulatory:As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety:1789423200000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety",
+      "source": "fiercebiotech.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFRqYXhOZGhNSGZzbHZZN1lVel91bWxZY3c4YW1Na1p6UDU0Wmx5eURxd2g5ZDhseDgyOVh5bTBKb3BhNzhIbjBBdENTeF9WYWhIalU5cUt5NUs3T0pRdks5QlQ4NERfYlRvX3FIeWZTam5jZFdEWW5mWlR4UzA4TldNbmVFeUpMN2x6SDg0WHhwVW5iVTBFY0pORm55SEFpN0VsbE1NZ2NWMUhTZ1Y3a3ljaTFsSDlpX2c?oc=5",
+      "summary": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety &nbsp;&nbsp; fiercebiotech.com",
+      "pubDate": "2026-09-14T22:00:00.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "regulatory:FDA Approves Isembyld (apitegromab-mstn), the First and Only Muscle-Targeted Therapy for Spinal Muscular Atrophy, Marking a New Milestone in SMA Treatment:1789149052000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Approves Isembyld (apitegromab-mstn), the First and Only Muscle-Targeted Therapy for Spinal Muscular Atrophy, Marking a New Milestone in SMA Treatment",
+      "source": "Muscular Dystrophy Association",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0ZNS01rRUd5UzBEa05lX180dE1rUkdGTlVxT2djanNubzM2dkdZOXBLN0l2MWlaT3Q2M0RIN1hUelhjSEkxVVEwNEF3RDgwcERQZ0ppV0Z4b0g1VlR2Rkh3TEozZ01sX1hENk9PVUZ6UGRBQm9sUm1DX1hxX1J1V1ViRWRKaWlfakZZMEdqT19vVjJSVG1XUXV0c1AxTVdfbXBXR2t0dzhySFBqdTF5MTIwU3hrd2ZXMFFEZXZrYVkwMjVrMlE?oc=5",
+      "summary": "FDA Approves Isembyld (apitegromab-mstn), the First and Only Muscle-Targeted Therapy for Spinal Muscular Atrophy, Marking a New Milestone in SMA Treatment &nbsp;&nbsp; Muscular Dystrophy Association",
+      "pubDate": "2026-09-11T17:50:52.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
+    {
+      "id": "company-disclosure:四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告:1788591600000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告",
+      "source": "巨潮资讯网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04enZfVmtTT3JUVG44ZjJuWHRkNks3YzZpM0xCczJxWGx0SDMwYm1QZ0VwSU45SVNIQmR1b0d6TGFjTTNZQkVnNkFGMjZsbEZsdkJrcnpnUnBRUERvMVhiVVZuNjFacFZkRVJRS2ZaWVBGZw?oc=5",
+      "summary": "四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告 &nbsp;&nbsp; 巨潮资讯网",
+      "pubDate": "2026-09-05T07:00:00.000Z",
+      "collectedAt": "2026-09-15T22:56:03.160Z"
+    },
     {
       "id": "industry:Drugstore museum hooks visitors with old-timey treats and pharmaceutical history:1789495941000",
       "category": "industry",
