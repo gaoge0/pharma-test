@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-16T22:59:40.393Z",
-  "count": 2784,
+  "lastUpdated": "2026-09-17T07:45:40.032Z",
+  "count": 2794,
   "items": [
+    {
+      "id": "industry:This Tiny Biotech Is Beating MRNA, IOVA And SLS — Here's How A Billionaire Fueled Its September Rally:1789629660000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "This Tiny Biotech Is Beating MRNA, IOVA And SLS — Here's How A Billionaire Fueled Its September Rally",
+      "source": "Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHM3djg4R19qNmlQdXlCa1F6ajZJdUljMF8xNnJEY3d6OTg0VEtlWlJJLW9oNTF4amlaRFpCLUQyeVZiUUM0UjR3eGxXbnFGMllTNlhTOUdTX0Rzb0ZDN0xOWUY0M2o4Z3R6NkJRaXN4MjFtQU1JMl94NURuVHF0THFoWnJEZk5hajc1QzczZFo5VzB6WnFXYmhrY2E3SXNJSkc2TkZqSkJaRVBWQlZ3NmxiUUVVaFhOQ0tnaVkyZzRLQ3UwdlRGekZzUQ?oc=5",
+      "summary": "This Tiny Biotech Is Beating MRNA, IOVA And SLS — Here's How A Billionaire Fueled Its September Rally &nbsp;&nbsp; Stocktwits",
+      "pubDate": "2026-09-17T07:21:00.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "china-policy:北京市公共资源交易服务平台:1789628673000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "北京市公共资源交易服务平台",
+      "source": "北京市公共资源交易服务平台",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13di1sNld5cWFsMkMwbzFqZUY3NTJmM01Jc3lyT1hhdXVoNTd5dXZFZ09kRTFKaEFhVUl3RmZZazloZzdOVWJ0UDJpOGNjcGEwdnN0d29EV2djVWMtMS1wb08wTU5IUDl4ZGpsWTFzWWdDdw?oc=5",
+      "summary": "北京市公共资源交易服务平台 &nbsp;&nbsp; 北京市公共资源交易服务平台",
+      "pubDate": "2026-09-17T07:04:33.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "industry:Trending: Top biopharma disciplines with jobs live now:1789628576000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Trending: Top biopharma disciplines with jobs live now",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW82d3BMTDB3ZXQ5ZkdxYmtuM3pLTDdvcnVwQ0JUUXIxaUJrRnJRRUl5aEpUejNqa2pITUtkNDQzanJ6YnJGV00xUEs1NEdNTVB1UE1HMzMxSTk3a2d0UXVvS3VHNG9CSU84MkF3ZmVnV1NVWl9jRG1CNXI1cmNfTkZlMWpkTS1BNkRlX0xGa3pqaFk?oc=5",
+      "summary": "Trending: Top biopharma disciplines with jobs live now &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-09-17T07:02:56.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "industry:A virtual forum on immunity and inflammation will include Vicore Pharma on Sept. 24.:1789626203000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "A virtual forum on immunity and inflammation will include Vicore Pharma on Sept. 24.",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZllrQjVCRGNSWU0wWWhBck1qY1FuSjlmQ3pSX0NDdHdOSUVPb1p6RXRkMDV6Y0c5MkprLV9yZ3hSb2tqVGJuZ0ZqaE5KX0VGbG9xNFlTaEs1Q09ZdklrM0Q5U2VoYmE4U3E3NHk0OEFHQXRVbXhMV3kycGd0b0ppa3dTVHJYdHZUMktmOTNQWHJuY1dKbHh1Tnd1dTZSOTdSSWtsbUZZNE4xUlV6UzhYVjZLaHAwejlYVVhQRmRn?oc=5",
+      "summary": "A virtual forum on immunity and inflammation will include Vicore Pharma on Sept. 24. &nbsp;&nbsp; Stock Titan",
+      "pubDate": "2026-09-17T06:23:23.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "industry:Vicore Pharma to Present in The Stifel 2026 Virtual Immunology and Inflammation Forum:1789626000000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Vicore Pharma to Present in The Stifel 2026 Virtual Immunology and Inflammation Forum",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1VYX0JZVjNjQzhFREg1OG5fdnlFZ2dBUU1CU1hDR0FtTUNzWU9tSTdjNUZRcElTRlpteS1ab0hVMXVrYWJDTXZPb1N6d0JEWWs2WVdTOW9Yam9kNGVtQVZySTFfRkh6RFhtYVd1WjBOVkJhMDRtWW94UXVNb2M2RU5Iai1kbFhJNEJMRVhoN3lOTkJrWlU0R1JR?oc=5",
+      "summary": "Vicore Pharma to Present in The Stifel 2026 Virtual Immunology and Inflammation Forum &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-09-17T06:20:00.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "china-policy:北中医东方医院召开北京中医药大学护理学临床学系建设暨中医康复护理培养模式研讨会:1789613056000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "北中医东方医院召开北京中医药大学护理学临床学系建设暨中医康复护理培养模式研讨会",
+      "source": "北京市卫生健康委员会",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0teVdDS0g1WElZUTFwbEIzLVpDUHFkNkN1bzdtOTRfWFY3bnlHMWxjMzdWUEFLdHI5Mi1ua2ExYk1lT2tnVldqd3JBV2VkTFp2cHdlOUdBc2VrT1VGX0dkZDF0a2hSS1JLMFA4ZXNrelNDdVQxQk56U3ZpeVA?oc=5",
+      "summary": "北中医东方医院召开北京中医药大学护理学临床学系建设暨中医康复护理培养模式研讨会 &nbsp;&nbsp; 北京市卫生健康委员会",
+      "pubDate": "2026-09-17T02:44:16.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "industry:Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks:1789608300000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGllVWtkX2hwbEdkRkt1eDNJTXotSFdERl9JWVB6NkNBOGN6NGhGNW1NTkQyQ1UxUW1VMTFYajRrWkhsWVhtTlpBWjdtdE9LOFBFeTlkOU5NakFtdEFZc0tvbnVaU1pqMnNYNndDTWRCMFN3RzlDd3R4VFNtV01yUnd2aW5BZ1dYWXEtd1pnUGd5VjNsTkE?oc=5",
+      "summary": "Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks &nbsp;&nbsp; WSJ",
+      "pubDate": "2026-09-17T01:25:00.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "china-policy:2026国际生物医药产业创新北京论坛将在经开区举办_工作动态:1789542600000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "2026国际生物医药产业创新北京论坛将在经开区举办_工作动态",
+      "source": "北京经济技术开发区",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HQkk2ejY4OVpjNGRHbU1GVG9DVmNUM2JEeVBxTFF2OWFRWTFmcnp2c19Zd3lxRFpUYWFxNHkwbWIwM2d5Vjh0cEczLU5zUkwtSm41NXRkajVvYnJLZ3pDMDlIZ0g0YWVvTDZJYXB1R1owcjRVcXkw?oc=5",
+      "summary": "2026国际生物医药产业创新北京论坛将在经开区举办_工作动态 &nbsp;&nbsp; 北京经济技术开发区",
+      "pubDate": "2026-09-16T07:10:00.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "manufacturing:Meiji Group to Showcase Japanese-Quality CMO/CDMO Services and a Global Manufacturing Network at CPHI Milan 2026:1789469397000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Meiji Group to Showcase Japanese-Quality CMO/CDMO Services and a Global Manufacturing Network at CPHI Milan 2026",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSE5fVlJRWDBLZjV0TEtYWGYyU2J1bmpzQnRGYUNXQ25UczctbGRfaXNvRXMzbUx1X09nYm1jVk1iay1GR2w5ZWd5V0t6NWJtMEg3T0d0bDJ4NjlRM2ktdWVfc2FURFRmdW94MC1UZkFUcDNZYk9qbzNMTGpiYjQ2Wi1tTmlEVF9PM28wb1JHM19OOUNGNTNoeHlkT2xxTjgweklsX1hjWWszQlRlRzA0d3lXck9kYUE1M2NUMng3ZjB3dGVYY09FM1ZzSzBaa1U0eUcydVh0dWpRMDBGZ1FwbGhWZ2xLT0k?oc=5",
+      "summary": "Meiji Group to Showcase Japanese-Quality CMO/CDMO Services and a Global Manufacturing Network at CPHI Milan 2026 &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-09-15T10:49:57.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
+    {
+      "id": "company-disclosure:江苏恒瑞医药股份有限公司关于回购A 股股份事项前十大股东及前十大无限售条件股东持股情况:1787727600000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "江苏恒瑞医药股份有限公司关于回购A 股股份事项前十大股东及前十大无限售条件股东持股情况",
+      "source": "巨潮资讯网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hV01fdWxtb1JHNE1Qb2pXQ2c2aHdpT0oyRFRpY3ZhLUZzTmVnYjY1eDNXejQ1WlNsVHl4V2pLMlM4TWFROWQ0TEVfMU1faHh5RDJoS2Y2Y0tzenJHeC1aMGdmMUVwNlZnSHdkSUhYeVI?oc=5",
+      "summary": "江苏恒瑞医药股份有限公司关于回购A 股股份事项前十大股东及前十大无限售条件股东持股情况 &nbsp;&nbsp; 巨潮资讯网",
+      "pubDate": "2026-08-26T07:00:00.000Z",
+      "collectedAt": "2026-09-17T07:45:40.032Z"
+    },
     {
       "id": "industry:Pharma sector doubles down on AI to slash costs, timelines:1789591323000",
       "category": "industry",
