@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-19T07:23:06.891Z",
-  "count": 2926,
+  "lastUpdated": "2026-09-19T12:32:30.286Z",
+  "count": 2932,
   "items": [
+    {
+      "id": "industry:Chip tech to biotech:1789817400000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Chip tech to biotech",
+      "source": "San Mateo Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUZIMTdxbFVEMnpkTnhfeGYybjVYd3hUWFhBRlZMbHB3NDVXU0htOGhBUW04WUtESVNvZm13VmUwLXk2UDhFdGJKY2RoSlg4cHhqWEhwR1dxNzlpd1RxcTlNbGtJN1JmMzhIalBtN1M3eEJGSmRVV3FZWlRhNTZjeHdyV2xiZGNkbWVIa05HZEVXYnZNNERfN1kwUEVXTDJiaGZiRHBIVTJBOVltNXk1bFhvYjAyZ3ZQYl80eA?oc=5",
+      "summary": "Chip tech to biotech &nbsp;&nbsp; San Mateo Daily Journal",
+      "pubDate": "2026-09-19T11:30:00.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
+    {
+      "id": "science:Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo:1789792813000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo",
+      "source": "medcitynews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMElNTjhlMWRTS3NESVdTcDBUVHQ3MEg3ZGNCMl9PdlYtNExDaTJuSzFMOFVaTTI5Yi1Kem5iTTk1S21tWnd0WUhiZ2UwZGdzbVZ0NnlTc2Q2M1I5NWtCSGV0Vk5VeG1hcEZOSUlkXzVMa25wQlJCR1duTTItbE84U1p0SzhTRmRHZnRhaFNEMzl4Si1NRG9XOEExZUdKSHl2SGpEOF9nSGFXald1NjNINUNJNGU0dFFsQmJMcFYzNG1raVE?oc=5",
+      "summary": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo &nbsp;&nbsp; medcitynews.com",
+      "pubDate": "2026-09-19T04:40:13.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
+    {
+      "id": "industry:4 Biotech Stocks to Watch as Potential Takeover Targets:1789749060000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "4 Biotech Stocks to Watch as Potential Takeover Targets",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODR5X0ItQl9tV0tmcmUxQVZsRjBUSWNxRGFWVlF6NFE3eFllWWExYUhuT3lxOHNzRDZRdFB4SmhKX0puZWtieHBkbUwxMTZaQUZ2NXhHTFdtVUJHaGtFVDZPcUd1bUNtb1RuRkZreEVkeWJDbDZ5NTBUeHdoZzdIbXUxSUZlU0tlLWp4STB4Tk5GU0c5R1pMdA?oc=5",
+      "summary": "4 Biotech Stocks to Watch as Potential Takeover Targets &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-09-18T16:31:00.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
+    {
+      "id": "china-policy:伙伴计划工作组赴北京水木分子生物科技有限公司开展调研_伙伴动态:1789726200000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "伙伴计划工作组赴北京水木分子生物科技有限公司开展调研_伙伴动态",
+      "source": "北京市经济和信息化局",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmszUmgzemxkNm84bThFWVlzSDIwR0p2bjB0ZFZMMFNHREVJSjQ1X2JQZGc4RnBNZkswTnQ4Y0lRRGRMdFB4OTVrVmhhazFDeW1sWVk4c012OWpPTDJqTDVfekVleUV2VDJiQ00wTm5FMFpwaVVPUTRjc3hiRGF4eGU2V2VxRmhO?oc=5",
+      "summary": "伙伴计划工作组赴北京水木分子生物科技有限公司开展调研_伙伴动态 &nbsp;&nbsp; 北京市经济和信息化局",
+      "pubDate": "2026-09-18T10:10:00.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
+    {
+      "id": "regulatory:FDA Hearing on Psychedelic Medicine Reveals a Field Divided on the Road to Approval—Psychiatric Times:1789666068000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Hearing on Psychedelic Medicine Reveals a Field Divided on the Road to Approval—Psychiatric Times",
+      "source": "Geisel School of Medicine at Dartmouth",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMGZFZ0xvWXdkS1JzZ1puSnRqU0VlR3I2VGR0cHF4dDkzTTQtazZnbk1sQUFHQUNpeHpzNUk3YnUzellPaWZTU0FMWHNPZVdGdmJMZFZ5RW1JRWwxQUE1ZHNsa2Q2d21obzlTT29WNlpMRHZSLXNZcE1YRmN6YVZJMjMzU01xbVBLdVJLTDZ4eTZVekMzeHV1VmI3Qm45SVMwTDJXckNfZDc0aVRqNzVoYllueFN3NXpOb2VveXk0YlUyWW9DR0YtamVscHMtd2xrR3REVDRQMUhWdUlB?oc=5",
+      "summary": "FDA Hearing on Psychedelic Medicine Reveals a Field Divided on the Road to Approval—Psychiatric Times &nbsp;&nbsp; Geisel School of Medicine at Dartmouth",
+      "pubDate": "2026-09-17T17:27:48.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
+    {
+      "id": "manufacturing:Water Purification Recovery Additive Market To 2035: Biologic Drug Manufacturing Expansion Drives 7-9% CAGR - News and Statistics:1789380386000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Water Purification Recovery Additive Market To 2035: Biologic Drug Manufacturing Expansion Drives 7-9% CAGR - News and Statistics",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU1ZfdmtBOWV0T210NkROQ2ZXWERSd0lBbjAxVmNLck1GcURMTXVHX2dZQ3pKT1ZrWGZ2TEtFZDJIM2VWd29Gek1lR2Q0RmtnYkJSMDFtYWhWcXNnaDFtTktFOGlabEZWZ18tX2phX0d4b2tQcGc3ckwyMGNlTG95RE9YX3FkWktPWE5rb2UwUDRTc21sVXN0SVNuVllyWU5IbW9YalJCbTVHc0VQNmlKZE5FUzNFY1dMZkFJNnA0d3BnQ2Ftd25OUWZ1VnNaUS1jTjBUTzEzYW9EbHdX?oc=5",
+      "summary": "Water Purification Recovery Additive Market To 2035: Biologic Drug Manufacturing Expansion Drives 7-9% CAGR - News and Statistics &nbsp;&nbsp; IndexBox",
+      "pubDate": "2026-09-14T10:06:26.000Z",
+      "collectedAt": "2026-09-19T12:32:30.286Z"
+    },
     {
       "id": "industry:Biopharma CFOs discuss finance strategies:1789796819000",
       "category": "industry",
