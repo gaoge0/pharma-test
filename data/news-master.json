@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-09-20T17:30:09.110Z",
-  "count": 2982,
+  "lastUpdated": "2026-09-20T22:30:30.374Z",
+  "count": 2987,
   "items": [
+    {
+      "id": "industry:Green shoots for UK pharma investment, but delivery will decide whether they take root:1789930655000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Green shoots for UK pharma investment, but delivery will decide whether they take root",
+      "source": "The Association of the British Pharmaceutical Industry",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUlKVGhDRE9CWEozNF9wY3NaLWNOcjRPVm5QT3E3OUZwbWF3ZS04bnhZaHdWUF90bFJXUEVHWEN6aGFjUmJoQk04WmEyR0JYQUtUM2xiZjBmRGxPT1Nnbmc1VUdfU2RGLVRZQ2JNb3l0RVVSTnNvX0U5NkloV0gzUlhmcW5KTk54eUdWUnplYVB6V2FEdmhtRm1mNEZFSnBWbXlYdXFTQUgta1Nwc1NSLVZUSTVXOEM2RHFzQkFuSWVjRUtTSS1VSWJZMXBFdw?oc=5",
+      "summary": "Green shoots for UK pharma investment, but delivery will decide whether they take root &nbsp;&nbsp; The Association of the British Pharmaceutical Industry",
+      "pubDate": "2026-09-20T18:57:35.000Z",
+      "collectedAt": "2026-09-20T22:30:30.374Z"
+    },
+    {
+      "id": "industry:Q&A: Advancing cancer biotech therapies with a multipronged approach:1789930509000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Q&A: Advancing cancer biotech therapies with a multipronged approach",
+      "source": "Digital Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVi1qWGoxamduUmhCa2VyaTh1ZzVYR0dnbGpzSlpzZzRkSDNIaGZ2SENYTWdtVzk4eWdPSy1uYmNDWTBPVzN0NjkwSzMxenRRYlFaUUFnYnF4amhyWHVBNHpkdzcxU0VkOGZmUkV6WHBVYUR1N3psMWNKbzVXVEZqUjhCUGphclNjYWhvU2Q2Qm44NWxjbVZacDFmckNUYmM2YXVFWEFlUjQ5UQ?oc=5",
+      "summary": "Q&A: Advancing cancer biotech therapies with a multipronged approach &nbsp;&nbsp; Digital Journal",
+      "pubDate": "2026-09-20T18:55:09.000Z",
+      "collectedAt": "2026-09-20T22:30:30.374Z"
+    },
+    {
+      "id": "wechat:- 微信公众平台:1789925722000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- 微信公众平台",
+      "source": "微信公众平台",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43SzZnc2hLbkVMUkduV1hPVTRVcjdRNEt3bE5Qek4xYnV5WjFpYUZsMFhVR2pHX05jRk5TOHp0eVlXaGdqbmpSZjhaQ3RtSndYUldnbVZaVUdVc0Jfc2twTWJxOGREZTZyeXVEREVmbjJvODgzN1Nr?oc=5",
+      "summary": "&nbsp;&nbsp; 微信公众平台",
+      "pubDate": "2026-09-20T17:35:22.000Z",
+      "collectedAt": "2026-09-20T22:30:30.374Z"
+    },
+    {
+      "id": "industry:Child-Resistant Applicator Caps Market Forecast to 2035: Regulatory Mandates and Biopharma Demand Drive 3–5% CAGR:1789923980000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Child-Resistant Applicator Caps Market Forecast to 2035: Regulatory Mandates and Biopharma Demand Drive 3–5% CAGR",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR041Y3VuTTZKaXZ1VjYwUWxfd3hpaFowWEJuQ3BzQXdJQ0JqcExwZjVjdkdQZ3BVMUV6U0h1ZFFFbUo3WFBreElpSjQ4RlBDOThMTFNOTXgwQXgwYkRURVJhRllVVTZ2QW5DS01aWGZlOVBKeDNZNVMzcWUyY0c4dDBTcndieldoMkhCcjFOS2VwVWZ4VG1MemtMXzBmTkQwczdiWGsxRTh5emRrbzBEWVlHSzBrNVJRX1Nxd3k3NEIxN05LVk5qMDBtSG5LdllOY2psUHk4a1Q?oc=5",
+      "summary": "Child-Resistant Applicator Caps Market Forecast to 2035: Regulatory Mandates and Biopharma Demand Drive 3–5% CAGR &nbsp;&nbsp; IndexBox",
+      "pubDate": "2026-09-20T17:06:20.000Z",
+      "collectedAt": "2026-09-20T22:30:30.374Z"
+    },
+    {
+      "id": "industry:Class A Dig — Organon/Sun Pharma premature-close (May ACQ deleted; early-2027 expected):1789919132000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Class A Dig — Organon/Sun Pharma premature-close (May ACQ deleted; early-2027 expected)",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHZSd3Y5OGptcGJzRkZRTXJRTGRTX1E1ajBmMkpaR3lqaUh1bTRBdWZDTkhxaWczRW1rdmR0d3NOcGVuMV9LWWNrWi1LM091aGd0TzN5bjJLRUR5NU43SE90ZC1jWVRtSTQ2TmtSRmIwY19wbXFndi0tVk84eVRVY3VicnVVdk9tbTBxdlE3dUtEanpnZktzRWFjUjlZWmo1U2lHWWU2MTBoQ0pZNlRSMHpLQ1g1anM?oc=5",
+      "summary": "Class A Dig — Organon/Sun Pharma premature-close (May ACQ deleted; early-2027 expected) &nbsp;&nbsp; Dealroom",
+      "pubDate": "2026-09-20T15:45:32.000Z",
+      "collectedAt": "2026-09-20T22:30:30.374Z"
+    },
     {
       "id": "industry:The Real Start of Every Biotech Story is not a Lab but the Funding Decision:1789922545000",
       "category": "industry",
