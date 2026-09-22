@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-09-22T18:08:09.068Z",
-  "count": 3091,
+  "lastUpdated": "2026-09-22T22:59:27.902Z",
+  "count": 3099,
   "items": [
+    {
+      "id": "clinical:Otsuka claims Phase III win for ulefnersen in rare genetic ALS:1790111761000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Otsuka claims Phase III win for ulefnersen in rare genetic ALS",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jNVpsU0Z1a0c0YnhUbURPWm1kRnhOWkI3MFlGSDFzNWlqQ1hKdW9MRHo4YmtlRnFjTFNOOWVVejRteEZuZlRRQXpLUVJxOWoydHhj?oc=5",
+      "summary": "Otsuka claims Phase III win for ulefnersen in rare genetic ALS &nbsp;&nbsp; FirstWord Pharma",
+      "pubDate": "2026-09-22T21:16:01.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "industry:Aytu BioPharma, Inc. (AYTU) Reports Q4 Loss, Beats Revenue Estimates:1790111701000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Aytu BioPharma, Inc. (AYTU) Reports Q4 Loss, Beats Revenue Estimates",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVpLbXJ1bzNsMS1hd3ZoaXpXTlVGWTQxNHNjc1A0MVhKRTZOazE2cjZRbmhsODZ2VWJudGFIdnZKQzUwcGlTdFk0a1Q1RzI3Q1Jna0Y5WTNKQUM5R3NaZ1hrN0VnV0hJenhZRkV2bzFUS1RZZmNBYTRhT00yQURNUHU5OG9naVZGTkpIU0oxaUNUN28wTFRr?oc=5",
+      "summary": "Aytu BioPharma, Inc. (AYTU) Reports Q4 Loss, Beats Revenue Estimates &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-09-22T21:15:01.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "industry:On the job: Training program helps Greenwood resident into biotech career:1790106832000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "On the job: Training program helps Greenwood resident into biotech career",
+      "source": "dailyjournal.net",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFzaXJFZ2djTTExaW41V3RCZ0NreHJxZU5TUnNsZHFtdm0xT005cGswYkNBeVE4dGU0My1TenBFMkNLdDZJd1B2NW5vb2JLTHNyTHFSQnF2T2RQcVRsZEhlX2dzaENnczdWNGNhb0NfV2FWOERSNVBwNTRkaUVhV09KWWdtNldnX1dMOGxJcDk3OTFHMllYV1VoUDY5cGFEZ3hha0ZJSEVBV2ljc3c?oc=5",
+      "summary": "On the job: Training program helps Greenwood resident into biotech career &nbsp;&nbsp; dailyjournal.net",
+      "pubDate": "2026-09-22T19:53:52.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "industry:Nine European Drugmakers Note Concern Over Region's Pharma Investments | PharmExec:1790103742000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Nine European Drugmakers Note Concern Over Region's Pharma Investments | PharmExec",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2U4Z3pKNVREM1RqeHNqY2QyVU9Zc21WN0dTOTdFSWViYnVhT2ROb3NxanlPRVpfVUFqemxWMEF4NG9MODNUMzdZSlBiOGJQVnJRa3luM2lqZEU4NDNSQjRIbWp2ZlNhZGY2a3JveE84Nktwb2xtdVRwa29uelctQXVDa3ZfS19oNk1J?oc=5",
+      "summary": "Nine European Drugmakers Note Concern Over Region's Pharma Investments | PharmExec &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-09-22T19:02:22.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "industry:Iambic hopes to springboard from pharma collabs onto NASDAQ:1790102458000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Iambic hopes to springboard from pharma collabs onto NASDAQ",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NbHdwYUd1MW40cXEyZC1OUGZhZHpSRFR6S1Q0QVEtZ3p3eVR1a0R6c2d2d2tkSE1GeWhGUUFUSWhPUlJVZkNFeFRmM053OUljbDNN?oc=5",
+      "summary": "Iambic hopes to springboard from pharma collabs onto NASDAQ &nbsp;&nbsp; FirstWord Pharma",
+      "pubDate": "2026-09-22T18:40:58.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "manufacturing:Eli Lilly Breaks Ground on $6.5B Houston Pharmaceutical Manufacturing Facility:1790101656000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Eli Lilly Breaks Ground on $6.5B Houston Pharmaceutical Manufacturing Facility",
+      "source": "ConstructConnect News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHp5VHlIZFo5a182M3dLSmNGeGp5N0tXVV8wSjhXZWViZnZWN3dYelIxVjdyRTJNOGFma1NvV0xBYUVFV0JkVUpHVmhYLVM4RUdwZllxMExoQzVZdGtNaVk4QUVqamVOYWd1RTd6MVRjTFljazR6Rl9aOVRhTW8zMTE4cVBQOWNhaDkzVGRTdU5jZ0FGWHRuQkpKc0U2OHVRMFY0eTBfbXBOdkt1Z0hMM9IBwAFBVV95cUxQODZxWkhaTzF0RWEwa19RREpqRXJ1Ul9jR1NDUnAyQ0pJaEctYkRaWVhSMThEVDAtRHVmSEhpakJaTXFXUnEwSThEVmpPOFFQWExUNWwwTmhiak8tSmNiMHZMWUY0Mjd2RXZQVEQ0UlRfeEI1SWNhbzNiMHlMZFdTMHpVb05YSkZDR0QyS0hMaE5Nand4MENuWExpZ1d0d1YtbG0wdWNSRG91NkVOaW9zcXV0SkVIaXJmc1ZVeUJQMmM?oc=5",
+      "summary": "Eli Lilly Breaks Ground on $6.5B Houston Pharmaceutical Manufacturing Facility &nbsp;&nbsp; ConstructConnect News",
+      "pubDate": "2026-09-22T18:27:36.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "regulatory:FDA updates drug safety testing rules to embrace non-animal methods:1790091519000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA updates drug safety testing rules to embrace non-animal methods",
+      "source": "European Pharmaceutical Review",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1NIRXZlRl9SVXRjbkJxMkVVbVdFNlpvcDRLT2ZoOVdKbllqN1c5aEdHdllnNUxtTkk3Z1cxaVVQRjhOVjM3ckJFeXJqRS1VckhYd0pZNFNYVzBldTloSE94am96MHpTQmtnTEwtc2tXcXU5QWtfaFRCX2dYVWJSOEVpdzhsNGpWZ3V1dV9TaVd5aloyRUJSNm9HaGEwd2w5eG5SZ0xLcjk2eWVNN2R2bDE0djUxR0p5MkVMbG9fTHpiOUxlOEFv?oc=5",
+      "summary": "FDA updates drug safety testing rules to embrace non-animal methods &nbsp;&nbsp; European Pharmaceutical Review",
+      "pubDate": "2026-09-22T15:38:39.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
+    {
+      "id": "industry:Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win:1790086843000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklwVHRGU1VlejR0YkhHdWk4SC1samVyUmVUcWpDeTV5eEoyM0FoQk55c091VEVaMkFvNjZrM3FKQ0ZWT3VCV3RJMXAzU0lxMFdOOTQ5X3FXVnp4REd3U21DWVBNdEJGeDNzLXFCOHhrR0habUN5dkVzbUJKcll0RjIzTDlwMXQydWlnbkNldmp4Q2E0czF5WW45Nk5jaWNpWVZuTTAwLXNENG9FRWc?oc=5",
+      "summary": "Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-09-22T14:20:43.000Z",
+      "collectedAt": "2026-09-22T22:59:27.902Z"
+    },
     {
       "id": "industry:Nine European Drugmakers Warn the Continent Risks Losing the Pharma Investment Race: Report:1790098398000",
       "category": "industry",
