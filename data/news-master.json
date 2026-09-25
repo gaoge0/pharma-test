@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-25T18:41:42.996Z",
-  "count": 3278,
+  "lastUpdated": "2026-09-25T23:19:51.970Z",
+  "count": 3287,
   "items": [
+    {
+      "id": "industry:How pharma marketers are thinking about trust in 2026:1790370220000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How pharma marketers are thinking about trust in 2026",
+      "source": "mmm-online.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmo0S0lNVTNLLXVjZzMwNG9semxNR05zMVFsdEVPYlJHVkRqRXVreXhVMGVLZnhiT05IOVBUeEZDaUF4TTl0Q2hMQU4teDVoNjd0UVJYaUlNaGxIckpsVVI3VG93WEJnNmJBc1BHQVVRaVRvSy1YX0RVY1EySjhMOW9DZDBuendMQ3g1QlhrYw?oc=5",
+      "summary": "How pharma marketers are thinking about trust in 2026 &nbsp;&nbsp; mmm-online.com",
+      "pubDate": "2026-09-25T21:03:40.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "industry:Contract Pharma 2026 Conference Concludes with Risk Management Forum:1790368468000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Contract Pharma 2026 Conference Concludes with Risk Management Forum",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3FjOWd5dHdwcDFKYVNJRW94emRJQmhjWGJEclZobzB2WGNvVXpDRE5wektybDlQV1pjVmhhMENUUnlHdXJQbzhScktWMlhRSDVrZ2g5NE5rOTRBa3YzUE5VaWdNYW1JaHM3WU1XZWdEMTB6UTJSVnF5b1pQZm82SmlndVlNSDZVcklXQVZIUU5GbmtzR2ZuSVh3a1pyTmpZNWJzU2gzUlB3MU03ZEFYaWhvOVo?oc=5",
+      "summary": "Contract Pharma 2026 Conference Concludes with Risk Management Forum &nbsp;&nbsp; Contract Pharma",
+      "pubDate": "2026-09-25T20:34:28.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "industry:AI risk raises the bar for PE-backed outsourced pharma marketing deals:1790367445000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "AI risk raises the bar for PE-backed outsourced pharma marketing deals",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHp0Y3dHWWs2azNzSDAyTGZ0OGY0ZkVvQXQ2X05BS3NXSGxVWlBja0hUdlVWZEdxSXB1WTFvVEZWZWxXbGhxV3VqSURJMmRoLWlJWEVvaUVwTndXNklsWWstTGhrU1drakMxYzlaeWFCN1duM0x6djdrRWxXR1hkRmxqZFpnM0V1cVNtZEhzaG5NbUJKRzFpZHJnZTJyVmxCTzdPMUw2T3VTeEZSTzZReUxSQWI?oc=5",
+      "summary": "AI risk raises the bar for PE-backed outsourced pharma marketing deals &nbsp;&nbsp; Axios",
+      "pubDate": "2026-09-25T20:17:25.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "regulatory:US FDA approves Mirum's drug for rare bone disorder:1790367086000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "US FDA approves Mirum's drug for rare bone disorder",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnRScXF6U1QyYm9qejFheHhZajVzb2dIZTRhcjJLV0R2TGJ5bUZpQU84Sm9JRkEyN2VzWFNlS2R3SExtN2cwTk9ZeDZ2ZEtYSGNIaWpndDRGY09IQ2JqY21Ia2kzbmp1djRyMVlBZHFvaEVOY0VlSGdhQmFVLURBcGMxdk1qaUVSOENxb2dKcFhleHRQcnBtN1ZRQmlBOVcyZktIZC1RQmVGWGRZZ3FJekg2anNEYmVmMGc?oc=5",
+      "summary": "US FDA approves Mirum's drug for rare bone disorder &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-09-25T20:11:26.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "industry:Budd, Blunt Rochester Introduce Bill to Establish Biometrology Laboratory Program, Accelerate Development in Biotech:1790364351000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Budd, Blunt Rochester Introduce Bill to Establish Biometrology Laboratory Program, Accelerate Development in Biotech",
+      "source": "budd.senate.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmF0STQ5aUt5UTNBU1NFWTBfZENwOWw2REdQT2gwNjBpZVBMLXBPWC1KWUlmWnZvcG1pcnBOQ3ZrWmoyaUFhU2wyTEFRT2liX1h3R19SajFqQk9kVUNKX2FqbFluVmFiQ0prWlg5bG9iWkVsV2tjc1Fqb1hsUzMtUzBVQWxDVTBQRDYxMm1WbjVuWERpWmVmTWRXT1lUZWtweFBuR2U0RVFHb1ZVZXpwelI5V3lucHp1d2VNTA?oc=5",
+      "summary": "Budd, Blunt Rochester Introduce Bill to Establish Biometrology Laboratory Program, Accelerate Development in Biotech &nbsp;&nbsp; budd.senate.gov",
+      "pubDate": "2026-09-25T19:25:51.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "industry:How Early Development Decisions Shape Commercial Readiness for Biologics:1790364035000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How Early Development Decisions Shape Commercial Readiness for Biologics",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzBCaEU3SnJHb3AweWZvdDJCSkhlbkRCaEFhUVRHaG96elJ4dXZQWlBOSG9UOWdQQm9rZTRCaDJHQnNyS2h6ZTlMaWltaVQwTU9EbWQzNUgwNklNdXhFXzBKbTRnQVpsM3JINXk5NERZWUpENFN6ejk3UHg3cldtYmdtZld4eS1aUXlTcU5GQmg0QVlZTVVRd2RudGdzN01UUUlGUW1oVDdIa0ZCVFRlWEhLQXpmQWs?oc=5",
+      "summary": "How Early Development Decisions Shape Commercial Readiness for Biologics &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-09-25T19:20:35.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "industry:Pharma lobbyists give Bryan Steil donations, in turn he votes in their favor:1790355780000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharma lobbyists give Bryan Steil donations, in turn he votes in their favor",
+      "source": "Civic Media",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZi1FY1k3a045X296NkgtcDRHVGMwSTZpOHBFT1VPV3ZEelY0MkN2TDdFUTlxZ1hqUEZRYTdnaVBBUVFFNDQ2NktPWFpEWHBCX1RGd0JhVjQ5azNCcnFXZ2pxalkxWW82Tml4cDFCRUtmX2l5RE10STVUR2RneHU3SlFwcnJJekhYbUxUdGdFTkdDaHpXRGQ0WWk5QkNFd1pXZmJzeW9DU1ZmNHBTODFQMUt4Q0I?oc=5",
+      "summary": "Pharma lobbyists give Bryan Steil donations, in turn he votes in their favor &nbsp;&nbsp; Civic Media",
+      "pubDate": "2026-09-25T17:03:00.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "manufacturing:References | Digital quality systems underpin FDA-ready advanced therapy manufacturing:1790233200000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "References | Digital quality systems underpin FDA-ready advanced therapy manufacturing",
+      "source": "European Pharmaceutical Review",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRnpnQ2NyMkRxTHFzbDVRWjQ3SVltbUVfNjhHaHJQMmpVTnV0Ni1WQXhtMm95NXN0dTl1ZHFpelJGcEV4b1JvcW8xbjNPNDVpU0t2ZlpUMVJ1b1RsNEhjbXRSNVFKWGdRQWh6T1p1eFZ3VTdQRWxpR3g0SW1wcktJRjdGVHQ0enQyYmd6VXhRbVBxbzJ0cHZnVXBvRUVJUzdGcF8xZm4wUk10bTRRa2xKMFNKRlYwR3ZNVEtqRzdzZ0pQbDZTaFZkcnJ5TkpCeU5DcHNlaEhPYkgtcENnLWc?oc=5",
+      "summary": "References | Digital quality systems underpin FDA-ready advanced therapy manufacturing &nbsp;&nbsp; European Pharmaceutical Review",
+      "pubDate": "2026-09-24T07:00:00.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
+    {
+      "id": "deals:Radiopharma companies merge after one receives surprise FDA rejection:1789946953000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Radiopharma companies merge after one receives surprise FDA rejection",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3RFQ0ppU0FoWDNvT0JOdzM2QWZiQ3QxemtxX2NKWVVMYmttREJvWnRPcE05dW5Kak1FWkU1UmJTOEJkc1lrZ0JHRmFBOE91Wmx0bHQ3OFA2ejBfWEI2QjRPYjd6UWVhb1FaY3dKY3NzV21TUXBCVkk2UENOV2c3dA?oc=5",
+      "summary": "Radiopharma companies merge after one receives surprise FDA rejection &nbsp;&nbsp; STAT",
+      "pubDate": "2026-09-20T23:29:13.000Z",
+      "collectedAt": "2026-09-25T23:19:51.970Z"
+    },
     {
       "id": "industry:FDA Approves Welireg Plus Lenvima | PharmExec:1790361015000",
       "category": "industry",
