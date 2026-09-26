@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-26T17:46:32.162Z",
-  "count": 3310,
+  "lastUpdated": "2026-09-26T22:55:47.219Z",
+  "count": 3316,
   "items": [
+    {
+      "id": "industry:Europe Injects Capital into Colombian Biotech Firm to Produce 250 Million Vaccines:1790461860000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Europe Injects Capital into Colombian Biotech Firm to Produce 250 Million Vaccines",
+      "source": "colombiaone.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnBQWV9TZDFKdjU3Vk1OaVhDVnRJcVRHY0VCNGFTZ3ZTU1RLRkVrZlYwTlFwN3FRdlhGQ0dPWG02VTdST3dMM0FiWVJDd1JWa0lEUUo0LWNlX2sya2NvckwwZmhsd3ktUHl2eFhIMU1sbWpGVEFQTnpRLVRPLTBQczJhaXNTOU10d1lYT2xxLVVlZ1pPM3J5VWlfTDA0NE5lZWhvZzhlMzdkUnI5Qk4wMDBWX2tZVVhicmc?oc=5",
+      "summary": "Europe Injects Capital into Colombian Biotech Firm to Produce 250 Million Vaccines &nbsp;&nbsp; colombiaone.com",
+      "pubDate": "2026-09-26T22:31:00.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
+    {
+      "id": "industry:BioMarin Pharmaceutical (BMRN) Adds Robert Plenge To Its Board:1790455350000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "BioMarin Pharmaceutical (BMRN) Adds Robert Plenge To Its Board",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdDNPWlViNU9sYWd0eE5udkcwR21Fcmw2MVB5Q3BJQmk5dERpLVRURXNiX05oWWVUQjB2bE9LVTFNNDVfcnlwNjhrUzIxSmlLUDQyTy1QSFpZRklWc0hzSFhOdF9LQWk4MnI1OXpmdjAzaHVfMWJMNFNqXzZMRkpHQnBOTGRqdVBTWk9QUE5MU3BBT2xEaHZZYnFXc1NDc3lKSHdGOF82V0ZMV1lnWVNFV2tMcXJvMUVidDJsU2JSZGZNM2xkb2FxNGFyTThEaU1acTVCYjFHTDJYQVVrUnRTb3A2SWJkT1BrdXdLS1ROaktNS1XSAfMBQVVfeXFMUHQzT1pVYjVPbGFndHhObnZHMEdtRXJsNjFQeUNwSUJpOXREaS1UVEVzYl9OaFllVEIwdmxPS1UxTTQ1X3J5cDY4a1MyMUppS1A0Mk8tUEhaWUZJVnNIc0hYTnRfS0FpODJyNTl6ZnYwM2h1XzFiTDRTal82TEZKR0JwTkxkanVQU1pPUFBOTFNwQU9sRGh2WWJxV3NTQ3N5Skh3RjhfNldGTFdZZ1lTRVdrTHFybzFFYnQybFNiUmRmTTNsZG9hcTRhck04RGlNWnE1QmIxR0wyWEFVa1J0U29wNkliZE9Qa3V3S0tUTmpLTUtV?oc=5",
+      "summary": "BioMarin Pharmaceutical (BMRN) Adds Robert Plenge To Its Board &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-09-26T20:42:30.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
+    {
+      "id": "industry:Astellas Pharma (TSE:4503) Stock Could Be 39% Below Fair Value On Cash Flow:1790446151000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Astellas Pharma (TSE:4503) Stock Could Be 39% Below Fair Value On Cash Flow",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2R0MUx0Z2g2cFFYcEZ5WWFYUjg0dmpBOWdmQ3RWbFd3dHpOaDlEZ0xlaF9handMQ29nZzZMbGp0ZWxFUU9ETV9iR0RLMXlLcEhqcVdiWGVaekdFNW1nb0lPbG5Wakw4bS1GWnZNOVFQdE5pMDl0RFFBV3ZlQUdjZGVTNU14MVBJOHFiV0o5ZmJjRHlmNUtqdmtFZw?oc=5",
+      "summary": "Astellas Pharma (TSE:4503) Stock Could Be 39% Below Fair Value On Cash Flow &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-09-26T18:09:11.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
+    {
+      "id": "regulatory:FDA Warning Letter to Empower Pharmacy and What It Means for 503A Compounding Pharmacies:1790358550000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Warning Letter to Empower Pharmacy and What It Means for 503A Compounding Pharmacies",
+      "source": "bipc.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmNHNnF5NFBIUjZMc1BBVUFZNjFNNks4TFpTcUFZR0hmanZKems1V0UyMzNnc1B0elVuME5tcVhpRldLR1dRRExBR19NdWoyU011WGxNNER3SVFjZ2ZXUzJHdUI1NUZCVUpWSnVMbDlzM1VVbXhkNXlJeDFraWlyazZhN0FRT2dUdW1jQzZ5and1aDQ0ZFVLZTFHWWVWbEF0VkdacG9DcTY2RDlyM2c?oc=5",
+      "summary": "FDA Warning Letter to Empower Pharmacy and What It Means for 503A Compounding Pharmacies &nbsp;&nbsp; bipc.com",
+      "pubDate": "2026-09-25T17:49:10.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
+    {
+      "id": "china-policy:走进中建交通-丰台区医疗保障局组织开展“丰台医保在您身边”医保政策进企业宣讲活动:1790060400000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "走进中建交通-丰台区医疗保障局组织开展“丰台医保在您身边”医保政策进企业宣讲活动",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmVLTk1aVGJPalJZRFZxeUs4Q0cyVG8wU2pSUENYZjNXR0tqSGdldXV5dmlYYVFGMUI3cG5vSV9aNUxVRVNvZ3c1MGtuVm5laGpzRmFXTnJ3S19NSnJYdTZucEdZOGd3WVZEUmo4dldSQ2QxR2QyTFpMLXZvc3hiUnktakNuV0ZaZGQzNmVR?oc=5",
+      "summary": "走进中建交通-丰台区医疗保障局组织开展“丰台医保在您身边”医保政策进企业宣讲活动 &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-09-22T07:00:00.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
+    {
+      "id": "company-disclosure:迪哲（江苏）医药股份有限公司关于参加科创板2026 年半年度创新药行业集体业绩说明会的公告:1788937200000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "迪哲（江苏）医药股份有限公司关于参加科创板2026 年半年度创新药行业集体业绩说明会的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjNES0FWZ1Z3YVNtTHJsQzJ1UHJWZTNvLXVvVzdUM1RrSGdxajNPZXBZdUVhRGVJdktlR0RObTlSNlZGXzVFSU9qajY0UmxGU2NWWmZ0cnFsVG5VWVBNdHlCQWdCLVpxY2NraEFkRGgzQmVkZ2dGejBQQllremMxcjloTlJsbVVXZ2hOb051WHZ6SEV0ZGVQc19neUhERzJXZUp4aw?oc=5",
+      "summary": "迪哲（江苏）医药股份有限公司关于参加科创板2026 年半年度创新药行业集体业绩说明会的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-09T07:00:00.000Z",
+      "collectedAt": "2026-09-26T22:55:47.219Z"
+    },
     {
       "id": "industry:Maxim Kots: Why Europe Is Losing Ground in the Global Pharma Race:1790442749000",
       "category": "industry",
