@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-29T19:26:44.409Z",
-  "count": 3445,
+  "lastUpdated": "2026-09-29T23:45:41.068Z",
+  "count": 3455,
   "items": [
+    {
+      "id": "industry:Amylin Obesity Drug from Zealand Pharma Succeeds at Phase II:1790719301000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Amylin Obesity Drug from Zealand Pharma Succeeds at Phase II",
+      "source": "Inside Precision Medicine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajFUR1ZacUpIY2xiMjZsMzI3RlJYT1VpaGNvMHFJTDJaZGladFhpZnMtdThZZ2VQVWI2V3NNSE5mSVRtTTFHYXRwei1LZXVuLV9tS0t5YnppN0RUdzM2RFE0UHZsS0RvVjB3SXBsWFhLTDFZaGszbElTZmp3aGl4QkxJMl91TDkxeWhzZXpFMlVqbUdHRXhTN3ZPWFpkTVg1M2VYUDNIcjl3Qmhzanl0bXFNem96NVI5MW5GM1hB?oc=5",
+      "summary": "Amylin Obesity Drug from Zealand Pharma Succeeds at Phase II &nbsp;&nbsp; Inside Precision Medicine",
+      "pubDate": "2026-09-29T22:01:41.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "industry:Pharmaceutical tariffs take effect:1790718018000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharmaceutical tariffs take effect",
+      "source": "ABC Columbia",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiU19LUGp3YURzbkVJUUp1V1FEcVdLd1lhSUEyU2xDWkU1OVQ2bk4tSF9FSzJaSVQ0UFp5d0dxY2pJX2pTSVZEekFOVHZfWjU0RldkcTFsZ2FsZTM1VmdTeUJJNTl4RGhaT24wbU16NWJfall2cW9NTjU1V3FOcWc?oc=5",
+      "summary": "Pharmaceutical tariffs take effect &nbsp;&nbsp; ABC Columbia",
+      "pubDate": "2026-09-29T21:40:18.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "industry:Advancing Patient Care Through Pharma-Sponsored Programs:1790715631000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Advancing Patient Care Through Pharma-Sponsored Programs",
+      "source": "drugtopics.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSG1Vc2RmeTNHcllyNnc3Wks4LVM2TVNtZmxQeXZnYlMyNllRTktwMzVjaTZoRzFLbE12ZVV3aDREQVVpSGVoUzlXT3ZtRW1acGRwc0E2RGhTNnlQVFlRa19LRjMwNFVGOXo3WmJWREt6MFN2eWFEVVlmd0ttazhFRVN3UUJHWUQ3S0s5NzlaNzNuUQ?oc=5",
+      "summary": "Advancing Patient Care Through Pharma-Sponsored Programs &nbsp;&nbsp; drugtopics.com",
+      "pubDate": "2026-09-29T21:00:31.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "industry:End of Q3 2026 Biotech Updates:1790713349000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "End of Q3 2026 Biotech Updates",
+      "source": "BioTechniques",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNHZCcDlkTjRWY2pyclFhY0ozZFgwNGplbmNyWUFuY2pDXzJEdGZQZ1NNMjI5TEo2VEhWNUw4cUNLSWY2bGRBZGVIOEUzS0xaX3RMNmhKTllDMUJJSDlPcS1EVEdTeE55Q1c5VE1Xa3NMem1XdUJFUjAwWUljV0FoRkxEN1BSQXJ6RnUwQ1hEelNmeWNtR1FVbzJYeC1Nd0hHUjJpTTNZd3NMVUlCQWlXUGd1TnRUaFlQN3NqUUlFTzE5X2toVWZCNWNWSC1LZDNDVm1hS21iZk9yOUJZQXNSYWxVdXBlNUl3Y1dHWE1WMmxfOHlNRFpDcGIwRE9PUl9UQmN3Yld3QUtmbVdDMHJjeWlnR2s4YlFHWi1Qd2QwYTFCNnE5VnpoQXZ5Wmx4djJ6elE?oc=5",
+      "summary": "End of Q3 2026 Biotech Updates &nbsp;&nbsp; BioTechniques",
+      "pubDate": "2026-09-29T20:22:29.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "manufacturing:Pharmaceutical Testing: Minimizing Supply Delays With Packaging Compliance Labs' cGMP Facility:1790711135000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Pharmaceutical Testing: Minimizing Supply Delays With Packaging Compliance Labs' cGMP Facility",
+      "source": "Lab Manager",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcklkRWsyN09TQndrT3k3cmhRUmVra01SbVUzZ2IwVHZUMG1QTGZYT3Bhc0ptS1gtTlZwQm0wS3o3U25mQklZTHRDMXpNVFZEZjduSnRjbmY4dF84UGN3bjZzWEFScTV3bkRCeXhLOC1NSmhlQXVBWTZXMGRFQmxZWVI3R3lIV0xsdFk2MGlxWkQzX3A3bll5czJkeDNvMEFfN0dOUFRGdUcwamhKZ1Y2QW9Ka0Y5ODhhR0lmRmdOYS1Ld2M?oc=5",
+      "summary": "Pharmaceutical Testing: Minimizing Supply Delays With Packaging Compliance Labs' cGMP Facility &nbsp;&nbsp; Lab Manager",
+      "pubDate": "2026-09-29T19:45:35.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "china-policy:您的位置：政务公开 > 政府信息公开目录:1790707702000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "您的位置：政务公开 > 政府信息公开目录",
+      "source": "北京市中医药管理局",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6N1NZQjdNUzA3c00wdXlCbDB1ZjUyalhWeGQzYXhUMEdqOVhNckMxT1JERWNfSGhfVWZFLVpPYkVEbmI0NW5GRGw3bzZuZi12eFZHUWw3MHJSc2NwclZXTFFSQQ?oc=5",
+      "summary": "您的位置：政务公开 > 政府信息公开目录 &nbsp;&nbsp; 北京市中医药管理局",
+      "pubDate": "2026-09-29T18:48:22.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "science:Viral Protein Helps Self-Amplifying RNA Overcome Cellular Defenses:1790586043000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Viral Protein Helps Self-Amplifying RNA Overcome Cellular Defenses",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnAzMnN0NWdIOVlXVXNDeUszSlNmSWJjTlREckFzQTU3WEEzZk1xVG9vTUd4NDFhcnhzc1JnakQxb1l6djU5Nzc3V2VkVG8xNTIwS3lmZkJ2UHE2c1BEX2FDUnFyNnhjNFRrLWp0eEZxbFAzRWFLVnNQcFpMdXBKZFlyV2trcFFHUER3MEtQb05PbmdxMWxVQUNkT1R3XzBNVjlmWi1GQWNYaVk?oc=5",
+      "summary": "Viral Protein Helps Self-Amplifying RNA Overcome Cellular Defenses &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "pubDate": "2026-09-28T09:00:43.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "clinical:aTyr Pharma reaches FDA alignment on phase 3 sarcoidosis trial:1790245491000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "aTyr Pharma reaches FDA alignment on phase 3 sarcoidosis trial",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYldobnVfVk9SMFlNbXBfNnNoYy1aYjNnODA2ekRNcFRCMk9UUG5QZEV0RnBOZ2tZYkM3WGVOaUhSa3hNNUFHNW9HSHNTanEzVHhBRkM4TGV1OGl2M2lmSXowaVFtX3RqMzlVMVhQOS1pN1luS2hNM3drZGozb3d3amtQUEVYTW1OWkNBOFpLVU5kVEpDMjVXekhvV09sb1duTmx2Mm52Yy1UOWhhN1gwU05LdTBvek9GYlFr?oc=5",
+      "summary": "aTyr Pharma reaches FDA alignment on phase 3 sarcoidosis trial &nbsp;&nbsp; Investing.com",
+      "pubDate": "2026-09-24T10:24:51.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "china:Biotech is one area where the US can afford to let China flourish:1790157342000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "Biotech is one area where the US can afford to let China flourish",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWdwTEVXOHRMcmo0ekhBWjNtS1Byd2hOSUVBVjdLWkYzbUV3VU9leUltUVJLVnNlVW5Gb3JOc29KUHFwVENfM1ZfNmFZM3RhSTdxai1xRjQ0dW9wTU93NkRhZm9hV3FwVlVCeWswaVFsckRjZDkzTEp5QlFkUkhLMzJWbkhMUENNYWNqOXRYdw?oc=5",
+      "summary": "Biotech is one area where the US can afford to let China flourish &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-09-23T09:55:42.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
+    {
+      "id": "company-disclosure:诺诚健华医药有限公司关于收购控股子公司剩余股权的进展公告:1788850800000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "诺诚健华医药有限公司关于收购控股子公司剩余股权的进展公告",
+      "source": "巨潮资讯",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xVTdwTDdmLUFPeFRiRXcyTkw1ZlhaQWg4aDRrSWtlTndnYkJGQV9IVTVtZGUwSTY5UkEtNVpHWFppYVdRVGEtb2hVUF9kT0Z4UlBhUFNXVUZ2dmhiV2xlUnlaOWc5MlowcG1aRlVxTlQ?oc=5",
+      "summary": "诺诚健华医药有限公司关于收购控股子公司剩余股权的进展公告 &nbsp;&nbsp; 巨潮资讯",
+      "pubDate": "2026-09-08T07:00:00.000Z",
+      "collectedAt": "2026-09-29T23:45:41.068Z"
+    },
     {
       "id": "industry:Neurocrine Biosciences Welcomes Back Eiry Roberts as Chief Medical Officer:1790709400000",
       "category": "industry",
