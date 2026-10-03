@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-03T17:59:55.099Z",
-  "count": 3653,
+  "lastUpdated": "2026-10-03T23:07:55.105Z",
+  "count": 3660,
   "items": [
+    {
+      "id": "industry:Big Pharma Bets $2.2 Billion on Previously 'Undruggable' KRAS G12D; Race for Pancreatic Cancer Targeted Therapies Heats Up:1791066300000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Big Pharma Bets $2.2 Billion on Previously 'Undruggable' KRAS G12D; Race for Pancreatic Cancer Targeted Therapies Heats Up",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NEI3UGpsMGdUT0dJaWJXZkJfOFAwalVDTXdjYVdzZ2pJYWxJODdCYlFtaU94RDFzSDVGbkZROEQtVzdDOHJ2Ri1wYjljcHp6ZVFtQ3pHNTB0REdhNHBZSVNWWXdnaGZfRU1zY24wbXZEdkdVN1E?oc=5",
+      "summary": "Big Pharma Bets $2.2 Billion on Previously 'Undruggable' KRAS G12D; Race for Pancreatic Cancer Targeted Therapies Heats Up &nbsp;&nbsp; finance.biggo.com",
+      "pubDate": "2026-10-03T22:25:00.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "industry:Cue Biopharma, Inc. Revenue Breakdown – LSX:A426PN:1791065450000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Cue Biopharma, Inc. Revenue Breakdown – LSX:A426PN",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13U3pRdXpXcWEwblJlZG5LdDJGY3BpYU1kcFhHSWxFVGl1U1FreUU1UEVvY0Y4S05jMEtMSTlpYm5tMzA4RE05RG5SeDN1eVVaeFN6R2dnLUprV1NVNWkyeTdnakN6aEZsU0pJUmFCVVliMzNkaVE?oc=5",
+      "summary": "Cue Biopharma, Inc. Revenue Breakdown – LSX:A426PN &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-10-03T22:10:50.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "industry:Italfarmaco and JCR Pharma ink license deal for JR-141:1791059818000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Italfarmaco and JCR Pharma ink license deal for JR-141",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnRoeUxDMHRJOTNMbHEyWWFESUlKdDhUaUVlYWNpSFJCSllPQllvald6dmpyd0kwdHoyQlJZaS1ZMW1iWEVuWk1ZLXppcVFqNzdUUnhTMTlLbExWV2JsVnhFcGxMM202OVp1MXRiaVdLNU9nbnByZFBESl9xa2J4MVV2TFdFVnZfY1B0dGlHUTFWdElKSENKaGdzN2k3bzI1?oc=5",
+      "summary": "Italfarmaco and JCR Pharma ink license deal for JR-141 &nbsp;&nbsp; The Pharma Letter",
+      "pubDate": "2026-10-03T20:36:58.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "industry:Which Drugs and Pharma Shaped Oncology in the First Half of 2026? Breaking Down FDA Approvals:1791055613000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Which Drugs and Pharma Shaped Oncology in the First Half of 2026? Breaking Down FDA Approvals",
+      "source": "Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rQkxzaFRzb21ueUJRWDJuY3Bnd214SllYRWlvckQ1VFFldll0eW1Jc0xVSkVXUmdOQTFTYnE1YzJMd29YODRLeFBFbldRVk9pZ01MTWlvZWdrUGIyeTJ6WEdfOFJTWEtiQTVXUlFLYVRXQQ?oc=5",
+      "summary": "Which Drugs and Pharma Shaped Oncology in the First Half of 2026? Breaking Down FDA Approvals &nbsp;&nbsp; Oncodaily",
+      "pubDate": "2026-10-03T19:26:53.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "industry:Electronic Micro-Pipette Systems Market Forecast to 2035: Biopharma Expansion in Asia-Pacific Drives Growth:1791055564000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Electronic Micro-Pipette Systems Market Forecast to 2035: Biopharma Expansion in Asia-Pacific Drives Growth",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWpkV1J1dzJsU3d0QU5qR3pLZjROR2JuWEtMZXQxMjZtZmtuV0h3MVpLaDhZclVvZmRVaGNiZllRay1wV2RuY3VVb3h0OVVYVUZyNlB1dTA1QjlTdVR4Tmg0Y3B2VWFfR3FXdHJlYUp0NVdxOGlsQi1YaWhiVTVmSWRVUTBKZEprZ1p6VUhlaU5rbXI4azRNakhKbGZmU3ZjemJNMm15RDZYX01LaWRzQ29tNUhBSzlRUDZVaXYyYTBNTml6bmxjNlNlMnFKX3hmS0E?oc=5",
+      "summary": "Electronic Micro-Pipette Systems Market Forecast to 2035: Biopharma Expansion in Asia-Pacific Drives Growth &nbsp;&nbsp; IndexBox",
+      "pubDate": "2026-10-03T19:26:04.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "industry:Ultragenyx Pharmaceutical (RARE) Could Be 42% Undervalued On EMA Filing Progress:1791039600000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Ultragenyx Pharmaceutical (RARE) Could Be 42% Undervalued On EMA Filing Progress",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQXViSEJXVWdGS29oSWEwNFllSkFiclp0RF8ydHBOQ2FvbHQ5Y3lja1BrUjN3dV93V2F0bHJYcm11VUdjd2JhWmpyclUtUTJhQ3laajFLMmdNRVFac0JNSmJuQndZTE1rWGVjWFdja0t3cjBaWW5lRE5SWm5xSjVXUEJ1QzBhb3Faa3hJOGZQN2pMU2JySS1VRlUzSXdIa0gtRVRZRTk1Wmc0Umk3U0JlOElySFMteXhPUE4zRWtOZDdJaXdWcjhEOTRHVnRJNElvdmVsbkxtOGszai1wTk1UVmRCbnVybktJcnZKcEUwQk7SAfYBQVVfeXFMT25YTTMwZm4xRGZienJrcS1NSS1GYUw0TUZXbWQ5LWJBOHFDNGxlaktWa0ROdWxTWVoyVjdQWVl6WnJ4bUxwOXVIdzdxTUZMcHpQU1Yybnd3dlhKNk9SRTJwQi1aNnZZdVMwSG1VdWdQOGRDZE53SGloM294UFI1RVVGbXMzZERkTVgwWC1BMW41Tlh4VWw2QmxnWURKSG9SWjE5OThxNktMc1ZzWXJzSUx6OXZzNDEyOEJvc1NncGpBbWJMZ3BmWEszZUYxOWh2LTlhRXdZMHc5MnEybzRwZy1YNVljX3lNenp4Y2FJTHp5NTFFSGxB?oc=5",
+      "summary": "Ultragenyx Pharmaceutical (RARE) Could Be 42% Undervalued On EMA Filing Progress &nbsp;&nbsp; simplywall.st",
+      "pubDate": "2026-10-03T15:00:00.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
+    {
+      "id": "company-disclosure:西藏卫信康医药股份有限公司关于子公司获得注射用水溶性维生素药品注册证书的公告:1789110000000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "西藏卫信康医药股份有限公司关于子公司获得注射用水溶性维生素药品注册证书的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmVQVnh3aHBKbDhGcko1ZTN3azZTbGZBMUQ0aUNCLWIyYXNKM09fM2IwbnVYaGE5cVQ2QTJaY2oyVktjcV9rdDBJTWZFam9WQV9ORTVDdHA4ZkQ5NUtvQlJQdVdXSE9CWUJtNE1ZTjl3dXh2bXdzbmFwS1NJVGh2cWpTV2x3emg1elJLTm5jWlpTODBzSTl0bjlZZFJpbnVwN0hqWg?oc=5",
+      "summary": "西藏卫信康医药股份有限公司关于子公司获得注射用水溶性维生素药品注册证书的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "collectedAt": "2026-10-03T23:07:55.105Z"
+    },
     {
       "id": "industry:Plasma Protein Purification Cartridges Market To 2035: Biopharma Expansion Drives Growth - News and Statistics:1791048064000",
       "category": "industry",
