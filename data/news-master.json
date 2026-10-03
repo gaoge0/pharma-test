@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-02T23:49:41.962Z",
-  "count": 3627,
+  "lastUpdated": "2026-10-03T08:13:46.836Z",
+  "count": 3635,
   "items": [
+    {
+      "id": "industry:HIPRA Biotech Services Expands Integrated Biologics Capabilities:1790997760000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "HIPRA Biotech Services Expands Integrated Biologics Capabilities",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2UxanI4NzBBOENwMWdURXdqaEVKWTEzdXo5Q2wxZ0N4cFN1dW11em1ZejBkcUFoVnRXTWFZLVhkR3kxclRlZUVZYUx0Q1I1NzZrZnE3S010emtPMC14SkxWS0Y1UFFkNGo3Y1hDdTEySVJPR2NzMDJUQnF5RVRMUU9FOEptZ183RUZtVHhqMmswNkRfeEFRMFFHTU9lem9WV21TeXIwS2djeHRZeFA4dXpn?oc=5",
+      "summary": "HIPRA Biotech Services Expands Integrated Biologics Capabilities &nbsp;&nbsp; Contract Pharma",
+      "pubDate": "2026-10-03T03:22:40.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "regulatory:With FDA approval, Lilly’s BTK drug Jaypirca enters first-line CLL:1790972125000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "With FDA approval, Lilly’s BTK drug Jaypirca enters first-line CLL",
+      "source": "fiercepharma.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX21MMWZmNm1CZGEtak1VbGctYTU4cm1oTTJEUnNlYVFCN0cwalZWaXYtUXBVRnA2TGVLNzJxb2pDVk9icnU3S3NZTXJZMDVFWGxyYWZoOEhNeVdrR2xHVm1yaFpZRnNvWmV5QWpuSnAtYXVYeEpLaVlWa1dXYjl2Y1c5WTlyeXUwRHBwZU5mb3FJN2pvaUNDdW53?oc=5",
+      "summary": "With FDA approval, Lilly’s BTK drug Jaypirca enters first-line CLL &nbsp;&nbsp; fiercepharma.com",
+      "pubDate": "2026-10-02T20:15:25.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "science:What Is Johnson & Johnson (JNJ) Signaling With Gene Therapy And AI Repurposing?:1790945099000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "What Is Johnson & Johnson (JNJ) Signaling With Gene Therapy And AI Repurposing?",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWU9fWGFBNjA0OG5MU1BlS2hwWTB4ME9xX3BMRDZRRGhWNGxrOVdPWDlHQzFmUmdDdXV2c0l4VjRueEg5Qy1RU3dJOFZSOW9qVlg1NExPR1JyVzluTzFOQ1B1MHdRVW9lQXllRWJSYjFhNlZFU1ZVS1FFU0VVeldEdXdIaGdrTjZYOWtubURRa2xUaldlNEtrX0E4Tkc1NHFsaGl3cnVOX1hFdnNXdFVOdVBRRG1RMHlHZHNicmhXNjhPUlU2Q1dlLTBNSjJBOUJZZ0F3a19TYV9pdmRDWTJybmJuZ9IB4wFBVV95cUxOWU9fWGFBNjA0OG5MU1BlS2hwWTB4ME9xX3BMRDZRRGhWNGxrOVdPWDlHQzFmUmdDdXV2c0l4VjRueEg5Qy1RU3dJOFZSOW9qVlg1NExPR1JyVzluTzFOQ1B1MHdRVW9lQXllRWJSYjFhNlZFU1ZVS1FFU0VVeldEdXdIaGdrTjZYOWtubURRa2xUaldlNEtrX0E4Tkc1NHFsaGl3cnVOX1hFdnNXdFVOdVBRRG1RMHlHZHNicmhXNjhPUlU2Q1dlLTBNSjJBOUJZZ0F3a19TYV9pdmRDWTJybmJuZw?oc=5",
+      "summary": "What Is Johnson & Johnson (JNJ) Signaling With Gene Therapy And AI Repurposing? &nbsp;&nbsp; Simply Wall Street",
+      "pubDate": "2026-10-02T12:44:59.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "company-disclosure:哈药集团人民同泰医药股份有限公司关于重大诉讼事项重审进展的公告:1790724413000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "哈药集团人民同泰医药股份有限公司关于重大诉讼事项重审进展的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamJnS25OX2lNMlB1bnZ6dUYtU2lhcWhRaERQV21Ldl9tN1pLZEUyUEVOZDA3eXlsTkxDRU9vNEdlOUVnZkh2RXVFWlFsUDU0Mk5VcmRtVkw2UThQYmYtb2hsRF9QOXA0VW5Dem1Eb1RkU3g3WVAtWU05SUtGT2h5LU5PZjVERVpFYWNDYUFXVkNhR3hfNEc0eklIdHpEdWtFLUdacA?oc=5",
+      "summary": "哈药集团人民同泰医药股份有限公司关于重大诉讼事项重审进展的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-29T23:26:53.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "regulatory:FDA Approves Tavapadon for the Treatment of Parkinson Disease:1790619930000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Approves Tavapadon for the Treatment of Parkinson Disease",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVJlLUNfX1hiTHlQT0dVNGhxYkVybWFZLUcxUVpVd0x0S1NLR2ZTSHV3OVdtejEyX1M0b2FMVzVMUkJmRXlaMXBNd1Npd2JwSFMyajN5YVFMaWJLc2ZFWk1QNTd3UkdYWFVZR2toWG9tQkVKWVQ0cTRzc1RUUVdualVvYldLN1F2bmJ4aC02dXVOWHVaNG81WXQ2Ukg?oc=5",
+      "summary": "FDA Approves Tavapadon for the Treatment of Parkinson Disease &nbsp;&nbsp; NeurologyLive",
+      "pubDate": "2026-09-28T18:25:30.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "company-disclosure:长春百克生物科技股份公司关于自愿披露重组人源抗呼吸道合胞病毒单克隆抗体注射液组合制剂:1790146800000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "长春百克生物科技股份公司关于自愿披露重组人源抗呼吸道合胞病毒单克隆抗体注射液组合制剂",
+      "source": "巨潮资讯",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQUZRc1hqWk1rUEw1YnlobmIwVXlHWER6MkFPMGYyM25pRXdpZW9KVlN2QURLZWVhZzdQUkRwdFEzd1Z2ZVRaMS1sU3V5dThPTTdyNll4QUhMWkRBcElmNW9kVXMxaHYxN2NPTmJHTHJmUQ?oc=5",
+      "summary": "长春百克生物科技股份公司关于自愿披露重组人源抗呼吸道合胞病毒单克隆抗体注射液组合制剂 &nbsp;&nbsp; 巨潮资讯",
+      "pubDate": "2026-09-23T07:00:00.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "company-disclosure:上海复星医药（集团）股份有限公司关于控股子公司药品获临床试验批准的公告:1788956513000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "上海复星医药（集团）股份有限公司关于控股子公司药品获临床试验批准的公告",
+      "source": "dataclouds.cninfo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTG9FMjFaM2ZoQ080MU1uUVlKU3gtZ1ZfelBQZHRUT3RQcUtlY19oaHVZSnhBbU5vNG5fRGtUdnpEd2hrYmpwdGlsRTZmN2pBVTJ4OHN1MTRWLU5VZGgtdlhPVlhaYmMtVWQ2QjYteHU1dVFpMkFpc0dFdnhIRGJzQWtJVGNHREI4a29TU25XOTZCRTF4VU9OWTEwcXJjdV9adDVBeQ?oc=5",
+      "summary": "上海复星医药（集团）股份有限公司关于控股子公司药品获临床试验批准的公告 &nbsp;&nbsp; dataclouds.cninfo.com.cn",
+      "pubDate": "2026-09-09T12:21:53.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
+    {
+      "id": "company-disclosure:四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告:1788591600000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告",
+      "source": "big5.sse.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVlKekVteG11Vm5TOG9HdktkWURyYzVIVWFiOHlBRkZLWnB6bjF2YWdnUERWTjZIcUFjbFYtdFQtTFhaQm01QjJkRXFkcmRPZjhnT1VWNUJwLVFwTHhQRXZhZk50d0NfNzQ4QWVZQ0E0Tkc2OEhkZUtVZEJEdnZjWkdtb1VIS1lLbDJFVk5oSmM4X0ZtUnIxSEpZQ01HQ3k3X1hGTXo1bTVpRWIwaEctX0NQMVNleWthdHJjdVB2czE?oc=5",
+      "summary": "四川汇宇制药股份有限公司关于召开2026 年半年度业绩说明会的公告 &nbsp;&nbsp; big5.sse.com.cn",
+      "pubDate": "2026-09-05T07:00:00.000Z",
+      "collectedAt": "2026-10-03T08:13:46.836Z"
+    },
     {
       "id": "regulatory:US FDA extends review of Novo Nordisk's hemophilia drug over facility issues:1790977946000",
       "category": "regulatory",
