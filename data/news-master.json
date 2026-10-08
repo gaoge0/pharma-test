@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-10-07T20:00:16.623Z",
-  "count": 3835,
+  "lastUpdated": "2026-10-08T00:14:32.274Z",
+  "count": 3847,
   "items": [
+    {
+      "id": "industry:Agentic Biopharma: How Future Ways of Working will Transform Drug Development:1791411682000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Agentic Biopharma: How Future Ways of Working will Transform Drug Development",
+      "source": "Veeva",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWF4MV9sakJNbDVqY1JFRDBDWnNHWGhmVTU5NUVBVm0yS2l0NjlYeFoxWGZjT3gwNF8wclJSTjJmYlFEUkdBMktyVTdheF9fVnVzOTQ5T2ZhWUpLcHBjRVFEeEpsRXl0MFM1a2xMTE9WT01FZ0s1UFpNOGtkQ0pqNHRVb3pqeFRTcXZHSWxobG41Qnc?oc=5",
+      "summary": "Agentic Biopharma: How Future Ways of Working will Transform Drug Development &nbsp;&nbsp; Veeva",
+      "pubDate": "2026-10-07T22:21:22.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Key Takeaways: Navigating Follow-On Patents in Bio-Pharma:1791410836000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Key Takeaways: Navigating Follow-On Patents in Bio-Pharma",
+      "source": "JDSupra",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmc5aDRrT1NkLUxpb014UGN6TTNJR3lON2YyUUpWc01wVXNmT3hCWjMyOFFJcjBienhEcU5YalVKdkxOVzhUV0Y0d3kta1hyY2twUXd4SzNpQzNnUjA2Yk55RXAxb0NVTDQtT054VHk5UEpIZWRnN2dUYXBYVVc0UGFwYw?oc=5",
+      "summary": "Key Takeaways: Navigating Follow-On Patents in Bio-Pharma &nbsp;&nbsp; JDSupra",
+      "pubDate": "2026-10-07T22:07:16.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Is SPE Transferable to Routine Pharma Labs?:1791408549000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Is SPE Transferable to Routine Pharma Labs?",
+      "source": "Chromatography Online",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPams0TzkwNk1INVlzbm9hLVBYMGtIZ2M1YzZ4ZTE0bzFnS19GdnZ3c2dVWV9MSk11RnAyaWtCemJGdGJBNmxUVVdiQWh6SW1aY0lYbmVscURhaW5SY0xsdEpGeEVHdnV4Wkp0bFZHT0pIZnNIWGxlZklDSkdHSXh4cDhsQ0xaUnRHdzlTSHpKQ3I?oc=5",
+      "summary": "Is SPE Transferable to Routine Pharma Labs? &nbsp;&nbsp; Chromatography Online",
+      "pubDate": "2026-10-07T21:29:09.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Why Pharma Is Automating for Resilience:1791406800000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Why Pharma Is Automating for Resilience",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkszRjJtcXNoUjVfU0xyTnBSRW02QVZyb09kcnM3Z05sb0RBaHN4aFczZkd6Z3RGSWZoUm1uNUJRX3dGMlVkVi1aM1BxaWZaZmFuV1JaRkI2MWlOV3dPUVd2czhFODg3ZmZaS0lwUlp4d0JOVnQ5MmplMUNRXzdwenNPd0lNV1B0a3NR?oc=5",
+      "summary": "Why Pharma Is Automating for Resilience &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-10-07T21:00:00.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "regulatory:Stanford-developed therapy treats first patient after FDA approval:1791404672000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Stanford-developed therapy treats first patient after FDA approval",
+      "source": "Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZPVlRuY1MxZUUyaXFjN09OeDhUZVVNYXdGLWs0OHhkZGluZF9TY1BqbVp5UlhiOW1JNXdRNzhEV0ZZRnVWOTdnMl93bDlnSHN2NTFKNXRWWjYyRUpvX05XUjAta0dNTkswNEhNSVlOb2JTNVQ1dlJvdjhfVVVERjlmM0Q0STM3enJyeF9kakx2YW1nMGxuVzZUc3RfelBFUEhRVG82QjJKMmFQeGtSVUNFQQ?oc=5",
+      "summary": "Stanford-developed therapy treats first patient after FDA approval &nbsp;&nbsp; Stanford Medicine",
+      "pubDate": "2026-10-07T20:24:32.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Pharmaceutical CEO gives $10 million to Mississippi State engineering department:1791403845000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharmaceutical CEO gives $10 million to Mississippi State engineering department",
+      "source": "SuperTalk Mississippi Media",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDIyTWpScXVkU0hBNHFtbHJUVzlTblR6cnhsbVRKYzU3bGV1TF9OWVBtckZQMXRtejlKRmJPR3VNZ21xUzF0SjQxQkNQQkFoUFgybkRXMENMSUZmODF3RUM5dmlLRnA1aFpETVRzNlVVcVNKZ3RRd204czhxRngxMy1UeEs0NlJiNG5malhjR1puNGFjeVZzcmJZMzlaX0lmdHhwZ0R3eEw?oc=5",
+      "summary": "Pharmaceutical CEO gives $10 million to Mississippi State engineering department &nbsp;&nbsp; SuperTalk Mississippi Media",
+      "pubDate": "2026-10-07T20:10:45.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "regulatory:FDA clears pathway for conditional approval of cannabinoid drug for canine bone cancer pain:1791402433000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA clears pathway for conditional approval of cannabinoid drug for canine bone cancer pain",
+      "source": "DVM 360",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHpYQTlnWlVXODU1TFo2YXc4X1BYNVl4MjM3U2xWOVhXeWotNHpqcE5jY1dKaTZPOG9ZV3ExWERmQXZOYS04Y3VRc2xOVnZBM04yZWdsanItSnJtUVFveHdBeDFtc0hwVkxDUmdDLXc1aFNpQWdsU2ZnNVlibEoxSzhLcFJKbUVSalhRZHIxSVNtTTNzOUtHX005aFRHQzFDdUU4cDlvd1JtQ21JczZDdkl2UWZTVVVnT29R?oc=5",
+      "summary": "FDA clears pathway for conditional approval of cannabinoid drug for canine bone cancer pain &nbsp;&nbsp; DVM 360",
+      "pubDate": "2026-10-07T19:47:13.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Where Most Pharma Companies Still Have Meaningful Gaps in Their Supply Chains:1791402027000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Where Most Pharma Companies Still Have Meaningful Gaps in Their Supply Chains",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGVEQXR1QUdjSkstdDZ5YVZXMVQ4MmRvVE8zYmwzMVRmTm5RbkFubGk3WFdOWGdQMEVVOXlvYTNvVEU4LWhKR0hubWNWOWRwMWlESzdncGNxS2NkaFJrajlwcG5VZzdybjJzRU1kdzZzN2Z4YlJUYzJsUll3Sjk1d3dPZ1dxSW81?oc=5",
+      "summary": "Where Most Pharma Companies Still Have Meaningful Gaps in Their Supply Chains &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-10-07T19:40:27.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "industry:Pharmaceutical lobby sues Trump administration over most-favored-nation pricing:1791395219000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharmaceutical lobby sues Trump administration over most-favored-nation pricing",
+      "source": "Maryland Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2NMU09jUmI2c2w0Ym5VOWpmMFhFbG5XSmNvUjUyZGNrZm5Tay1VTmFVS3VJM1JXNDRvbXJEemg2dkVlMThEc3RJbWVrbF90aW9CUU9nbTlxeDQxcHA0WjVHU3NBZzM1c1IxS203ZlZhWnhUMTd4X1pLcjBjYXhuUUxfbVhCTFh1MUxfMEViaW93QmthczdmZEwxY0lkTzR0SHBSbXV4bU1ENDEzbDNRX2kwSQ?oc=5",
+      "summary": "Pharmaceutical lobby sues Trump administration over most-favored-nation pricing &nbsp;&nbsp; Maryland Daily Record",
+      "pubDate": "2026-10-07T17:46:59.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "china-policy:2026中国足球超级联赛北京国安VS青岛西海岸:1791341296000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "2026中国足球超级联赛北京国安VS青岛西海岸",
+      "source": "北京市人民政府门户网站",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGxZYVVpS3M4RmViRW1rZThxUmR6UXBFSGg2QUY3T3R4WlpCcWFzekltSHZfbVZvYjNncWlxUld6RU4wOENJTDZLUk1hYmNEQjB5VVVpeEVsM3RSUUtJamZXbGNDY3JfRVpIb1BpX0F2SS12Vzl0d1BGZDRnNnRFaA?oc=5",
+      "summary": "2026中国足球超级联赛北京国安VS青岛西海岸 &nbsp;&nbsp; 北京市人民政府门户网站",
+      "pubDate": "2026-10-07T02:48:16.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "china-policy:北京首店“圈粉”跨城游客:1791336300000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "北京首店“圈粉”跨城游客",
+      "source": "北京市人民政府门户网站",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTmh3UFlPSmZUaFNwaEVFOTBFazA5dmtMTVQ0YkwtM05idFRzVmU4ZnRlYzNZdS1SQTd4TThsYndLcW91YWFsMUxjWWVGR0pEbzh6VC01S0VEU3NVaVNlczFGWVF1THpiU3Z6Q2J2NElNeGdZWlp2VnQtWEVGdTQ?oc=5",
+      "summary": "北京首店“圈粉”跨城游客 &nbsp;&nbsp; 北京市人民政府门户网站",
+      "pubDate": "2026-10-07T01:25:00.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
+    {
+      "id": "manufacturing:Global healthcare companies invest billions to boost US presence:1791270000000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Global healthcare companies invest billions to boost US presence",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1B0RFpiOHhqNTdwMUhXLUFXWEJ6U2d4RVdIcWc4MG1TelBPTkJwN19sN2tWX3VnZG13WnloeGJVU3BPQ2VUNENfQjFxQmpGX3NKRGVSdm5zamhpYVpsMDVucDZqc2hpeDliUXhnVnd0M2tKU1dkNjVlUDNJcnBOa3JEaVo0Z0NNZU1iaEVRcWZTY01nRjhpRDZHcnlkRm5maEhvazl6MFh3bS03Y19rdDFCTFdrTjhmZWlwbWYyeUp4OU5OdVk1V004Q24?oc=5",
+      "summary": "Global healthcare companies invest billions to boost US presence &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-10-06T07:00:00.000Z",
+      "collectedAt": "2026-10-08T00:14:32.274Z"
+    },
     {
       "id": "industry:Pharma Rethinks Supply Chain Planning as Disruptions Mount:1791394437000",
       "category": "industry",
