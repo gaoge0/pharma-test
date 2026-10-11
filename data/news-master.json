@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-10-10T23:37:05.570Z",
-  "count": 4020,
+  "lastUpdated": "2026-10-11T08:59:52.292Z",
+  "count": 4029,
   "items": [
+    {
+      "id": "industry:HBA Speaker Panel: Biotech Companies and Investors Face a Growing National Security Regulatory Thicket:1791706541000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "HBA Speaker Panel: Biotech Companies and Investors Face a Growing National Security Regulatory Thicket",
+      "source": "Wilson Sonsini",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2pUWjh3OS1FWXZSbVhVbS1Odm9fc3NOYkJKZ21LbVlfRVNvZmxhRk02N2tyNU9lTTdDT0RhandFSnJjS3M4RElYejRPYVJiaUpEb1NlU1ltMS1XOTEyd2xnalNWejlpTWliSWRJTE9KRjV5MGhMSXpzQ2k0U2NvdXlIWExkamV5MDFQWWF2aVhtOWItTVR3emVwNmpPSmIwaEs3R0NmaWpXUEVnb0ROTzZ5Mlg0NXRaWUQ3ZVVtdzZLNGs2Ym1oTFZIcmNNaDc5TEdZ?oc=5",
+      "summary": "HBA Speaker Panel: Biotech Companies and Investors Face a Growing National Security Regulatory Thicket &nbsp;&nbsp; Wilson Sonsini",
+      "pubDate": "2026-10-11T08:15:41.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "industry:NewAmsterdam Pharma (NAMS) Could Be 58% Undervalued On First SPINOZA Dosing:1791693668000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "NewAmsterdam Pharma (NAMS) Could Be 58% Undervalued On First SPINOZA Dosing",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOUE5WldQd25RSDd1MkVWWVA4RWtCeExxbTY0ZXJRX1RzT1lvYXRTWUNtUTFvNmFzZ19iM1lmWlhVeWtkODBFT1dCYzZjQWdxc1VKT2o5alEzNTh3enkwOTdlaFhabi00cGpZR05QbDFCNnhUWE9QTzhMb2FuQUhPTWFlNmQzZXdSbEFKUXFQRHVWSW5WbU1FaGI3RUNVdkZTZFFsTG13MnFCQ0RWdmRBV29Dcld0bHJxOVJIY1lpdHhWS3QtS0RWenVLb1N0UzlUN29pU3hHR0NEaEFZOFNvRURWZURKX0ZW0gHuAUFVX3lxTE04OEZZYzNrcnZpSDREeXVhckM0Ty1pb0o0QnkwTk1BWlJ3TUFmNkEzbkhYamZiUzdQY2FxY29tTXZmZTFGRjhZeFl4T0ZELUhvemo3c0FPNGpBTzBoUjhtbGRrZ2tuU0RjRHFZY3JQWk9qZmFYT1lVMjZsLUdNcGlET2xsNVRtXzViMmxkNlVEZm4wS29ndmRpWUpxQ2RfRVMxMDZRWmtfYjBzbEVKS3lvUXpSQ01tY3VQR1J1bG00QTIwNlZvSFJCOTFtWVF5dnptMGhsNkVnQU84NXlBWHVPeFY3UmU2SDNfMUdQZ1E?oc=5",
+      "summary": "NewAmsterdam Pharma (NAMS) Could Be 58% Undervalued On First SPINOZA Dosing &nbsp;&nbsp; Simply Wall Street",
+      "pubDate": "2026-10-11T04:41:08.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "industry:'Indian Pharma's Risk Aversion Holding Back Innovation':1791692100000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "'Indian Pharma's Risk Aversion Holding Back Innovation'",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE9fbkxRMWZKY2hIOTRIUzNHWEpzal9hbFk3dEtZZjFGaU9XTEpQVDFwaEZNZnVyQ0V0WTBSay1LbENoX1BMcWpHaUVYWWcwT3p2akV3ZGZSTy1DcUs5NWtQX0N1UV9TQ1ZnZS1YNnZGNnNZbXlqNGVMNE10a3B3Znl6T2lmVi14ZDVyWFhxbGhYeG1ReUNDSWdzSjFfMU0yV29mbzhPYW1zQnBwQ0cw?oc=5",
+      "summary": "'Indian Pharma's Risk Aversion Holding Back Innovation' &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-10-11T04:15:00.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "industry:How Much Would You Need to Invest in These 5 Pharma Stocks to Earn $1,000 a Month in Dividends?:1791688500000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "How Much Would You Need to Invest in These 5 Pharma Stocks to Earn $1,000 a Month in Dividends?",
+      "source": "The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXJpTm5VZnNGRnU3Rk9HTzBkRml3WkxsRWNBaTRfV254VnBGVlYyalJJbnFJMjA2TEFIblVDYV9HTDluQ3RNd2x1ZUpzVHlpNlBDbmdIVVkxS2g3b1luQkdMLWwwRnlZU2NNakxsenAtS05MOHB1UTlLQ3U3aE5XZmFVY0F2Wkpad04zR0xXZk9qSnIyd3RKdA?oc=5",
+      "summary": "How Much Would You Need to Invest in These 5 Pharma Stocks to Earn $1,000 a Month in Dividends? &nbsp;&nbsp; The Motley Fool",
+      "pubDate": "2026-10-11T03:15:00.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "industry:Spirit of Hong Kong Awards: biotech firm eyes cervical cancer test breakthrough:1791684905000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Spirit of Hong Kong Awards: biotech firm eyes cervical cancer test breakthrough",
+      "source": "South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOHBVUDFZTkZEcElrRy1aLVI5cVctOUFaVkVydVNWV1h2NWw3N2pDZDdKWDZWNWZTb3hOWUx0dDc1SXN0Um1lUjFvTHlkT3BtZ3ctallkM21Qak1MenhUdEJ5X0xZU0lHWWgxSk9sN1VxY25IazNmbEl2YWZnRVJLczJZcHBrZmxVeEpUTjhLazJqdnBzVU9aT01mSEl6cEdaUElSYkNkSExhZjZKbmpsYWNFOGxBNXF0cXpvQ05qNVdFSFZDT0trX3pCSENJNTRE0gHQAUFVX3lxTE1LVm1LYUxEa2FDajI0bjFKaUg3YTlkcW54cVZFN1F2S2w5X2ZfR2ZYQ1k2N3R1MXhoWC1Dc3laU0pLdUVfSXpPYmJFRDcxT09LTXRGSTFWdGVaYTBuZlFQUWI1eXo3ZXdmUVZUU1JKSXVoZm50VVk0ZkNoX3ZYSEszY29NZTdTcWpRTlhLZ2o3Nm1sQUFRXzB3WFhxQzByZVlOcjd4UHFXa19ROGtSWW5wUEJmUFB6YWpYcTJDal9sU1RGeUEwak54NFZVQ0ZvSnA?oc=5",
+      "summary": "Spirit of Hong Kong Awards: biotech firm eyes cervical cancer test breakthrough &nbsp;&nbsp; South China Morning Post",
+      "pubDate": "2026-10-11T02:15:05.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "wechat:- 微信公众平台:1791649514000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- 微信公众平台",
+      "source": "微信公众平台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WUWgtVVNwUnJoMjZxUU1OclhidFpmSkd5TnlhMWxmNV9PTDVJQXdnNFhYY0doUXpJSUdyazBNSk53N05XSnl3YzYtYjZoM2JyMklJekFib1FyblJRZVE?oc=5",
+      "summary": "&nbsp;&nbsp; 微信公众平台",
+      "pubDate": "2026-10-10T16:25:14.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "china-policy:【一图读懂】信息填错不用慌！异地就医备案信息一键改对！（国家医保服务平台APP）:1791564770000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【一图读懂】信息填错不用慌！异地就医备案信息一键改对！（国家医保服务平台APP）",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnFsWmVBYWRKcjltQ0doSEFkWE5jcHEzR2pKYWlNYXBsck16LW9YVVRPZC0yUnBrVGZtS2lydzBxUGo4dEI0ZC02aFJFcThxMVl2SUZrN19PSEJBc0RGNk1qQ2xRZ3VpXzUxb0VsYjFmREM0OExnV3dsMUpPdmtBTU1aRzlXRmtNNmpSNzhEZw?oc=5",
+      "summary": "【一图读懂】信息填错不用慌！异地就医备案信息一键改对！（国家医保服务平台APP） &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-10-09T16:52:50.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "manufacturing:Bayer expands US pharma production with $2.2 billion Ohio site:1791211033000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Bayer expands US pharma production with $2.2 billion Ohio site",
+      "source": "Manufacturing Today",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEFlVy1DcW1MbGd1dzY3c0xGUjZYMVNhT080U0RBcjZ6NkhGV3FrRjNFS1UzVTBaMjhGZzZET2d0RVdjbkI4cWpmaWUydWVkWk15djdXWExjU01iTkdyNlBXVlFVbHdlem94SXZRbXJ5cWtyMVluaU9nLXNxVW5YZGVVdjVvNGZiTm9FRjdwckRvTExPV1E?oc=5",
+      "summary": "Bayer expands US pharma production with $2.2 billion Ohio site &nbsp;&nbsp; Manufacturing Today",
+      "pubDate": "2026-10-05T14:37:13.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
+    {
+      "id": "company-disclosure:山东步长制药股份有限公司关于召开2026 年半年度业绩说明会的公告:1789628400000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "山东步长制药股份有限公司关于召开2026 年半年度业绩说明会的公告",
+      "source": "雪球",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qaWUwUkZQc2hJODQzZ0MyVVRnYmtvUzhTUmJZNHJvX19RTm5uektWRm95RmJqSDc2V0hCWFNxa2dQR0dFY2dtWk9zTGZpNlFSZ3FNTmZTWVMtUDhpMTBpMjdlUms2SWlvUk85WFlwRE5mdw?oc=5",
+      "summary": "山东步长制药股份有限公司关于召开2026 年半年度业绩说明会的公告 &nbsp;&nbsp; 雪球",
+      "pubDate": "2026-09-17T07:00:00.000Z",
+      "collectedAt": "2026-10-11T08:59:52.292Z"
+    },
     {
       "id": "industry:Ultragenyx Pharmaceutical (RARE) Could Be 41% Undervalued As Voucher Sale And EMA Validation Land:1791667285000",
       "category": "industry",
