@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-10-13T20:16:02.483Z",
-  "count": 4159,
+  "lastUpdated": "2026-10-13T23:44:38.789Z",
+  "count": 4170,
   "items": [
+    {
+      "id": "industry:Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says:1791931692000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmRHUG1nelRKaFJPUzhndF80NnBleHBwbXJXcFEzd0g5ZkJwSGx4akp0N1RWdG9sVmZwUFFGZlNFZGljLVNWVy1pNEVsZ080YUkyY0Q2VzZkR29rYkxhV2NVajgwbllJaUpWUDFqeVpRbWo0WmtyUGlJbW1tYlJtUFY4WG1LR0xvWDFPSWFDUkRxNENzT3NEVE1QNENnTDRjUUZBNGJmcC00eWc2SjQ2ZlRnV0I?oc=5",
+      "summary": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says &nbsp;&nbsp; Ars Technica",
+      "pubDate": "2026-10-13T22:48:12.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:‘Pharma Bro’ Martin Shkreli broke lifetime ban on drug industry trades, feds say:1791930607000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "‘Pharma Bro’ Martin Shkreli broke lifetime ban on drug industry trades, feds say",
+      "source": "New York Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMm5hd0dhdFc1VXpLOURZbTdfSWJYNE1zZ0xHMVpvTUM3dDV6czJQZWZfY20wTU1rS1F2WW9ocHlpR3oyaU52RmpjVmJIRHJDekJEV0JZdG1tY2JkaENLbGRHWWc3ZTYwemE2WWxGZVR5WWZxaFRiTXVjQWdOZ3l6cUtxQ0FCdWlqUTdVbkMyWkRLNlhwRjkyUVlYMTNoYTAxNl95dE9CZE01aWZza25HeGcwNUN4UVk?oc=5",
+      "summary": "‘Pharma Bro’ Martin Shkreli broke lifetime ban on drug industry trades, feds say &nbsp;&nbsp; New York Post",
+      "pubDate": "2026-10-13T22:30:07.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:Zealand Pharma, Generate strike AI obesity drug deal worth up to $1.2 billion:1791929283000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Zealand Pharma, Generate strike AI obesity drug deal worth up to $1.2 billion",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVBYYzREdlNzYWh1Q2IwR2cwcE8tc2F2VmRvWGRYalBLdFB5NlNHRkpFV01IcmM5M0RTMlhoQWdlU1JKUS1rdUJWOHhvVnlub2lWcHJjMUc3SDlwejBOM2NGUUQ4V19LaXRfT1B5U3N3X3NHVTUwSDdhSWZYLUp3dmk3ZXNLdEpISDNzcGVXNXQ2VWt0bFdfX25oQmZCUG9PZzJpQi1RMVNzWUdWRkxZOEtWamtmaGNreVhfNXUwc2EyaFdBZzdRQ2x1QQ?oc=5",
+      "summary": "Zealand Pharma, Generate strike AI obesity drug deal worth up to $1.2 billion &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-10-13T22:08:03.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:Remember ‘Pharma Bro?’ He’s still at it, feds and states allege.:1791926100000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Remember ‘Pharma Bro?’ He’s still at it, feds and states allege.",
+      "source": "Crain's Chicago Business",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcU1EeUJWdURJSURWSjNJODFXTXVndG1jTVJncjNWZTdhUFlEVlJyOTAtc3RCZWtHTmdCUDJCZG1uQUhTVXFNcHkteUdleVNBOEV1bG55ZWhRMTA5TWQ1Z0pFbTJ2UkhKTkhYSnBLV1NVcVg1Nk5oQkRnakVHRG9ZY0lEeEFicHR2Q0ZOQXpxcTNzSGN6am13?oc=5",
+      "summary": "Remember ‘Pharma Bro?’ He’s still at it, feds and states allege. &nbsp;&nbsp; Crain's Chicago Business",
+      "pubDate": "2026-10-13T21:15:00.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:Another Paragon spinout goes public through reverse merger:1791924860000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Another Paragon spinout goes public through reverse merger",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjJwX3M1U3AxY2xPcnlvTW1zV0hzNlBXWkhBU0RNY0JSN2QweTgxZ2l6ck5XSUY0eW1jdDUxeFBvdHE3U2pIUi1fMnJHd202aGdIT3lmcTlLUXBSbmtULUdHbHlUZDREQ2R0dC1TRHZWVWtmMEY5VEhId012dHg5dnRtdTlqVDB1MzFMaDR5Mmk4QmFhVEV0ckI3ekxHVjdyZTJxNkVn?oc=5",
+      "summary": "Another Paragon spinout goes public through reverse merger &nbsp;&nbsp; BioPharma Dive",
+      "pubDate": "2026-10-13T20:54:20.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:California accuses 'Pharma Bro' of violating pharmaceutical industry ban:1791924300000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "California accuses 'Pharma Bro' of violating pharmaceutical industry ban",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmE0ZEw0MzhVVUVrZ3h1VjVBTHJNVy0xaTN3QnBqUkFVYWhXQi1IQzZYTUNSYWFlMGxfcmpwX0FNa2l1bnlDSDBIZ3dFR1NZbTQ4QzNrRGtEcV8yMDF0bVc1RWRJYUV0OWVZYUd3NmtYdVYyY19fcTBQRFJQclVXYU1sY29aYVRIdldDNE9WdHVjRV9XT1c4UzVsOUdpMUpIN1V4ZS1HTFlLQ3FEdFRwNW9tTGVyc0pCc05LUkh4c3AwN0pTcDZoUXA2SXZCeGphZWY1SS1n?oc=5",
+      "summary": "California accuses 'Pharma Bro' of violating pharmaceutical industry ban &nbsp;&nbsp; USA Today",
+      "pubDate": "2026-10-13T20:45:00.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "deals:Zealand Pharma and Generate Biomedicines Enter:1791923400000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Zealand Pharma and Generate Biomedicines Enter",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNMk1iMEQxUjZEX0NfMnhiS0JVSGZESk9NWkFTMFlwR0VBd200dTBUREpZYkZzQ1RZY3Nrb2w0UDdmYTd5M2JiSEdnS2NrV1d3Qk5uNDB6aHg0Vy1JM0NqeVRPZXhXWGRvd21ZS0N5aEUwX1FjdjQxdVNNUkdZaUlvcGNmOXh3b0FDeEg2eWhlN3ZkY1Ewd2QzYW9jMWR1MGRuWF8wMWVzYXRZdW5ZeUlocDdjQk5QUGVidDZoemlQU19TV0VZUGRhbTNPVm90OGI4X08yTGF5SUc3TkVPekI4Z29XQmNpaklzVWdQd056WVh1NGtMeXV1TGtMaHZkQnRHOGNBbGhyWlpKcFZNeDYzUHg4c1B3elJXQnZoMVJPVmNnbHdoZXo4enh5c3BxMEZuQ0ZzTnBEWVZ4S2NMVmppZXdaSGNMNnpuX3ZFbg?oc=5",
+      "summary": "Zealand Pharma and Generate Biomedicines Enter &nbsp;&nbsp; GlobeNewswire",
+      "pubDate": "2026-10-13T20:30:00.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:New biotech courses offered through Continuing Education:1791922618000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "New biotech courses offered through Continuing Education",
+      "source": "The University of Utah",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Yi1vUVlySktpZ3lVRmRyS0N0WVhpZVhScTM4MlJCMmFPMjJWZ0hmc0pnREI2V3BDUGFyWUZxRXVSaEtRWU1VM1VqZ1AxdlZYMUIxdXdHbFBIUlZpYmtzWEo1UGk0TFBZcGZIVzNhYlk0REk?oc=5",
+      "summary": "New biotech courses offered through Continuing Education &nbsp;&nbsp; The University of Utah",
+      "pubDate": "2026-10-13T20:16:58.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "industry:FTC claims Shkreli is in contempt after defying lifetime pharma ban:1791914444000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "FTC claims Shkreli is in contempt after defying lifetime pharma ban",
+      "source": "Courthouse News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUhnZFJIWUU2NjVTNDZYZGtLVThtdVNFNWI4dWw1QVJBT2hmVy1hWGxpaFdOZUFMWXpMMS1ENkJ2NzBBRk52eTUtZnhoVWVtYWZCbXlBX2p3bjJhMW9ZZ0JqMk15SjNYdjFmUEZLNXJyeUZmTWN5UFI4elBGc3FYZlMwN01xdUFTQk9vRzc4NHBlN2o5T3I4T09hTQ?oc=5",
+      "summary": "FTC claims Shkreli is in contempt after defying lifetime pharma ban &nbsp;&nbsp; Courthouse News",
+      "pubDate": "2026-10-13T18:00:44.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "manufacturing:How to rebuild pharma and AI supply chains in the U.S.:1791911877000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "How to rebuild pharma and AI supply chains in the U.S.",
+      "source": "Hopkins Bloomberg Center",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWFY0Vk5uWk01NUl0X1V3Ui1VWXFPbzFOVW9JYXktRzJJM0dCNjdlM21KajN6ODkxWUZHQ3c2NVlISUlnWnk2TEZXSE9HWnNMd2ZIUk41bGxmQXhvR2RlWEF4ejc0LVNIM1E?oc=5",
+      "summary": "How to rebuild pharma and AI supply chains in the U.S. &nbsp;&nbsp; Hopkins Bloomberg Center",
+      "pubDate": "2026-10-13T17:17:57.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
+    {
+      "id": "company-disclosure:海外監管公告:1791617417000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "海外監管公告",
+      "source": "HKEXnews",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmh3eEM2RnRJRHE2dW0tdDNaT1VuZGEwcHJjbFpTOEJabmtBTHlEeWYxVy1BVVBKeS1KXzJBTTh3OF8zRWtoMmUtQnA1elc0Qkc0dFd0d2NLNWVJQThHNFV4MkU0SGpPWUxBVW5kUGVsUFI0MDMzT1VZMWxwZ2lEZW5KVDdjUQ?oc=5",
+      "summary": "海外監管公告 &nbsp;&nbsp; HKEXnews",
+      "pubDate": "2026-10-10T07:30:17.000Z",
+      "collectedAt": "2026-10-13T23:44:38.789Z"
+    },
     {
       "id": "industry:FAQ: What Pharma Shippers Need to Know About Cargo Theft:1791918118000",
       "category": "industry",
