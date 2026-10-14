@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-10-14T18:40:58.059Z",
-  "count": 4227,
+  "lastUpdated": "2026-10-14T23:16:54.044Z",
+  "count": 4240,
   "items": [
+    {
+      "id": "industry:Biopharma IPO Numbers Kept Rising In Q3 As Deal Sizes, Valuations Shrank:1792014052000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biopharma IPO Numbers Kept Rising In Q3 As Deal Sizes, Valuations Shrank",
+      "source": "Scrip",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmlOLWU4dVRnaFdiQzItbDQtRmxScDV5c1MwQ2VHb2pFOXpqaHhHUFlSaGlzSm9GUlluTUJkWVVLanF4OW5Ta09HdTQ5MEJhbXJqcTBBZ0JfNWQ4VXNEaEd3S0p1cVpHYVd3SEtjT2h1bVZSM2Y4U3JSbG4tcFBULUNZWmY3VGxKUTVPcHZxcF9oVXg3eGJQc0lPZWJkd2Q4c3c3ckx4dUFOMnZZcnBlbjZiRkJmVWVtNW5kdDFsUGNqd1N0LUtLTEJSTnE4VWl2VzhzRFVqUm9BM3lHWjZGTTJ2ek9URkd6ckE?oc=5",
+      "summary": "Biopharma IPO Numbers Kept Rising In Q3 As Deal Sizes, Valuations Shrank &nbsp;&nbsp; Scrip",
+      "pubDate": "2026-10-14T21:40:52.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "industry:Understanding the Potential Risks of Prescription Drug Affordability Boards and Upper Payment Limits:1792013134000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Understanding the Potential Risks of Prescription Drug Affordability Boards and Upper Payment Limits",
+      "source": "The American Journal of Managed Care",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEdicW00Z3VfU1RwSElISUtxSDdWTW9GZV9Ed1dGY2dUM29lSjAwTW1JLXprUndBMVlOOE9ERjFzWTlwSm44dU02bGhvdEtacjRzR242cHFrYTA3VUI4RVQ3dEZhbXIzTF8xaVZZaUZZRWswNm5YYVdPUk54SUdzXzZ1b2JEUUthS2pKZnJGV0pvWHlPSTlES3VLZGhKWEh3OHIxXzA0bklETUNsb2tYSzBkQkNCQzYxbTFV?oc=5",
+      "summary": "Understanding the Potential Risks of Prescription Drug Affordability Boards and Upper Payment Limits &nbsp;&nbsp; The American Journal of Managed Care",
+      "pubDate": "2026-10-14T21:25:34.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "industry:Aptar Announces CE marking for LuerVax® and Accompanying Spray Divider, Strengthening Support for Vaccine Developers:1792011714000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Aptar Announces CE marking for LuerVax® and Accompanying Spray Divider, Strengthening Support for Vaccine Developers",
+      "source": "Aptar",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakxzamVmZVBHaHF3WmlPdFVyeTJLdTVWUlFOMWs1WVhYblJFMGp6aENxQjVEQ1dLUzVjczVtYVlZNjY0TkpYcTNDVmJfNUdCajgtZVJTN05yR25XOTNhRmJOVkJZbEM5bGstSGZDSGkwUjAwM2tIeXdOdi1lWWo0cWVEVi1uQ2JFWmNPR1JCZTZHMVdVSld3Wld0d0Q0V1JWQjFOcFRWQUtLOFRRdkVqdGtRRjNLTW9DWS1kOG1iQ3hucTNjX3hnOW1CQVNHMWFOSWtUcEtQalhvaFNNUzgyYkRn?oc=5",
+      "summary": "Aptar Announces CE marking for LuerVax® and Accompanying Spray Divider, Strengthening Support for Vaccine Developers &nbsp;&nbsp; Aptar",
+      "pubDate": "2026-10-14T21:01:54.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "industry:US biotech company enforces eye treatment award against Novartis:1792009142000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "US biotech company enforces eye treatment award against Novartis",
+      "source": "Global Arbitration Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzRPUUJOd3lmRWY3SVZBbnNTdkU4ZkoyOW80YkxZTHN1YmFrZVZmWGdyUXNxb19hRXByLXZIQ2lSTW00UUNFY1Z3THRBSnRYdHREb1pRR2Z4RzRvVVkzT21ldGwtM0VISWhzSlQybGJHaU1PQkRVamRIUlVMMFJodTd6T050dEtwNjUtaS1ZdXJzQUM5NHBfUU5VU0k2TkNDVW1PenhFejdraW10?oc=5",
+      "summary": "US biotech company enforces eye treatment award against Novartis &nbsp;&nbsp; Global Arbitration Review",
+      "pubDate": "2026-10-14T20:19:02.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "industry:Sanofi's new R&D chief says Western pharma shouldn't ignore China's role in drug pipelines:1792004760000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Sanofi's new R&D chief says Western pharma shouldn't ignore China's role in drug pipelines",
+      "source": "Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWJtQzRnUXVZWmQ4MUVITi1pX1JBLTRWNzhzRTNDMi1xVl9WSmVrY2kxWFRncWpSOVV5VElSajZVblFNN0VKOEsydElSMlFJbVNSUGdDUUlQdEgwOTdVV2Z3d3hkU0RWVnhqdDg0WHduOF9aaFhlSG54TTcyc3Z0czFKeXl2d2ZtZDFlOHNKMFkyTENYQ0w5ektpUXNXREZLaXc?oc=5",
+      "summary": "Sanofi's new R&D chief says Western pharma shouldn't ignore China's role in drug pipelines &nbsp;&nbsp; Endpoints News",
+      "pubDate": "2026-10-14T19:06:00.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "regulatory:FDA Rare Disease Framework Initiative: What It Means for Drug and Biologic Development:1792000882000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA Rare Disease Framework Initiative: What It Means for Drug and Biologic Development",
+      "source": "BioPharm International",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3ZGWEhUVi0xVkoxdG9acElGcUN2RDhiZVpGWHlpVGVaRHdyRkx4NTlldFZpejY2QWtWZ0E2M2JyeEVCQW1IZUppMmY5N0FqbkZYSGt0am1fMXJ6MFJnNW4tcnVKMWc5WkJBZ2c0M2hXRmxFcHNsSS1VTC1ia05BYjdIcFllRENreHBJaVpBQzNCbW9UdkQwUmxsNzdNT3NmN0lpcWVYNnhDQQ?oc=5",
+      "summary": "FDA Rare Disease Framework Initiative: What It Means for Drug and Biologic Development &nbsp;&nbsp; BioPharm International",
+      "pubDate": "2026-10-14T18:01:22.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "industry:START Biotech Early Development Leaders Roundtable – San Francisco:1791995914000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "START Biotech Early Development Leaders Roundtable – San Francisco",
+      "source": "The Cancer Letter",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMF81S3ZLTGNKVE1CV2Jha1EzdHFkc1BTcEtaRXJYREFRSlEycTNSaFpvTnpOcThsT1BwMVNRaVpOY0JtdHZ1bzZWcDJScHJWSTgyZ1dLcTNFVno4SlhHTkFjTXVLdEdvU0VRWWlYSXlhaWh6QW5oZTJmT2UwYklaVkU5Tm5VOHNLYUVOS0hoTldVQVFpZGtPTHVwMFg?oc=5",
+      "summary": "START Biotech Early Development Leaders Roundtable – San Francisco &nbsp;&nbsp; The Cancer Letter",
+      "pubDate": "2026-10-14T16:38:34.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "science:Cell Therapy Manufacturing Takes Shape Across Asia-Pacific:1791979229000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Cell Therapy Manufacturing Takes Shape Across Asia-Pacific",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEtRekp0RlVMbWtCenhOU25Sb3BKa2lvY0NwMUFqZjFjT25POFJqakJHTkU2QXdIQ29RWW5Qbkp6SUVxSHVxaGg3MnVKdTVaTVZGTzVCcVFNOGVzQUk2NTdDQ0VhTnVpblo4VnpVcVdaMUUyUDFQMVVja3RoekJzdEZqOXlEb0hjd1FsVHpiUzQ5ZnZaZXBNVVNsLUFTLXBaNlY0dVo4cWNNWFk?oc=5",
+      "summary": "Cell Therapy Manufacturing Takes Shape Across Asia-Pacific &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "pubDate": "2026-10-14T12:00:29.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "manufacturing:Gordon G. Liu on China's pharmaceutical ambitions:1791904776000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Gordon G. Liu on China's pharmaceutical ambitions",
+      "source": "Pekingnology",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iODcxZE9pR3RkOGRMVWtiZjM2WUFmTkkzVHd5M1psN01JN3Rwb0dwc29McEpiemJYS2phMWhQV01hdGdMdHFTN2pnamNvVWNzc2RhamdQZEFLTDNwY3VvdnRNZnNMTTJRdXUtRGd2MllBSkViRVc4?oc=5",
+      "summary": "Gordon G. Liu on China's pharmaceutical ambitions &nbsp;&nbsp; Pekingnology",
+      "pubDate": "2026-10-13T15:19:36.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "company-disclosure:天士力医药集团股份有限公司关于选举职工董事的公告:1791788400000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "天士力医药集团股份有限公司关于选举职工董事的公告",
+      "source": "巨潮资讯",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTZya0RTSUJzLWtYdTcxX2N5YVd3QldHc3pNWl9FOHNXT2FzeWVhTW5ZeG9nSGY2TTFsZU04b29va2VnamZ3OHZrWDZfU1JvVjNBbWg4LWJnQjdKS292NFhOdkktN1ZEcUxlNjlYZkFPR24tNDgwMFdLellmekc4dC02cDZmdVFYVGdyTzdjLVdiTFdHSFl3MjUyekREN2gtZVVCMQ?oc=5",
+      "summary": "天士力医药集团股份有限公司关于选举职工董事的公告 &nbsp;&nbsp; 巨潮资讯",
+      "pubDate": "2026-10-12T07:00:00.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "regulatory:Teva wins FDA approval for monthly schizophrenia injection Weltruza:1791568492000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Teva wins FDA approval for monthly schizophrenia injection Weltruza",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXNGN3pjSGNMdGluU1gwMzRlYkdqNW14dVFIRkhBLUFudWxKdk85SUxnaWk4SGVQUDFTbFZlS2FhQTVJeXJvMjFTR25XcmpKVEM1SHlUZlY0czJsMDJGS1N1aFdzTk5wZldTWFkyVVhqdE5KZjdjQkpBd0RScmRiajlDRGtZSmNVUEQwbFNXbGFqaXplNjRjMjhqTnFSOGtWeWsxVE42T3J0ZVkwaFZKX2QwVFI3MEk?oc=5",
+      "summary": "Teva wins FDA approval for monthly schizophrenia injection Weltruza &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-10-09T17:54:52.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "regulatory:FDA says its safety review of abortion pill will continue into next year:1791466459000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA says its safety review of abortion pill will continue into next year",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ01EQ2FhbXh2Wk1mcEZCWE1oSUtDLWtJWXo2bGRvY1l1MmVJb2ozSWZSMWp3ejRycjRIUE1Da0dMeC1hRjFyMHhhR3BYTjJoV2ZxamxISHZFY1FCQUxNcEx1dk5ONFpPd3lfX0JRT0d6eWtLRDlFdXBSWm1rdy1sbA?oc=5",
+      "summary": "FDA says its safety review of abortion pill will continue into next year &nbsp;&nbsp; CNN",
+      "pubDate": "2026-10-08T13:34:19.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
+    {
+      "id": "company-disclosure:江苏亚虹医药科技股份有限公司关于核心技术人员变动的公告:1789801200000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "江苏亚虹医药科技股份有限公司关于核心技术人员变动的公告",
+      "source": "雪球",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhRFpmbHBPZ2RKYUw5QXFyOGpZMi1NTUo3RmJfRGNxQmpoRGhyX0FuaFZYLWRLY3NVWjFuSEMyVHBRRUNtU0wzbVNaOUhuV015eXB3T2VpcFpiTGg3N0lsb3FaWlh4cVEzZGtlSGZTZnM?oc=5",
+      "summary": "江苏亚虹医药科技股份有限公司关于核心技术人员变动的公告 &nbsp;&nbsp; 雪球",
+      "pubDate": "2026-09-19T07:00:00.000Z",
+      "collectedAt": "2026-10-14T23:16:54.044Z"
+    },
     {
       "id": "science:Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial:1792000848000",
       "category": "science",
