@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-10-15T13:29:29.342Z",
-  "count": 4276,
+  "lastUpdated": "2026-10-15T18:21:11.508Z",
+  "count": 4289,
   "items": [
+    {
+      "id": "manufacturing:Managing PFAS In Pharmaceutical Manufacturing A Risk Management Approach For The Pharmaceutical Industry:1792086296000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Managing PFAS In Pharmaceutical Manufacturing A Risk Management Approach For The Pharmaceutical Industry",
+      "source": "Med Device Online",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbjloMnlvdllHWHZ5cjdrcHRFcHhpQzFXVzhmcnpKY21Qb1Q2OFdnMXVfMUgtMXpJRGs0RV9LeGpXQ2VVaTRleld2cjg0UnVpMUlMdHBpTHloWXkzU3dRNGNRQVRnb0xmcmx3VXZsdGZna1BnZmw3M0hCOUZaR1JvaXNFdGhjLWl3cXpoRXdNRWxKeUVyQ1NHY3M3VXlGOUd2OTM2bVlmc25Jdy1EVFd6M0ZYeUZRUFRPck8yajh3bXdzSE5fNE5ISjRNcHNmTUItYTlIdDhVM092WmNDZWc?oc=5",
+      "summary": "Managing PFAS In Pharmaceutical Manufacturing A Risk Management Approach For The Pharmaceutical Industry &nbsp;&nbsp; Med Device Online",
+      "pubDate": "2026-10-15T17:44:56.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "china:Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China:1792085108000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXBqQ2RMeVVoSmZ2dVplcUc2eGo1UVoteWNfcmc1UHdPOEgtT1F6OXhYbDZMU3RHOU11R2s0TnFSeWZtWGVVT2ZfVEYyandsLURSZk83V1FpalA2bEVGUVo1dk81c2EtSkpsc2JFb21BMFZvSm56QmdPdjhUUE0yMzRYem9tWGhlMnc?oc=5",
+      "summary": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China &nbsp;&nbsp; STAT",
+      "pubDate": "2026-10-15T17:25:08.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO:1792081860000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjliVHlkcXdSSFlnWjYtZzB1T2VPTnFDWTZqNVdyWXp2eWZFbnJmSU5MX3BBZGd5cXFOd1FTMldHSWY4cm44SklLTTVRdGJuX0t1UEtXeUE1NTQ1ZnNhbUxlaWtRQVJjMGVRbHRPcExvZ05mQnNkdkt0cWxyeVgzQnYyZ0ZFV0ptbTAydmlac0E5a0c0VTlkZlA5R1lhZTVHaWZLbU1JdXRqMGJuUHhN?oc=5",
+      "summary": "Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO &nbsp;&nbsp; Bloomberg.com",
+      "pubDate": "2026-10-15T16:31:00.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:Amid Rotation, I’m Adding to an Obscure Biotech and a Magnificent 7 Stock:1792078200000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Amid Rotation, I’m Adding to an Obscure Biotech and a Magnificent 7 Stock",
+      "source": "RealMoney Pro",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEpBQWtwOEMwRW1FUEIzQ291Q2RYWHE4UG9CUnkxd3pDZjN0WF9rNndtQi1ic3NzclQ4LUdzeDZrTEpPNWY0OFNyODN0MXFUNWdkX3A2eEIzaW52SlkxajFYMWlzUHJZZ1BBSjFxc0w3MUgxdGdhd3JNM3owSUlvZnQ1TnZkWU81Ny12U21CRnE4UVo2SFh1ZmZzQk93M2dkaXlmOV9ZMlB4NGdBM0E?oc=5",
+      "summary": "Amid Rotation, I’m Adding to an Obscure Biotech and a Magnificent 7 Stock &nbsp;&nbsp; RealMoney Pro",
+      "pubDate": "2026-10-15T15:30:00.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:4 of the most memorable biotech moments in modern scientific history:1792076181000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "4 of the most memorable biotech moments in modern scientific history",
+      "source": "New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEZWR2k4R0JvY3lGS2RHQ3BDOFI4YUdWTnpqVTVDckswMDlNd19NTUNvV3dpaW9kc1lwOU1sTTRlNlc4Q0lJUnAxZDhlUEpKNHdnTEUzM2pHOFNrZGcyTUR1REFzNVF3SEY4eGpnMVE1VVkyemtKNDJEN2x0Z0U1SkI5elJVUjRGQk1mVmRCM0MwWHNTbjdJNXNXeDJNVVo0b0dUNGhoay1wRzJ1TzNEaDdBSDI?oc=5",
+      "summary": "4 of the most memorable biotech moments in modern scientific history &nbsp;&nbsp; New Scientist",
+      "pubDate": "2026-10-15T14:56:21.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:Branford biotech Quantum-Si regains Nasdaq compliance as stock rebounds:1792075125000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Branford biotech Quantum-Si regains Nasdaq compliance as stock rebounds",
+      "source": "Hartford Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWl3UC1FTE5ianhiTjFnZ0RhX1FkRWg5c2JvcXdVZ1NsRDlWQ29nWkdRUHRxaGJTQWRRZ29oRWNwZlZvRXVwQjZ5WTFyQzd1THBmYTJ6SDJsLTNWLVZtVnlRWUFKMGxkZjRKTmhHbzYyaHZFalRmemljSXBZQnpXMXFtY3VoSzBFdHpuM29oUE4xdnRqQVA0WlVhT1AzSkV2Z2Z1WGsyMEhWRGQwYUE?oc=5",
+      "summary": "Branford biotech Quantum-Si regains Nasdaq compliance as stock rebounds &nbsp;&nbsp; Hartford Business Journal",
+      "pubDate": "2026-10-15T14:38:45.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:Boosting biotech in Basel – with Valentina Francia:1792075095000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Boosting biotech in Basel – with Valentina Francia",
+      "source": "pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zd1hwdUs4V1F3VHVlLWZoc280dV9MdHFIS3VXWmktU1Bha3RLc2oyVXVvWnRyNm5wbV95N3BKQW5lV2pZYTRONmlTbG44NmplMXVEN1F1QzNnMDhHWkZNRmJTT0JXRVJ6R1MxLVZGYVBtc2FzNzNF?oc=5",
+      "summary": "Boosting biotech in Basel – with Valentina Francia &nbsp;&nbsp; pharmaphorum",
+      "pubDate": "2026-10-15T14:38:15.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:When Experience, Evidence, and AI Disagree in Pharma, What Should Leaders Do?:1792074578000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "When Experience, Evidence, and AI Disagree in Pharma, What Should Leaders Do?",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EcVVlM1FxYmZ0X2NRWU5YckFJTXhrbVZYUFlNcUZBWGRhTXc5NktkUnhtNlhnZzJsYXZPWC1PNHlSV0I5QTM5bTQta1J4a2VpbkRWaXhSSVhKdk4wR2Jlc25oMjBETWlnTm9Sa2pNQUFsVDlIX0hF?oc=5",
+      "summary": "When Experience, Evidence, and AI Disagree in Pharma, What Should Leaders Do? &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-10-15T14:29:38.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:Pharma Pulse: DHL's New Cold Chain Corridors and Walmart's $0 Prescription Tier:1792072749000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharma Pulse: DHL's New Cold Chain Corridors and Walmart's $0 Prescription Tier",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGZtRXZUOEV3b2VIVDVLdXNzU1hOcHFCYVdQeXc0R0k3VWxaXzZnbUcwOFBReXVvUElua2hpNkhVQXVPcWdVRGJQMzI2ejFoVHlpbW52Mnl1MkhSQmZwS2xaY3QzaVp4Szl0VXh6UE45NnZIazZCa3JSdWF5cUIzVndxR3ZjbjZSS0hodDM3Q3JtZnBNUllHc0JMaGliSXczdGpRdlJ2TlY0dU93X2RpRUZwWXJBOVNwbnR3REhB?oc=5",
+      "summary": "Pharma Pulse: DHL's New Cold Chain Corridors and Walmart's $0 Prescription Tier &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-10-15T13:59:09.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "regulatory:EMA recommends authorisation of Rasonque for metastatic pancreatic cancer:1792071000000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer",
+      "source": "European Medicines Agency (EMA)",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWg2SnFuN0hSc0dZbG9iV29QdHVTRVpPZkFkSUJxUVZrTFdoZUJDQk9HeEJUWUoxTW9oUV95NjFGdm1mTDBjbGZ3WWNHZWVyZVYtTElCbUVkTmIxaFdSZzBkaTZiQUZ4cG56Y0Z5TS1Mc1VqZ1h6SWl2UlM1WlNzWklNSUw1ck9QczljTmxlMjZ6RmJzTzVRRWVyb3lDMFFuQ2c?oc=5",
+      "summary": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "pubDate": "2026-10-15T13:30:00.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:ImmunityBio’s bladder cancer drug, Anktiva lands US label expansion:1792062153000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "ImmunityBio’s bladder cancer drug, Anktiva lands US label expansion",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalR2RkNBMnlNd3pLbTRrMmhBbVdibVRfT1NadXN5R01RWWN2UnhGRndnclJYYmQ5Z0NfMmxLQXNuWi1VQmlYRUpyR19ZTjFYX1lPcHh2VzJhLXAxSFpscTdhc01pQzY1T1V1ZHoxQVJHNGY3UkdUeWlmWkdqSjVhamdjc01JT1VZX29Ub0xYZ2JTUk1aNXdV?oc=5",
+      "summary": "ImmunityBio’s bladder cancer drug, Anktiva lands US label expansion &nbsp;&nbsp; Pharmaceutical Technology",
+      "pubDate": "2026-10-15T11:02:33.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "industry:AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs:1792058400000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFBRNm9yTDRZZl9VRGNidHJqdDRHTGdSUGtCaEdpX3ZCdzJWNnBXcU1XTTZSYUFBQ1VUR2FZYzg1ZXMya09mMVhUa0FrdXE1YVByM3lPZEVwVUxJS09iLUw4VTZUWGRhbFR0MG5XY0QyenVmQlBRci1CX0pmcktLbDlxYWJzeUNGVzBkSjZMTndZVDFvYlk4NUx1WHJMV2Nl?oc=5",
+      "summary": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
+    {
+      "id": "clinical:Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study:1792045558000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjNlTlFjY0RJTm9DWnY2OTFNYXBFblhtOUxMQ3g5Q01hVk1vREVhU0JydTZQdVZFQWxTTGZFNXpFVFZNZy0zdGNlNGtXdXJiX3J2NEJEcTlpN0dCY0NCd0NNLUY3NHZfdTlhUjh2Z2ptOEtzV0JKanlBVzltbWw1VE44SWNCaE1HN1VuaFVHYkNmQ3NOUEp2Uk9qNHVrMU5JZlM4aTNpa0pmR0lYbWs1S0JR?oc=5",
+      "summary": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-15T06:25:58.000Z",
+      "collectedAt": "2026-10-15T18:21:11.508Z"
+    },
     {
       "id": "industry:Kedrion Biopharma Advances Immunoglobulin Industry Dialogue and Scientific Exchange Across the Evolving Therapy Landscape at IgNS 2026:1792069200000",
       "category": "industry",
