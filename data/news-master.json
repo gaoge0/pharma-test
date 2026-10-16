@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-10-16T18:07:22.295Z",
-  "count": 4349,
+  "lastUpdated": "2026-10-16T22:52:47.534Z",
+  "count": 4361,
   "items": [
+    {
+      "id": "industry:Tonix to expand ‘biotech corridor’:1792186632000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Tonix to expand ‘biotech corridor’",
+      "source": "Bitterroot Star",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vRHVxekprWFlVb0dWc0VYM3h3dWNwMjJBeXFzRl9iT1BGOVV3eV9Cd2hQNlFEM0k2TFNHbXUtMnBwc1AxcnVsTmN1NEw4Rm1idmV6TUsxTHRxLTRfcFpZRE9MYXZidldRQXNxQnJpMDlqQjFScE5V?oc=5",
+      "summary": "Tonix to expand ‘biotech corridor’ &nbsp;&nbsp; Bitterroot Star",
+      "pubDate": "2026-10-16T21:37:12.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "industry:Why Moderna Stock, Novavax, and Revolution Medicines Are Slumping Today:1792183740000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Why Moderna Stock, Novavax, and Revolution Medicines Are Slumping Today",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yejRQN0ZoVDBPVmlwQmUxRS1NZDRfd09FVldnbmhFNHFuLVBQeHhiVURUYlprWkxuUTdRSVBOWXpYdUVpcEgwMHZVX1BTRzAyYzZTelVJZVV3RmhnY3JWVUJpSWN4S0lCNnhjMThIVXBOMXUtZDFIa2RPT3I?oc=5",
+      "summary": "Why Moderna Stock, Novavax, and Revolution Medicines Are Slumping Today &nbsp;&nbsp; Barron's",
+      "pubDate": "2026-10-16T20:49:00.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "industry:Light and ultrasound reveal renewable routes to compounds for pharmaceutical research:1792178401000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Light and ultrasound reveal renewable routes to compounds for pharmaceutical research",
+      "source": "Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnQzOThGS3BUT1Y0WEZ1Z0NmSVF1dHVsbzd6V3dwMWRUQU5UM3VtZHc0am5nX0JnWmxqTzlXTlpyY3dET21iSllzYmtaaXNCTTRYckRiTHQ0Mi1VRkE0dmtLNFhpTVpDdjVZR2RHaVU0bDZocmZ0cTh4LWt0cHVTSTFXZHF0dw?oc=5",
+      "summary": "Light and ultrasound reveal renewable routes to compounds for pharmaceutical research &nbsp;&nbsp; Phys.org",
+      "pubDate": "2026-10-16T19:20:01.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "industry:China mulls limitations on AI, biotech exports:1792175900000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "China mulls limitations on AI, biotech exports",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuWEUxaEE3UVJFcy1HSlZIa19IRVdkZWRvNXRMaTEtS0FHSnplOHBCMHl6ZDlLRWh3NUlDX3J2c2xubUJ1ZEdVVXN5UGRBVHVMODM0?oc=5",
+      "summary": "China mulls limitations on AI, biotech exports &nbsp;&nbsp; FirstWord Pharma",
+      "pubDate": "2026-10-16T18:38:20.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "industry:Tricks, treats, and trial results: Biotech’s scariest highs and lows of 2026:1792171204000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Tricks, treats, and trial results: Biotech’s scariest highs and lows of 2026",
+      "source": "BioProcess International",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjh2RzdNcGxIMnNCUDVpSWhxemZRX3ZXdC1URWtMdVlMWmNUQ2VRSHhyaHBzV1JqQzlZeXVua2ZGZDlkX0JSeVFaV0xmdnlkRUxpTlhYQUJxdlNteDBMZHNpN21FdGFpNE5COXBRSUZBTzdxZWtGQUU4emw4MWlRWkhwNjhMZ3hILUpOblV5OXN1N3pYb2ZtUVZrRTZMR1hUYVlVaDlZbEc2TDJYVG84TlJOZHY4cFVGeTZQckVQWmp2VW9FVTZGZmtmRUJnOVNDdW9Z?oc=5",
+      "summary": "Tricks, treats, and trial results: Biotech’s scariest highs and lows of 2026 &nbsp;&nbsp; BioProcess International",
+      "pubDate": "2026-10-16T17:20:04.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "china-policy:【视频播报】关于医保手工报销，这些你要知道:1792169483000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【视频播报】关于医保手工报销，这些你要知道",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWtTTHhxSlNqQlp3d0dsV0RFTTVVWGVXMXdfaGdjSmFNWVFSMzR0c2h4QkVtei1aVkJuRHRaMTJMQmZvUUk1U0Z3VzdIb0tEOTBSMTFvN3dIQ2xxRU5KcFplSFpDcmxUUVUxdHllMEstSGxDOWtuVFJpakZZTHAtYzVqYXFjUjJz?oc=5",
+      "summary": "【视频播报】关于医保手工报销，这些你要知道 &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-10-16T16:51:23.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "china-policy:【一图读懂】线上购买非处方药，可以刷医保个账——:1792169482000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【一图读懂】线上购买非处方药，可以刷医保个账——",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzdhamxxb3lybjM4TGhnSl9VdXNMMGtWOTVtTHM1aU1sVTJ0d2x4ckxPRzUzc2l3MmNyNE9TTWJ5TEV5cE5SdXVuc0hENnZCUXRiQ2JzTnJJLXBSTDU5MmEzRnY0Z2ZfRVNhb0VvQnFCeFFab0REMDV1WTRKeWQxbVotR0hyemdUbEZUMUE5dw?oc=5",
+      "summary": "【一图读懂】线上购买非处方药，可以刷医保个账—— &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-10-16T16:51:22.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "manufacturing:Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition:1792159200000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWZGR25EUFpPWHRvZ2doWlZrM0xrU3ktbDl0b01sS0M3SVlsWjhGNXhMM1h0Ni1tb1htcC0tUFVTbGN2TEE4TXg0QW84NU1iakE2Q3lDWFFPWjFGeVJ3dm5mQjNCTjhySnk2dDc3bFNVQ2YtcWo2YkUyMl9mUnVvSjZrMzVDcndVS2l5TU5mU3VYZHdmN3JwRGlleVNXUzhFU0NfbHMxZEY0RlE?oc=5",
+      "summary": "Pharmaceutical Market Research: Global Industry to Reach USD 3.22 Trillion by 2035 as Biologics, AI-Driven Drug Discovery, and Manufacturing Investments Reshape Competition &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-16T14:00:00.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "china:China Imposes Temporary Export Registration Requirements for AI, Biotech and Solar Technologies, Seeks Public Comment on Proposed Export Restrictions:1792141461000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "China Imposes Temporary Export Registration Requirements for AI, Biotech and Solar Technologies, Seeks Public Comment on Proposed Export Restrictions",
+      "source": "Geopolitechs",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NGlnY2U5enVsZ3J4TkUtbnltVWYyeG1wY2RyMTJTcHZhU3VJck8tS3FNXzF6SmhQQmdwQy1LZFdHVlhLZ0lPSGJUTldXMlBvdTRLVXBpSEZfWldPY05HUWpHb3JMc0hIVmdUV3dreEQ5YzNsUmdzZ09fZmNYMVU?oc=5",
+      "summary": "China Imposes Temporary Export Registration Requirements for AI, Biotech and Solar Technologies, Seeks Public Comment on Proposed Export Restrictions &nbsp;&nbsp; Geopolitechs",
+      "pubDate": "2026-10-16T09:04:21.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "clinical:PDS Biotechnology Targets Phase III Trial for PDS0301 in Metastatic Colorectal Cancer:1792112520000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "PDS Biotechnology Targets Phase III Trial for PDS0301 in Metastatic Colorectal Cancer",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlIwcTNNcWZ2OV9MVnBIQWJYZXJNbjZteVAwNm00bXFVOG0yclM0azF0YXZaMXhJRFU1bG5SWWNHdGxKbllDSjh5c2l2VUZGR2pYM2pjVThWQjJ6SUREWFp4ckJ4S211aUU3ZFVpbEV3LThMYWkzSDI5cGVMMXRIcjZ0bmRYQnRxYk9GdGdndGZnSEwzSnJYb19JRlY?oc=5",
+      "summary": "PDS Biotechnology Targets Phase III Trial for PDS0301 in Metastatic Colorectal Cancer &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-16T01:02:00.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "company-disclosure:鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告:1792002209000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告",
+      "source": "雪球",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmtOcjZpNnVmS0UtTjJwYlpNQUxBZU9URFRBNi1RX2Q2V01DQ2U1MHBtbFZSNVQ1aFpZeWJ1OEgtODhtZi1iLTRDRzhFYVlIazN2ZVFBUlF2MHRkQnd3SDZsT0JFeFpsR1UteUR2b0xYbGZ3ZmtTb181MFhoeG5UbkxvY2hJeFFwSTluRm5kRUVMV0NQdFEycUU4MzZfYmtxYjdySg?oc=5",
+      "summary": "鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告 &nbsp;&nbsp; 雪球",
+      "pubDate": "2026-10-14T18:23:29.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
+    {
+      "id": "deals:Zealand Pharma and Generate Biomedicines Enter Collaboration and License Agreement to Develop Protein Therapeutics Engineered with AI for Metabolic Diseases:1791923400000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Zealand Pharma and Generate Biomedicines Enter Collaboration and License Agreement to Develop Protein Therapeutics Engineered with AI for Metabolic Diseases",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0drMVFucERjWmZxZjZjRUVLNjUzeHBRZGkxNHBVVkFyeEhNQkJ3Z2dEMUVjREQwYU5MczF6VHA4cWpQNi0zd0NibGhjUVg5Y2pfd1hKUWFXd09iSGhWWlQ2LVdPTW9yNWdBcTBlLS1KdXVLaDROZlRTbU01OURFT0RraWg3X0ZYd3RRZHV4OHQxSXd0TnQ1Q0NNN1pGWnVLNlNDTE9n?oc=5",
+      "summary": "Zealand Pharma and Generate Biomedicines Enter Collaboration and License Agreement to Develop Protein Therapeutics Engineered with AI for Metabolic Diseases &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-13T20:30:00.000Z",
+      "collectedAt": "2026-10-16T22:52:47.534Z"
+    },
     {
       "id": "industry:First-in-class vs. best-in-class: What biotech investors need to know:1792168627000",
       "category": "industry",
