@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-10-17T12:14:15.009Z",
-  "count": 4377,
+  "lastUpdated": "2026-10-17T17:16:17.340Z",
+  "count": 4386,
   "items": [
+    {
+      "id": "industry:Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut (NASDAQ:COLL):1792253901000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut (NASDAQ:COLL)",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2FOSHYwWFVTUVpocVNyeE9Mbl9DdTJkdHZPQzJWekpZUFpSWVZtZWNuNkswaGc4dENZZjhkMlU0dVptZzV1TDlZUm1pZGdjdldCR2hqSFBEQlFvUm1oVUdDemxUYUMwYnlOODRoc2U4ZHdyTnptSlQwS2xOUDJHbmVfRlhfWGgtajhkcjVGckZFWlJZbTMtN3M0X09BVWg0X2RqcDVqVzE2Q21oeWRoV2lzYTZkdkU?oc=5",
+      "summary": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut (NASDAQ:COLL) &nbsp;&nbsp; Seeking Alpha",
+      "pubDate": "2026-10-17T16:18:21.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "industry:Why Xeris Biopharma Holdings (XERS) Has Investors Paying Attention Again:1792244435000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Why Xeris Biopharma Holdings (XERS) Has Investors Paying Attention Again",
+      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQREhNdWxob3lHNWl3R05RT2x4Y0w1cjJ0S05qUm5wbmxfdWEtd2NyeUw0X1I2R1g4RW9FX01MaFl5dy1iVDB0ZVFCbU9rNU5aUTk5SWc2Q0FpSWVYdlpub3hLTFlCSzNpUThwODBCQTFkOUg2RW42ZmVaZlVQbGpQaGFHemFFU180blZYcGFvcjRvanZ5RDAyS3BCUEFaWkJlbUU5VzhKRExGaEdURUFyQU1URXJyVklVWTlyZDF5LXpyTFhqbnVhZExtY3FhTGJpRVZtZ3hqY0h1bU8yZW1SdnBkT1pnQ1ZOQ0d4TkZvYUtvX29w0gH0AUFVX3lxTFBESE11bGhveUc1aXdHTlFPbHhjTDVyMnRLTmpSbnBubF91YS13Y3J5TDRfUjZHWDhFb0VfTUxoWXl3LWJUMHRlUUJtT2s1TlpROTlJZzZDQWlJZVh2Wm5veEtMWUJLM2lROHA4MEJBMWQ5SDZFbjZmZVpmVVBsalBoYUd6YUVTXzRuVlhwYW9yNG9qdnlEMDJLcEJQQVpaQmVtRTlXOEpETEZoR1RFQXJBTVRFcnJWSVVZOXJkMXktenJMWGpudWFkTG1jcWFMYmlFVm1neGpjSHVtTzJlbVJ2cGRPWmdDVk5DR3hORm9hS29fb3A?oc=5",
+      "summary": "Why Xeris Biopharma Holdings (XERS) Has Investors Paying Attention Again &nbsp;&nbsp; Simply Wall Street",
+      "pubDate": "2026-10-17T13:40:35.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "industry:Trump Slams Pharma And Insurers, But Rhetoric Outpaces Policy Impact:1792243932000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Trump Slams Pharma And Insurers, But Rhetoric Outpaces Policy Impact",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkN0WFlPa1NnZFFJOTlNQnNPUnh6WXZMSFRuVlNJX0JaTUhBNHZfRTBaZU5kSjFxUWJzaUlJRmx6OFhwSWxZc29JaHE2QVB6YjVBOGtZejlWUWlsS3F1RkRiOFIyVXZ6anF1MFdzYklER2VfOHhsb29RczRJTzlWWFg5UV84MDMxVXd3Tmh4X0p3UXlHVGpIaFhELXZVdkVKRG9JeFdnSWpFd3dLQlprenVzU3ZWSTR3S2FBNA?oc=5",
+      "summary": "Trump Slams Pharma And Insurers, But Rhetoric Outpaces Policy Impact &nbsp;&nbsp; Forbes",
+      "pubDate": "2026-10-17T13:32:12.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "china-policy:李强出席2026世界传统医药大会开幕式并致辞:1792240477000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "李强出席2026世界传统医药大会开幕式并致辞",
+      "source": "北京市卫生健康委员会",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEwzMDVOcjdPREpDVXhLa1B1X0toVnBNLVNtUll5emZGeU5NcTRHQkJ1TmJIR3J2aVJYN0pFeXBwcmhBdXVjU2N1UXMxQll6Y1dnYmE2NmlfNkM3aUhQUTMwNW1DMEVVZ2w0TE13dGs3WFhmV3U0a0Z4cEJ1MGg1MEtB?oc=5",
+      "summary": "李强出席2026世界传统医药大会开幕式并致辞 &nbsp;&nbsp; 北京市卫生健康委员会",
+      "pubDate": "2026-10-17T12:34:37.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "industry:Vita Life Sciences And 2 Other Australian Biotech Stocks To Watch:1792239327000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Vita Life Sciences And 2 Other Australian Biotech Stocks To Watch",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1BNVHRwa0JPRmhOcmJod1ZlMFd6aVlPWEFhdGxnTXZEUmtfcnB6NWhIdVE1aVZYSWlNV29hVWxodFNjbnhsTGtQbTBobUUtRWVMTllpdGNySUlsRVN0cHBZdTVmcEZScXA3Q2xzZWZhVTVBNHlidWxvek1HcEdha2ZPUUFjMVBscUhRRTNMU0g?oc=5",
+      "summary": "Vita Life Sciences And 2 Other Australian Biotech Stocks To Watch &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-17T12:15:27.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "industry:ICP Mass Spectrometry Systems Market To 2035: Pharmacopeial Compliance and Biopharma Demand Fuel Expansion - News and Statistics:1792237865000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "ICP Mass Spectrometry Systems Market To 2035: Pharmacopeial Compliance and Biopharma Demand Fuel Expansion - News and Statistics",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0V5c01zR1I5ZmJKSDVtZkF4dk9CRHZ4X0RvY1loTXJDcXZsZVB6ak5ObkpOVFRqXzNOYVlLNmR5QXJGZ2Y3UXV4UHhzOWxnLU5QdTRva1F2a0VCT1ppcjltRkJyM3AtS05tcnREWWFrdzljaE5XYVR0YkhEM0NRT0puOGxUNFhJZFRqcG43eEtCTmk0U25mamhlcHVuZEdzU0Fzbmk2a3QyQ2pMOHRvemdJTzJKTWNubUlodng5Tmg0aDdXemowNUJPck5XcWpra3MxTldEaVhNaVRJQnJFcy04RVVtdExQaWU1SG5JTEg?oc=5",
+      "summary": "ICP Mass Spectrometry Systems Market To 2035: Pharmacopeial Compliance and Biopharma Demand Fuel Expansion - News and Statistics &nbsp;&nbsp; IndexBox",
+      "pubDate": "2026-10-17T11:51:05.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "science:Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic:1792146600000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnJHM0k5TlI0a3dfaHdPZ0NkSDNweENsSW9MQURRVmgzbEpXd2x1TmFOc3dxd2tNUEVSS2tBcVVyV1h5dmZnYUZiMUVyaV9MMVRRSkRtSk1vdzNUekNmTzdfNHlsWHNsSWJMQXljUWVrTlVwQndJRWp0LS1xRG5tNkdLelFadkdhdFZNVTF4ZWMwcjk5MDc5NUZJazllNmdFbFE?oc=5",
+      "summary": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-16T10:30:00.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "china-policy:习近平总书记为健康中国建设取得决定性进展指明方向:1791939477000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
+      "source": "中华人民共和国最高人民法院",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5QkJKUDdCWEJnaTBhUnZpbFktX0wtdllzaXNXTVcxcGRVWUttZ0c3OGtlY185WWRfVFpsYUFWR05iUGtZVGtJc3pyTk5HQXlMTmxTLXFjdkpGZ3o2czhxZE9R?oc=5",
+      "summary": "习近平总书记为健康中国建设取得决定性进展指明方向 &nbsp;&nbsp; 中华人民共和国最高人民法院",
+      "pubDate": "2026-10-14T00:57:57.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
+    {
+      "id": "clinical:BMS’ Phase 3 win for lung drug clouded by high-dose miss:1791817988000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "BMS’ Phase 3 win for lung drug clouded by high-dose miss",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXZFMUE1X2pLMUYyUF9RdExQYWR1WTVVOV9vV2oyelRoei03LWJoQTZKWkJTMUVKYW1LRWFxeVFYNFV6UlNIWlpjQl9UQVcxU3psV1QxM0N3bG5DRU1wN052bWJERXB1RWpROGx0X1I5WGZ2bVJPQzl4U2hFLW1BRUUyc25QbU80akN6ZndpdFZ5ZHJfbG8wUXY0aFROUQ?oc=5",
+      "summary": "BMS’ Phase 3 win for lung drug clouded by high-dose miss &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-10-12T15:13:08.000Z",
+      "collectedAt": "2026-10-17T17:16:17.340Z"
+    },
     {
       "id": "science:Advanced Therapy Medicinal Products Market To 2035: Oncology Demand and Gene Therapy Approvals Drive Growth - News and Statistics:1792236065000",
       "category": "science",
