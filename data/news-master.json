@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-21T18:42:34.450Z",
-  "count": 4605,
+  "lastUpdated": "2026-10-21T23:24:51.385Z",
+  "count": 4613,
   "items": [
+    {
+      "id": "wechat:- 微信公众平台:1792616948000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- 微信公众平台",
+      "source": "微信公众平台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMVJDSHZOaFlKazFnT3NXOTktVUxZYVg1WWhqWXRkc2ZKWEVKRTVKa1ZkeUpDUjE4Wk1RTGlEMU5SREFJOC1hNUNTeE45V21lNkZsTGtBb3FodjRQclE?oc=5",
+      "summary": "&nbsp;&nbsp; 微信公众平台",
+      "pubDate": "2026-10-21T21:09:08.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "industry:FDA Approves Hibsago | PharmExec:1792608709000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "FDA Approves Hibsago | PharmExec",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HN0FYbmczUXRSTm5NQzVHZXZ3RTNZUV92TThyVmdzaFBMU3hPLVcxRTZVMGZ4QVBoaWZ6cFBFNjFLa21kZTNEemFsQ0o1dXFweGhkbllRNy02WlVMTHpsZXI1c0owQWVR?oc=5",
+      "summary": "FDA Approves Hibsago | PharmExec &nbsp;&nbsp; Pharmaceutical Executive",
+      "pubDate": "2026-10-21T18:51:49.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "industry:Treasury expected to be harder on China biotech deals in new rules:1792608480000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Treasury expected to be harder on China biotech deals in new rules",
+      "source": "Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVZPQzFMaTJuRmlUM1VfNjZMSzRVMzBsNWg3VEs4R2hpYzVyWGM2NTRfcmw0ZXpnN3k3Tk1pWEJoTTZ0cDA4d3BuelNuVVBGUmdnSE5mc3ZUNnVsZ0Rab1RUVTB0TFdta0RFWmoyekNtMS1HbEtmRVhVV1B5U3ZVTWhLNU9jdVlyNGtqUUNNbVFNbWp2?oc=5",
+      "summary": "Treasury expected to be harder on China biotech deals in new rules &nbsp;&nbsp; Endpoints News",
+      "pubDate": "2026-10-21T18:48:00.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "industry:Apothecary Pharma recalls compounded tirzepatide and NAD+ vials over sterility concerns:1792608385000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Apothecary Pharma recalls compounded tirzepatide and NAD+ vials over sterility concerns",
+      "source": "Managed Healthcare Executive",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNTcHVMNmVPUlc0NnVBVFJWc0N4UjJqQXVYT2x4TUpUbEtXdXdwRWVTVUxBSGdYc3lKZ1Q0eUtyUWRIYnpocUJqVzZ5UWQ2enBsdnRmSTZYVVVEQ0VuYV9uR1c2X3pmSTJHQWYwd0V4SlhzMzZxcTZkdWw5dnVhOVl5NGdsRG9pdU82NzdnUkxZc0E5ejAteVFBc2haVEpQelJOUEU2SFVKZGRQd2d4MWJzSjdNdTJYNTVJNjJ4VFo5MVpFc0FMOGJ6aE1ZZE0?oc=5",
+      "summary": "Apothecary Pharma recalls compounded tirzepatide and NAD+ vials over sterility concerns &nbsp;&nbsp; Managed Healthcare Executive",
+      "pubDate": "2026-10-21T18:46:25.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "china-policy:【视频播报】看病没带医保凭证，医疗费用还能报销吗:1792590491000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【视频播报】看病没带医保凭证，医疗费用还能报销吗",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY195WVRxM3dTMDJ5ZEtITTNIZ3dDcEprVDNEUUZHYTRSbTQ1UVRMWHMzajlfR2lBMkhURHdNeVJ1ZXRSU1ZYbWdqRDA0UWIzV2J2a1NoN1EtQTR4bkpqaF9vbEFSakM0VzJhMDlodThtTnpwb0NFQWhSa1FZdTlvaUswaU5rZjct?oc=5",
+      "summary": "【视频播报】看病没带医保凭证，医疗费用还能报销吗 &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-10-21T13:48:11.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "industry:Astellas links up with AI Proteins in $400M computational drug discovery deal:1792588492000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Astellas links up with AI Proteins in $400M computational drug discovery deal",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVna3BYMnAwUHR1Y1luZW1jWFJ6RDhCV2NsUVBXREIzNk9CMlMyNjJhZ2xMemQxZ2syY18wem4wYmNXbXM5MHByVDR4ZW1WLTZ5OGE5djE3RW1rZG80RmFrZ2M0QU9HNDg0b3Z3emxMUktJSHRmQnhpVzNDYWd0Z0NlcDdieXpmaGpHalVvTXpPZDZhT09NbV9aWi01T0k?oc=5",
+      "summary": "Astellas links up with AI Proteins in $400M computational drug discovery deal &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-21T13:14:52.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "china:China’s pharma stocks gain favours amid ‘greater’ progress of innovative drugs:1792544413000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "China’s pharma stocks gain favours amid ‘greater’ progress of innovative drugs",
+      "source": "South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcU5VdjY3bE91cTZPeDFtYXgybHZwUWdBczdyLTV4dEFIbkRMSFNJVkdmUTM2VnpSRUFmcUJjdFBWQk05Ul9FQ2o5ZVplNm1WQ3p2T2NER2F2M2pfLTgxbnQzbFQ4VnNndkttZlNpV2ZDSmtsMjRRTkwtVmVPd3RlVm1jNGZCY3JSQkVDVGJXN3ZGVzNWdHBrRDhRaDNrczdOY19IMXBmSml2elZJSlR0OEtoTVhja3RyeFJ6SGtmYU40RmpNZzRJcnBHc0VGTWRuVG9CZVFkdU40RlZBTGFYNjJR?oc=5",
+      "summary": "China’s pharma stocks gain favours amid ‘greater’ progress of innovative drugs &nbsp;&nbsp; South China Morning Post",
+      "pubDate": "2026-10-21T01:00:13.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
+    {
+      "id": "clinical:Veradermics’ minoxidil pill improves hair coverage in men in Phase 3:1792408270000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Veradermics’ minoxidil pill improves hair coverage in men in Phase 3",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUZFbHpPakpxR1kwWC0xcUdrNDJmdEVpNHBYd2NqUFRrVVg3Q0dteE5DZkFXb3pkcGFrZEVibjFpTkxnWDlEdm1ibUpYR01yZGdrVmE1d2NzTV9EaDhrenVpOWI2OWw5TG8zLTc3cWJxLU5ubGhvRnpzYTFXQXV1VERxRTZzSEVsRkN2VW5TaXM2bzdZallNTGV2U2xrU0F4UG90TGltTmtWcHdHU0E?oc=5",
+      "summary": "Veradermics’ minoxidil pill improves hair coverage in men in Phase 3 &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-10-19T11:11:10.000Z",
+      "collectedAt": "2026-10-21T23:24:51.385Z"
+    },
     {
       "id": "industry:Why This Pharma Pro Likes Johnson & Johnson, Eli Lilly, and Merck:1792603140000",
       "category": "industry",
