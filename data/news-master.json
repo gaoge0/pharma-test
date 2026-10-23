@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-10-23T13:31:45.422Z",
-  "count": 4730,
+  "lastUpdated": "2026-10-23T18:25:48.472Z",
+  "count": 4743,
   "items": [
+    {
+      "id": "industry:Treasury proposes major restrictions to U.S. investment in Chinese biotech sector:1792778093000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUp5aERiVU9iNGxMY0t6ZTE2ZWwyYkFncXc4Xy1Oa2Q5VDN5dUpLMW1sblI5b2pxNFVKUWZtNUF6LTVPNjQyZVBqRzZKYUY3THZSRGwtUmNtQUlJUGVoOHptdlZaS1Z3UVZtTm9PZkNnczFhU0JzdzVhN2FPd1gxZVhQQzFYRUVYdlVTc1h2QXZaUXlfZWx2VUhNQmwwZEcx?oc=5",
+      "summary": "Treasury proposes major restrictions to U.S. investment in Chinese biotech sector &nbsp;&nbsp; STAT",
+      "pubDate": "2026-10-23T17:54:53.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "china-policy:【一图读懂】京东平台使用医保个人账户线上购药操作流程:1792774194000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "【一图读懂】京东平台使用医保个人账户线上购药操作流程",
+      "source": "北京市医疗保障局",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlhScVF1cllmS0VzZUl4WG0ybGVVQkVtTkdoWjJMY3FONUpaQ2p0UmxMN1NubU5vTF9kS2xyN2JMVEZlUlVfOEtxa2JEX0p4UTFvTXpZcVZ5SExmZGxCazhWVk9fc0k2Qzl0OTZ6YnMyS2NpNVZ6SEZGOHN0UTRUaGlYejF5cU1sR3Qyakh4RQ?oc=5",
+      "summary": "【一图读懂】京东平台使用医保个人账户线上购药操作流程 &nbsp;&nbsp; 北京市医疗保障局",
+      "pubDate": "2026-10-23T16:49:54.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "industry:This week in charts: a big year for RNAi developers:1792772303000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "This week in charts: a big year for RNAi developers",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXBqTWRyZ2lkbmVKX0FtN3FrLUduQkpWSjJDZlZZamZNZ1cyVUtNdnRDTUVYWVNrZDByU0M1OXQ1SHE3c0pKMDdXdTJ2U0dWdW1LZUMyeDBZQ1JTMHU0WnZIZ0xRUW5GTG9XbVBBS0htdkhmT2NUa2x3OURsRW04eDZJNEFUb0FlOEw2V29TWEF1N2M?oc=5",
+      "summary": "This week in charts: a big year for RNAi developers &nbsp;&nbsp; BioPharma Dive",
+      "pubDate": "2026-10-23T16:18:23.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "industry:Treasury proposes rule to crack down on AI, biotech investments over $50,000 in China, Russia:1792766820000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Treasury proposes rule to crack down on AI, biotech investments over $50,000 in China, Russia",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2w4MS1xYlc0NkdaNXI3MmxDOWNKaVNfN2JRRm95SVR4N2ZubzY2NkVSeUJwa1FwbWdqV0ZvZlBZZkQ2cmRXM3NFQ1JvSTNVOU4zOGQ1ZWVBYU1GQXZjVVRwaFNrWE05YUt5d1JJeUtyQ3A2SkZGNWZEam1aQnJ2cHBPc3A3S3c?oc=5",
+      "summary": "Treasury proposes rule to crack down on AI, biotech investments over $50,000 in China, Russia &nbsp;&nbsp; Fortune",
+      "pubDate": "2026-10-23T14:47:00.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "manufacturing:DHL boosts US-Asia cold chain connectivity for healthcare shippers:1792766241000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "DHL boosts US-Asia cold chain connectivity for healthcare shippers",
+      "source": "Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1RPUi1ZSHlkRHBkTl9pRlRyQjlNMm1PcDlDUWlfSnpzeUd6Qjl4S2J0R1Jyb1NBWF9oOVZLUUlmV2NjeE5jU3ROZW9lbEZ3bm8xTzVKTmF0TEJNN01CYkFSVWIwNmlUaTlGQmp3SlhpbW03MHdyMURUdVh6UkRaMUNJdlVoQV9Bb2xfd3pBVm5Nb2lKQ0lIM3Vrbzd1b05Dc2MtdVJfaEV5YXFlRTJyWA?oc=5",
+      "summary": "DHL boosts US-Asia cold chain connectivity for healthcare shippers &nbsp;&nbsp; Supply Chain Dive",
+      "pubDate": "2026-10-23T14:37:21.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "manufacturing:Supply Chain Signal: PhRMA’s GLOBE Lawsuit and the New Economics of Pharma Supply Chains:1792766225000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Supply Chain Signal: PhRMA’s GLOBE Lawsuit and the New Economics of Pharma Supply Chains",
+      "source": "Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWC1oaTNubG9scS10VUpaVXk3UVJIaGtDaU5xdElRNEszVUNLbkYzSlNpeU02ejE2WktlS1ZOYWpobHdDUmFYeklWOGhjRm1aVmJnSHJFd1JZaUJFSlVyWktTbC13Y1BPak45bjg0X3o2akxGMldiakFhS2R3dkVrSnM0UUVxU2N0YkpwazdBUWhEc0Y0dGxmaHMwNEowWThMak1NdE5vaEQwRmF4NFAyeTZHdDhuWC01X2NtRm13SFZFRlR0ZmNmT3dKYw?oc=5",
+      "summary": "Supply Chain Signal: PhRMA’s GLOBE Lawsuit and the New Economics of Pharma Supply Chains &nbsp;&nbsp; Pharmaceutical Commerce",
+      "pubDate": "2026-10-23T14:37:05.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "industry:Building the next generation of sustainable data centres in pharma:1792764913000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Building the next generation of sustainable data centres in pharma",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0dsVHUyMTF4eVA1bGxKQTh1d29EWkstY2xVOUpYaFhRQWFCakdUcThjdFNxVGRVQ3d1a2ZkWkFPRVM2QVRqSzJMX2RQV3I4QXRXb0dLVmdKVzExWndxcmpaTG1TSld2dlBkeU5EcUlrUm42WjVXVEl5NnBNYWt5WmVFVklrZjdWZTZRVWR5Sk9ubVFzSzhISnNoUllKUXdNOHFKdUpsNFNQb2pNbjNnOHM2VUwwRy03dlE?oc=5",
+      "summary": "Building the next generation of sustainable data centres in pharma &nbsp;&nbsp; Pharmaceutical Technology",
+      "pubDate": "2026-10-23T14:15:13.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "manufacturing:Pharmaceutical giant Pfizer cutting jobs at manufacturing plants in Rocky Mount and Sanford:1792755780000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Pharmaceutical giant Pfizer cutting jobs at manufacturing plants in Rocky Mount and Sanford",
+      "source": "Public Radio East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0l5akprN1dGam1EMjMyaVBPQl9sX0dURkV5aHRIQXRRajhJWkIwUzBGdWxIOVRuYkRhUEMwQ0dtTll2NHlxNXRueTZ6bXJGZ3Nabm0weVRzUUxQcEltandSclh0Q05pc2kzazkzbHpNbnRJLXZYalA1SFYwano3bEpnQmJQSG5sTHdtRlpMRWhLTVRCV2lsMXBidTFtdW80aU5fMVIxU2R4aEQ3VHBUdWN0WWhRcGV2dWprdVduZWpNYUo4dDh4bktuX3RDdEFUVVZMek5rNi10RTF2?oc=5",
+      "summary": "Pharmaceutical giant Pfizer cutting jobs at manufacturing plants in Rocky Mount and Sanford &nbsp;&nbsp; Public Radio East",
+      "pubDate": "2026-10-23T11:43:00.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "market-data:正大天晴乌美溴铵维兰特罗吸入粉雾剂国内首仿获批，慢阻肺10亿级用药市场迎首个仿制药！:1792745709000",
+      "category": "market-data",
+      "categoryLabel": "公开市场与销售数据",
+      "title": "正大天晴乌美溴铵维兰特罗吸入粉雾剂国内首仿获批，慢阻肺10亿级用药市场迎首个仿制药！",
+      "source": "搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3R0OFlpNUpqNjcxcDRUSE1NMVY1WTBTYXUtTDk5TzY1M25NWnpaOTlGN2dDX05BNWJIOUgtZVNMQUdCRExVUW9BYTZwQ213VGVTZndpR0ZqaU5EUGVqTm9GdDNMcFJIVklla19IdllvcjNKUFRjWmkxNHY2bFFrMTBROC1Gdm5GVWUxQg?oc=5",
+      "summary": "正大天晴乌美溴铵维兰特罗吸入粉雾剂国内首仿获批，慢阻肺10亿级用药市场迎首个仿制药！ &nbsp;&nbsp; 搜狐",
+      "pubDate": "2026-10-23T08:55:09.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "china-policy:上海合作组织传统医药产业联盟—伊斯兰合作组织常设部长级科技委员会传统医药产业发展交流会在京顺利召开:1792735614000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "上海合作组织传统医药产业联盟—伊斯兰合作组织常设部长级科技委员会传统医药产业发展交流会在京顺利召开",
+      "source": "北京市卫生健康委员会",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GY0M2TWNELXBrcXljWF9SUm91elJ6OWdYTXNrSUdudVNWY2RRS19GRUlwRHI5bFlBd1dMWWkwNDJ6Ql9ZekxYTm9Ea0hlenVsSXdaaGltY1h5RVZHZ0FzeTRiLUhmYVhjUlp0N0ZhZGlfRVdlcWpLc1c1LTM?oc=5",
+      "summary": "上海合作组织传统医药产业联盟—伊斯兰合作组织常设部长级科技委员会传统医药产业发展交流会在京顺利召开 &nbsp;&nbsp; 北京市卫生健康委员会",
+      "pubDate": "2026-10-23T06:06:54.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "manufacturing:Eli Lilly breaks ground on $5 billion Goochland manufacturing facility:1792708380000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Eli Lilly breaks ground on $5 billion Goochland manufacturing facility",
+      "source": "WWBT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb29oQkl4ZmhIcWNfM0R2aHJfTVlhVnZ6U3p6S05aZXNfQjBPb1BBMUZvX04wcGcyMWQ2amd2U3BYLWtwajBHYUVYUnZGYnZYeGVDRWcxb3dqakZSQmtPbUM5Yi01MEJMQ2FBcFNIbmxWVWNERlVhdE0yQWVvWW16Q04tOVJWQTJna1dzakphRFUxd29fQ01JNEVud1NnWkNGeU9FdEwybWR1ejjSAb8BQVVfeXFMUElocjd5UEdNdnV2ZHZDRUttN09FSko0YnlkRkl2cEdtd24wZzRGV3k3clQ4V0xHSzZMUFFIRkZseTVaRTV0cHNCZ1JkOWNhRXM0Vzh3NkRSSDRlOTFnZW1oX181c3V0ZldTUEJ1S1BDWVNuNS02UTQwWnR4WWlZQTJ1RmZhY2hSeUtpTG9BWS1HREpHRXBYSjBtMHU5Y1FwVU5tVWIwbjFqT1VqLXBuVjJzOGRKcGFHakxNZ2xHYjQ?oc=5",
+      "summary": "Eli Lilly breaks ground on $5 billion Goochland manufacturing facility &nbsp;&nbsp; WWBT",
+      "pubDate": "2026-10-22T22:33:00.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "science:'I want to zig when others are zagging': A Bay Area biotech startup targets a devastating kidney disease:1792416360000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "'I want to zig when others are zagging': A Bay Area biotech startup targets a devastating kidney disease",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMUZiRHhGMXVvZnFqYTg3dk5HQ1NGYV9Mckg4M2x4Q0xDLXhnYTEwNy1CcnM2WkZudG1peFRjU1dIZ2FPTmNCU0tiVHN3RWdyMDRjQnVGLXdaN0duVWJuOThyQVQyNjRxdDBGYm5IZEx1SGZrOFZHUUV1ZEt5Qmp5UTQ1Q216djN1dlhteThSNFVhNnFwOTcxSXFBZU1ESmxIRTZnQVZkdFExdw?oc=5",
+      "summary": "'I want to zig when others are zagging': A Bay Area biotech startup targets a devastating kidney disease &nbsp;&nbsp; The Business Journals",
+      "pubDate": "2026-10-19T13:26:00.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
+    {
+      "id": "science:Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions:1792346002000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0xvb3k2R3dnYXJTcFVHRHRQNGNWdV93dGRkclAzUFBFMmF1ZS1fR1VMLThYS3BhYWU1Z1c0QUE2dGxTeTJ5VUc4OEgzVUUtaDZhQzdIallQNTN2UFJpRzZvcl9MR3lrbHBTYzcyLTR3amRlblVUVlJDT1l2R0RmYV9ENFo4aEp5YXpTUWlmbTFnT1FLb2F0UG81b3V3cTFXQ1NqMUpTeU52clAxcU5iZUl2MnV6bTA5THFvdk53YUJ0R29T?oc=5",
+      "summary": "Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-18T17:53:22.000Z",
+      "collectedAt": "2026-10-23T18:25:48.472Z"
+    },
     {
       "id": "industry:Is Pharma Moving Too Fast on AI Agents?:1792761425000",
       "category": "industry",
