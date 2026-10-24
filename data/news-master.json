@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-24T12:43:57.344Z",
-  "count": 4769,
+  "lastUpdated": "2026-10-24T17:28:33.467Z",
+  "count": 4777,
   "items": [
+    {
+      "id": "industry:ESMO: Amgen’s Imdelltra drives massive survival benefit in ‘watershed moment’ for small cell lung cancer:1792852200000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "ESMO: Amgen’s Imdelltra drives massive survival benefit in ‘watershed moment’ for small cell lung cancer",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSE9oeUx3X0lfMTdhNDVQaEFwRkxsV0lvNnhfUEQ3c09LWEN4eXJFb18tSFFUNFJDN0hoNVZtc0w5bWw2d2tGQkFROUlSS1VGUVhiakJ1Z3Y2c1RmTTRUV3pOVXZVNER2TGJUTVRHTnUxYURmY0g0UVFQcmEzRHlQLVFWNy12TS1NaGN3eXhmZWEwcS1QdERZc0U0cVZuRzBjb1FUZ1VaTjhldWdYcEpXYm1TOGZTUWhVOXNxbjBWekU?oc=5",
+      "summary": "ESMO: Amgen’s Imdelltra drives massive survival benefit in ‘watershed moment’ for small cell lung cancer &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-10-24T14:30:00.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "wechat:- 微信公众平台:1792847909000",
+      "category": "wechat",
+      "categoryLabel": "微信公众号线索",
+      "title": "- 微信公众平台",
+      "source": "微信公众平台",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0TGtkS2F3SVA2Q1NsYTc2MTc1ek9fMkNveGdYaW1BYzhDZER3bTBDYzkxd1gyZ0xwRVdjX2p4TFhvZE5JTmZ2RW1GTVUyRnJxNHVWdTBxb19TSkFySkE?oc=5",
+      "summary": "&nbsp;&nbsp; 微信公众平台",
+      "pubDate": "2026-10-24T13:18:29.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "industry:3 Australian Biotech Stocks To Own In October 2026:1792847535000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "3 Australian Biotech Stocks To Own In October 2026",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXRKc0dncDVlX21JbTJJcHVkejB6QWRTd0p0ajhIRFlWWF9uaHFKN1J4bmJIaS1ORERYTGY2ZzhmZVJaai1qazhPVDZfVUxreVUtY3F3ckxlNDlJVlR2WjBOMFRveG5mUDVvRGs4NmJ3eDl6ZGp0OXdOdURrT1cxY0FwOUFsX3MwNmxnYktJMnY4MnhCNFBB?oc=5",
+      "summary": "3 Australian Biotech Stocks To Own In October 2026 &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-24T13:12:15.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "industry:Biotech stocks are surging. How investors can play the new drug innovation boom:1792847445000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vV2JtVy12a3VCVnVXeFFDUjNraHdmTVdJM0owMThvRS1jdmlsUWxjclR6OHV0bjVzaXhHdFpDVW53c3JHS1hvWnljNkctc05zTlZxNnVqU1ZldTdhbVZCbnd2SHF5T2NjSmM0LWdFbjVrbmczdk1GSkV2TVBqdw?oc=5",
+      "summary": "Biotech stocks are surging. How investors can play the new drug innovation boom &nbsp;&nbsp; CNBC",
+      "pubDate": "2026-10-24T13:10:45.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "industry:Aytu BioPharma, Inc. Estimates – NASDAQ:AYTU:1792845686000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Aytu BioPharma, Inc. Estimates – NASDAQ:AYTU",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMWhxNjdsdURvYmx2Sl9tVkpTMDRKbmVjR3VrVFpFUW5nQ1M1Rk9SVlp2RlA3NktfclJnbFg1d2lsNWxDWGdkdGpPb3pJcWR4UHZQUE9KQmVrRGZTR3BXU1ZmWTJlMUpnaTRtSTh4aGdJVTFUM05McA?oc=5",
+      "summary": "Aytu BioPharma, Inc. Estimates – NASDAQ:AYTU &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-10-24T12:41:26.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "clinical:Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer:1792845000000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkszZEZGNVdwTkkySjNVeExod2taSERsZGgwMkJkZWVIeDZHQlBYYWpvTkpCN0c5MGRubmF0ekNtVFp3YXpPS095NGl1eGNwcVpCa19tOHRDRGdGTWhSR19JWFlXNUF5UnMycmVzellOdllncXZMWUtqNERfdk1HZHl3a2JYUDhWVERMaWRRUWhJeXhJSlVpUzBILS1qT2c?oc=5",
+      "summary": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-10-24T12:30:00.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "clinical:AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations:1792679968000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXhMQXVtVTduRXhNVVlEbnNDbGptdUpMQVdYUkVhQTZlc21tWm5hQWN3UHJTNmJ5UzhvU0ZtVGtzcERvaHZDb3Q2bmxrMnhnazU0eTFVdURzN2lZZ3BNNl9uWFJQYlo4bWVIYVpkbWtCUVB0ZTltbVhXMEhTTWJzNDIzc3J0NWpPY3g4MXZPQ3FMSlRfTGNlMTlFcmRyc2t2bVZDS1oteHBodEFGX2VEdlFla2loa3JGaE92RA?oc=5",
+      "summary": "AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations &nbsp;&nbsp; Fierce Biotech",
+      "pubDate": "2026-10-22T14:39:28.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
+    {
+      "id": "clinical:Zealand Pharma announces positive topline results from the multiple ascending dose part of Phase 1 trial with Kv1.3 ion channel blocker ZP9830:1792386000000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Zealand Pharma announces positive topline results from the multiple ascending dose part of Phase 1 trial with Kv1.3 ion channel blocker ZP9830",
+      "source": "Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORko1b2xucS1ZNE9QaV8ycDhQYmRPSFI0UkpvYzVqSzBRMWdfaVJ0TnEwLWotcnYwRlc1aVhESUM3TlFEMThEajhaQWUyenIxQXhyLVl1Y3BYdWtpd0xzZFJtRDZ3NnItX0Nia0dnalRTTko4YXlyQzJlUGZlcW5xdkJRalZlNVRVWVRmdmhZaE5FYldM?oc=5",
+      "summary": "Zealand Pharma announces positive topline results from the multiple ascending dose part of Phase 1 trial with Kv1.3 ion channel blocker ZP9830 &nbsp;&nbsp; Yahoo Finance UK",
+      "pubDate": "2026-10-19T05:00:00.000Z",
+      "collectedAt": "2026-10-24T17:28:33.467Z"
+    },
     {
       "id": "industry:US targets Chinese biotech investment, but licensing deals remain exempt:1792817369000",
       "category": "industry",
