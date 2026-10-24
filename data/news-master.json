@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-10-23T23:12:12.199Z",
-  "count": 4757,
+  "lastUpdated": "2026-10-24T07:22:14.312Z",
+  "count": 4761,
   "items": [
+    {
+      "id": "industry:Health Brief: Making sense of Treasury’s biotech deal proposal:1792818360000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Health Brief: Making sense of Treasury’s biotech deal proposal",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXVUQ0dXak1ibjJTemJRenZQb1h2QjhuV3RvcEE3MXVqam5jREkyOE5jRHJtN0NWbEk5cWlWU3lTRTN3cWxiSkMyaGltMnZkTmdaamtLb2puYmFWdVVNR3d6ZHc2M3hvcV9KRm03VktCd1ZMTjhhR0lNVWVqNlBydE9RLXlxT1p1dC14OV9lOG1xRjBDQXdncWZwWGVoazlvN2NTRVUtTHNDUkhwTHBBeld3VE90aV9MYXZVV0pMYV9USFZ0ZXpFRw?oc=5",
+      "summary": "Health Brief: Making sense of Treasury’s biotech deal proposal &nbsp;&nbsp; The Washington Post",
+      "pubDate": "2026-10-24T05:06:00.000Z",
+      "collectedAt": "2026-10-24T07:22:14.312Z"
+    },
+    {
+      "id": "industry:Arrowhead Pharmaceuticals And 2 Biotech Stocks To Own:1792807740000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Arrowhead Pharmaceuticals And 2 Biotech Stocks To Own",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQTBkVmhiUXdNdVRUUTMxODJianpkNWktZk9JRnhHZlJINXgxa0VHOHlvM2pjbW1uQ3B6a296UG9qOXBmdHA2LWwwOVFWUUpROXA2eTFFZ2pNdGw3ZUUzRkp2eDRsSldULXpYZUJkNklnQ2ZDTm9iOWxwQm9zc2drZl9PNXhQaEFNM1ZoaDJuMEk5dm5LRnJnLVMtNmd1SW5WeUtqOW93?oc=5",
+      "summary": "Arrowhead Pharmaceuticals And 2 Biotech Stocks To Own &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-24T02:09:00.000Z",
+      "collectedAt": "2026-10-24T07:22:14.312Z"
+    },
+    {
+      "id": "manufacturing:Armando Rubio, Vicapsys CEO, on Pharmaceutical Supply Chain Resilience, U.S. Manufacturing and Expanding Access to Essential Medicines:1792713833000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Armando Rubio, Vicapsys CEO, on Pharmaceutical Supply Chain Resilience, U.S. Manufacturing and Expanding Access to Essential Medicines",
+      "source": "Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVN4RndHZ2hMMk5XU29TRi1UeVNpYXJVQjh5dk8zcDVfZmdDSEppNWhTOTc2NHhrV2VPb2VwT2l4djdJaTV4aEJwM2E3YzNQQWxmSERpZHhmMGstQ25XQVdweTFEdklrOWJETDIwcVFKNFFqc3VWUWZScUdsTEcwOXVoZTc0blVnRVFtVEN4SEdWc0V4SW4yMXFVeU0zYl92dXNvaTBUUE5EdTVobHI0bnVxdzRaakF3VkRkdENsdk1KRFdpbzZkU0xDOU9IVmVsZkYxWXJTR3lkNFd2bV9KSFc3TnY4ZVl5UDF0ZjNfV0wyYmw2NXZQZzl2M3Y1VUk?oc=5",
+      "summary": "Armando Rubio, Vicapsys CEO, on Pharmaceutical Supply Chain Resilience, U.S. Manufacturing and Expanding Access to Essential Medicines &nbsp;&nbsp; Haute Living",
+      "pubDate": "2026-10-23T00:03:53.000Z",
+      "collectedAt": "2026-10-24T07:22:14.312Z"
+    },
+    {
+      "id": "science:Merck KGaA bets on RNAi with $1.3B Silence buyout:1792426744000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUlKTUJMZmE0UG9hRktFaWJtZjR2Wk9CTEhZa3ZFX2hPcDNGNkVXUWkzZHlnbzczaFBHNFZYZ0pzVFBKRDBfWjlBRTExaU5Ecy1vZGYyaEFXZ2R6Zm9aRllfNFhheGJmUVhYOExiR3Z1dnN1YTVZNWt1UDJ1RVNhOGRLYkR3eU5NMkY0LUJkXzN3QkJwUlc2ZU1ZWUdETG04MmpkVUR4OEF5dGd1b0E4?oc=5",
+      "summary": "Merck KGaA bets on RNAi with $1.3B Silence buyout &nbsp;&nbsp; BioPharma Dive",
+      "pubDate": "2026-10-19T16:19:04.000Z",
+      "collectedAt": "2026-10-24T07:22:14.312Z"
+    },
     {
       "id": "regulatory:This Week at FDA: Peptide dispute, clinical trial legislation, and more:1792790400000",
       "category": "regulatory",
