@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-24T07:22:14.312Z",
-  "count": 4761,
+  "lastUpdated": "2026-10-24T12:43:57.344Z",
+  "count": 4769,
   "items": [
+    {
+      "id": "industry:US targets Chinese biotech investment, but licensing deals remain exempt:1792817369000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "US targets Chinese biotech investment, but licensing deals remain exempt",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObEpsckJIS08xb0xXY2cxLU81S0RRRkZ5UjFjTzhFNHdyYzl0ZzBILXNNdEJTWWk1XzB0dXBEdGpwNkdNdlZ2QUNHZWRHbnZ2T3NwRlF5Q1BTaG1fbHJTUWN4NVRLQTdrRHBWTGhMMjRZdS1GODIyWkNlZ0lGTFdObjZaeUlUMFY2Z3pGY2dvRFhsOG85OHpwRHVfQWhJSnVqU2R5UXNHU2FvYUVDdHRFOGNEOUhmZmJ1el9j?oc=5",
+      "summary": "US targets Chinese biotech investment, but licensing deals remain exempt &nbsp;&nbsp; Pharmaceutical Technology",
+      "pubDate": "2026-10-24T04:49:29.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "industry:Biopharma Companies Must Break the DMTA Linearity:1792779063000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biopharma Companies Must Break the DMTA Linearity",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmh3SDA5NHlnbTBrUW1JcUJNUVpraUl0dXVpRkg3MGJscE93LXg4Ql9nN2ZhUWR5MWM4VElNNi0xdEF6RnBoRGpLTkhzdG80N3RnYms4NF80YjktOG9BVWlJT19oQjRXVDFOckU0TENaazQwQm9zd2RBa2dnWDBBX0xtWXRxYklZcE9DQQ?oc=5",
+      "summary": "Biopharma Companies Must Break the DMTA Linearity &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-10-23T18:11:03.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "company-disclosure:湖南方盛制药股份有限公司关于艾拉莫德片获得《药品注册证书》的公告:1792778929000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "湖南方盛制药股份有限公司关于艾拉莫德片获得《药品注册证书》的公告",
+      "source": "上海东方财富证券投资咨询有限公司",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xeVpjRDhBM3kzWTJTQV9RdVA1aTlBeUlQNmxUQkxnZUlUSm5xcXBST1g1QmFrckh2N24xcGdkdTIyTFU5Mm5jMC1KZnJyNERqdXl0RUctUVZFckluaTAzeEhIRU5nQm4xd2FtbWhhVDlUZw?oc=5",
+      "summary": "湖南方盛制药股份有限公司关于艾拉莫德片获得《药品注册证书》的公告 &nbsp;&nbsp; 上海东方财富证券投资咨询有限公司",
+      "pubDate": "2026-10-23T18:08:49.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "china-policy:数智融岐黄创新向未来！第二届“东方勤早”公立中医院高质量发展大会即将启幕:1792754716000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "数智融岐黄创新向未来！第二届“东方勤早”公立中医院高质量发展大会即将启幕",
+      "source": "北京市卫生健康委员会",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zTW93WG9PdWJtU0dlMGpNcUxTdnREMlZSVHB2V2tWNGFjWlNPcU43cE80bHJXb3lCdzhodmZhdEdWdjdoYjRIRkotS2o5NHlwb0RSQ0ZYMzUybEtLRlNiNHVtd21qcUhRNnRxWGNJUnZZU3JpRkJYY21sQk0?oc=5",
+      "summary": "数智融岐黄创新向未来！第二届“东方勤早”公立中医院高质量发展大会即将启幕 &nbsp;&nbsp; 北京市卫生健康委员会",
+      "pubDate": "2026-10-23T11:25:16.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "china-policy:盖天力医药控股集团华东药业有限公司破产清算一案:1792746240000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "盖天力医药控股集团华东药业有限公司破产清算一案",
+      "source": "全国企业破产重整案件信息网",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamZxT2NDNzFGQzAwd0xfd1U2QmVHbWlxTHYtLXFkaDhpZUtJcV94dlppeGt0djNFZlh2alR6WlRZSWZhOFJieDJvTWYyRE16eW1BMm5jSm51QkNOSUN5ZVplcG12cTdmaXJmWVdURlZYVVB6VmxlT0tQQlBhYUVteURJY004QQ?oc=5",
+      "summary": "盖天力医药控股集团华东药业有限公司破产清算一案 &nbsp;&nbsp; 全国企业破产重整案件信息网",
+      "pubDate": "2026-10-23T09:04:00.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "regulatory:Can Clinical Trials Collect Less Data Without Compromising Safety?:1792658669000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Can Clinical Trials Collect Less Data Without Compromising Safety?",
+      "source": "The Medicine Maker",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDlYcmFieDBhTTVKSXZqd3FCNzJ6dmNncGtBeFA1RU5vS2d2TEJKeVRtbHFFTzNyZnEtemtrSGduZGJJRF9kUC1fWjZSMEdOdlZBWVhuWTE2b01UcllBczIzQlN5VVVlUTltWnJ5V3Nnamt4Z2ktcVMzd1l6b3c0bjNvTFRTWmRzOWtIenlTNmNKMTVxTl9OV0hlbmt4aXBTZmNXMjNOdE4xbm4wR0RQeVhYOS1yLXJrNFplMUpBNVlPdw?oc=5",
+      "summary": "Can Clinical Trials Collect Less Data Without Compromising Safety? &nbsp;&nbsp; The Medicine Maker",
+      "pubDate": "2026-10-22T08:44:29.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "science:Transforming mRNA characterization with single-molecule precision:1792538701000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Transforming mRNA characterization with single-molecule precision",
+      "source": "Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXFUNmFuNFAwVVFLcnlwS0N4dDFqSUp0eS02RTZRMjg5eGtXUWR3MGFHUkhXRUEzR3hXX1Q1aDdJdmNMMW5ZR01HV2U5U3lIenFWZ0YwWC03LTYxT0xMVVFQWmx0Vkl1dWFSb24zYnBBTGV5WjMxN2ZjcmZkRTg1R3hMTnlndnZCQVR5MmpLMkxGLWNXU3M4NUNhdGZIM0g3cGx3QUtrcG0?oc=5",
+      "summary": "Transforming mRNA characterization with single-molecule precision &nbsp;&nbsp; Drug Discovery News",
+      "pubDate": "2026-10-20T23:25:01.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
+    {
+      "id": "regulatory:FDA finalizes guidance on prescription drug apps:1792530060000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "FDA finalizes guidance on prescription drug apps",
+      "source": "RAPS",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJNY243YkxON0xLR01xeHpxZlRMYWo1cW1yOUFFd3BIWFc2WGJKcmhScWtMWnI5aDBIM3hPS3lfX1VsVzBQbTRHeU1OdWlnZng5WVhFb2pTNlh3QmxFcGhEOVBvSUxxV1ExOGtHWWhHN2U2UF9XV0k5SWV1Ym1jVmd3RHhhdlBvRlFZ?oc=5",
+      "summary": "FDA finalizes guidance on prescription drug apps &nbsp;&nbsp; RAPS",
+      "pubDate": "2026-10-20T21:01:00.000Z",
+      "collectedAt": "2026-10-24T12:43:57.344Z"
+    },
     {
       "id": "industry:Health Brief: Making sense of Treasury’s biotech deal proposal:1792818360000",
       "category": "industry",
