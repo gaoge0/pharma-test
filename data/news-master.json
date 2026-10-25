@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-24T22:32:10.358Z",
-  "count": 4785,
+  "lastUpdated": "2026-10-25T07:38:40.554Z",
+  "count": 4791,
   "items": [
+    {
+      "id": "industry:‘Designer baby’ start-ups test limits of biotech taboo:1792904418000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "‘Designer baby’ start-ups test limits of biotech taboo",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90OWFkSjduUnA2X3BNQzFaQ1A5R01MU0tUc2M5dnFUTVluQ01ORXdNUWhMem1uaHh6czRMLTlMNlRxUnA3S3hYZ1ZVV0ZuU1gwU1UybGN2Wm4zVnQzTm91d0pZRUlUTlFFYWRGeWdlclE?oc=5",
+      "summary": "‘Designer baby’ start-ups test limits of biotech taboo &nbsp;&nbsp; Financial Times",
+      "pubDate": "2026-10-25T05:00:18.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
+    {
+      "id": "industry:Qinghai Biotech Pharmaceutical Group Limited Estimates – HKEX:876:1792904265000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Qinghai Biotech Pharmaceutical Group Limited Estimates – HKEX:876",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12c2dEV19UcTdmd050QURzblZXLTZxZThZMEh0NUt3dVRubFZrUEUtM3RNenJOdUxwZUkybEZOTXpoUDRmY2VmSlVwTTYzal85M3lHNldDbnExUTBNSkNZT2dVdTlkSDdaQ2RfelozS09BNndU?oc=5",
+      "summary": "Qinghai Biotech Pharmaceutical Group Limited Estimates – HKEX:876 &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-10-25T04:57:45.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
+    {
+      "id": "industry:Protagonist Therapeutics: The Opt-Out That Turned A Biotech Into A Royalty Compounder:1792899955000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Protagonist Therapeutics: The Opt-Out That Turned A Biotech Into A Royalty Compounder",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnRYQ0FENWVvcnpOQ1RvSTVXM2w0MUg5UjNKdXJHMlBhY2g2SjVZWGpqeTlVeC1QclREUllIZDNtTlh1M1A0ZzN0YjVQMGQxODQ3TGNIODNiOXVyM0xCNlNvclktdGNMUjcwd1ZzaEhHNG9RcG9WZTRfdi0wRFBVX1ZQVmlVV2UxVEtXUHFhdHlqWW9UNmhvSFZpMTFVdUw1RVpwa3dTajBXYlVTcHA2T1VKYXI3NWpzRVd5cnA4SEtpRjg?oc=5",
+      "summary": "Protagonist Therapeutics: The Opt-Out That Turned A Biotech Into A Royalty Compounder &nbsp;&nbsp; Seeking Alpha",
+      "pubDate": "2026-10-25T03:45:55.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
+    {
+      "id": "industry:China's Pharma Licensing Deals Top $138.8 Billion, With $150.9 Billion in Sight This Year:1792895100000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "China's Pharma Licensing Deals Top $138.8 Billion, With $150.9 Billion in Sight This Year",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mT1JHaXR6UHRlRkJWTjhqV1UtQWxoYzJfWXZLcWRMLWhFS1g4Sk5oVmxQRDljSDF6THVYNWNZOTVveGc2NDdyaC1jVjIyWmlndk1SdTkwTkhLYU02ZlVuTWVtZXRhT0F6VG16ZjZSNkQ0QnJSdnc?oc=5",
+      "summary": "China's Pharma Licensing Deals Top $138.8 Billion, With $150.9 Billion in Sight This Year &nbsp;&nbsp; BigGo Finance",
+      "pubDate": "2026-10-25T02:25:00.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
+    {
+      "id": "manufacturing:Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing:1792510539000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXVseExSd2RVUnNoQTlyTmhmUjdCamU5S2tLSkhINWQ0Z1A4UFJfdGpPVEloQkRyLTloU1hjbVVMMzFZeFcwSm1kR0V0NGZaWHJyUEVhNU5NMzZvYmp4SkNmWm9nbVZYelFfNi1GOU0xX3FoOVlFMnBTSEljRGNSbnZOak9rZ0IxR1ZNWVppLWozTjBJUXliaA?oc=5",
+      "summary": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing &nbsp;&nbsp; Fierce Pharma",
+      "pubDate": "2026-10-20T15:35:39.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
+    {
+      "id": "china-policy:生物制品批签发信息公示表:1792479600000",
+      "category": "china-policy",
+      "categoryLabel": "中国政策与审批",
+      "title": "生物制品批签发信息公示表",
+      "source": "北京市药品监督管理局",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2tXSDZtQW5aY0p0cW82dVZFeEYyUnh0blR0MC1PWDUzRVFqbHRoa2lzck1SNWZtanZTNjFPNGFNUFp2cGpOT0V0cHpqYXRjU1h0a3ZUMmRfM214eDhteTNUUEtLLVA2OVU5cGhFT2s2QVpLMEhkSDQzVGV0TnRfQkdqZmw1SU1ZZ0xBMFFQaF82dXRLQmp2Sk5Eaw?oc=5",
+      "summary": "生物制品批签发信息公示表 &nbsp;&nbsp; 北京市药品监督管理局",
+      "pubDate": "2026-10-20T07:00:00.000Z",
+      "collectedAt": "2026-10-25T07:38:40.554Z"
+    },
     {
       "id": "industry:Forget Anthropic: Biotech Is Quietly Dominating the IPO Sphere:1792868220000",
       "category": "industry",
