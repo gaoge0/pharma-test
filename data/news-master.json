@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-25T17:40:42.754Z",
-  "count": 4809,
+  "lastUpdated": "2026-10-25T22:36:53.592Z",
+  "count": 4817,
   "items": [
+    {
+      "id": "industry:Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech:1792960948000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
+      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVExU0doZVJtcG1pWG5IdkhsemxLUUJ0SzNzZERaamZBQ3dseWd2bjRkWU5SZ0NZdUhQNmNCZkxoMWE1THB1enRHZjdldmZDNFlJaFJxSVUyWjB3bWpnTEZyT21Ec0VKSTZoalRzSzBGLWQ3ZEFRVXJrMTUwQVY5c2J3bEJvZU03VUFUYkFpbDFBUUNuSmdYN042blhBbWY4VkJOSGQwb3AxVUZqanNwZi1McW1WbFpzZ0pMa3VpQ3A1bm8?oc=5",
+      "summary": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech &nbsp;&nbsp; investingLive",
+      "pubDate": "2026-10-25T20:42:28.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "industry:CapEx per share of ONCOLYS BIOPHARMA INC – OTC:ONCLF:1792956495000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "CapEx per share of ONCOLYS BIOPHARMA INC – OTC:ONCLF",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXFYUnRtR1hzYzFlM3FPaGdweG5xc241NS1xMlpibkpaeks2enhqR2pPajdUcUFvWV9DZm1GUEt0UVpLMFhUQXI3ZXpDdGV3M2lPNHNZVHpGeWF3a0JmRU9hbHhNOE9OMmw5S3FBWlh6LW1Ma2psUEY2MWlKSmNLY0MxTVVnb1BmVnpsQXhLSzZBZFBQbUtCUFhyWQ?oc=5",
+      "summary": "CapEx per share of ONCOLYS BIOPHARMA INC – OTC:ONCLF &nbsp;&nbsp; TradingView",
+      "pubDate": "2026-10-25T19:28:15.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "industry:Takeda to seek Japan approval for gastric cancer drug next year:1792954972000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Takeda to seek Japan approval for gastric cancer drug next year",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFMV2JaWk1hZHYwNXRjcExvTHM2eHZONTdEdExUNFJPVlZtTGNPdVBaa05VZWRhY0xPR04wQ1NoQmJ1NmZucFVxUmE2THR1dGVHa2R2cnZQNnh2X3RjNEhJVDMzRkZ5YTY5RF9kWFJzMi1vbjVKMVRzc2pwQ1FzMk1Fdl9QdjRZNk9ncC03djhrdWt4WHpvbnpQUmVSRmlHM09zNF9YTEwyZEFVOVE?oc=5",
+      "summary": "Takeda to seek Japan approval for gastric cancer drug next year &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-10-25T19:02:52.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "industry:Sichuan Kelun Biotech Biopharmaceutical (SEHK:6990) Stock Looks Fully Priced Today:1792951652000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Sichuan Kelun Biotech Biopharmaceutical (SEHK:6990) Stock Looks Fully Priced Today",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3drRGlMT0JYNTh4Q0UzbmdCaU1adnktaS1Kem5WYjRkNTVDd1RoMzVPS1ktY21nQTYwNlR3V2FHbTlWVzZXbXloUVpTY1ZqOWE5Sjc3MGsxdEM5OVlHaHhaNDJBYXowRUpjbE9jclU0dWVjUHZDMlVYRmlzR1ZwaWRFU1JEY2J5VGc1RmlFMkJqOTBEN0lkS0VIZ2pvNmVHeFY1TzlDU0s?oc=5",
+      "summary": "Sichuan Kelun Biotech Biopharmaceutical (SEHK:6990) Stock Looks Fully Priced Today &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-25T18:07:32.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "industry:Bronstein, Gewirtz & Grossman, LLC Encourages ArriVent BioPharma:1792951550000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Bronstein, Gewirtz & Grossman, LLC Encourages ArriVent BioPharma",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2wxREpmSXozdE13N0ZwcWtZajl5X2pRckdPS1RyTmdwS214aWN0bkQ2VnhMRjFJZ1YyaWRuZmZxWVZTUVN0T2czSWRRTWt2SXcyYkIwQ0NVUXVTckdwaVJmdF9CUWJpeW4zMHhvMzd0NUNQTU9laWtWUWx4eEpFSnA2UGFRQU5jcDhRU3UyWVp1Wi00SWZpVHlmb2NYZjR3bVNES1hqVlNRakpWV2VGdA?oc=5",
+      "summary": "Bronstein, Gewirtz & Grossman, LLC Encourages ArriVent BioPharma &nbsp;&nbsp; The National Law Review",
+      "pubDate": "2026-10-25T18:05:50.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "industry:Forget Biotech's Binary Bets: This Dividend Stock Collects Royalties on Blockbusters Instead:1792941300000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Forget Biotech's Binary Bets: This Dividend Stock Collects Royalties on Blockbusters Instead",
+      "source": "The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczNfZDVxcDBtRU44TVdBY0NiWFo2ekVBNXdQSWhMYkctbTBrNzVKMGpTd2x6c0ZiQ1RLQzdjVUlncE43cHAxbkpDR1otaUJaX1FtYndJRnI5c0ZqaHNMeEJtWWtvTXdxQzBrWXljMDVHQTFVQjlYZ0lDbWtjTXBHLVJMdkRwc2I0T3czQ3ZLdVZwYVJkVkNXMQ?oc=5",
+      "summary": "Forget Biotech's Binary Bets: This Dividend Stock Collects Royalties on Blockbusters Instead &nbsp;&nbsp; The Motley Fool",
+      "pubDate": "2026-10-25T15:15:00.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "clinical:Phase III Lung Cancer Results Could Be A Big Test For Kelun Biotech Stock:1792934006000",
+      "category": "clinical",
+      "categoryLabel": "临床进展",
+      "title": "Phase III Lung Cancer Results Could Be A Big Test For Kelun Biotech Stock",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3ZoQy0xbXlybWJPbWh1dWNfRzBNT1ZydGFNSHktVGlkSGRSLUFfcW9wenZUNWhOVFVual9tU01zajJ1SG5DM3BJVTNoWngxbFg4WUE0UEg5dkt0enlzX0VYMkt2LVNPX2trcVVWdlYxd0FqeEdvcmdLYUZEYm05N2NPdU5sNm1qTnRiTFhlc1hwMjJr?oc=5",
+      "summary": "Phase III Lung Cancer Results Could Be A Big Test For Kelun Biotech Stock &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-10-25T13:13:26.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
+    {
+      "id": "company-disclosure:山东步长制药股份有限公司关于控股子公司法定代表人变更的公告:1790578800000",
+      "category": "company-disclosure",
+      "categoryLabel": "上市公司与年报",
+      "title": "山东步长制药股份有限公司关于控股子公司法定代表人变更的公告",
+      "source": "雪球",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tZWdmNlk1UWNSTWhPMUVXSWcxR09zZ2NfWjEtT3YzNEgzU2h6eW9xZlNPSTM3T1lFYnJXZkNvN3U2Yk1hV2M3cldETDhCMzJ1dEhfa0NzS0ExLWlEZmQ2NV9FdzZ3ZUE0anY5SjloREl5dw?oc=5",
+      "summary": "山东步长制药股份有限公司关于控股子公司法定代表人变更的公告 &nbsp;&nbsp; 雪球",
+      "pubDate": "2026-09-28T07:00:00.000Z",
+      "collectedAt": "2026-10-25T22:36:53.592Z"
+    },
     {
       "id": "industry:The week in pharma: action, reaction and insight – week to October 23, 2026:1792945800000",
       "category": "industry",
