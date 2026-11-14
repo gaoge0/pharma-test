@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-11-14T19:13:08.726Z",
-  "count": 5861,
+  "lastUpdated": "2026-11-14T23:57:41.775Z",
+  "count": 5867,
   "items": [
+    {
+      "id": "industry:Zealand Pharma A/S 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:ZLDPY) 2026-11-14:1794700157000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Zealand Pharma A/S 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:ZLDPY) 2026-11-14",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmgyZ0lrRThrVm9IbDRXSXBKQm4wejJlc0xqX1lGTnpKWkpYbHJDRFR2NnRFeUYzSXZKWWh1TU9DdjdNVlBDdVg2akt3MEp3QzR0Q3ZsZjc1R0w0eFV5Ul9YYVVBbjdxdVBMa0FoNllocmVISkVjYlM0aUdjbm15MnYxbGFTQUMwZ2ZTS2xFTUxxeC1uSFkwNE12a19vWkRLRXB4RmF1UEFhVnJHYUU4SHhzOHQyLU5uQWFVcVdKa0pzVjZQR2c?oc=5",
+      "summary": "Zealand Pharma A/S 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:ZLDPY) 2026-11-14 &nbsp;&nbsp; Seeking Alpha",
+      "pubDate": "2026-11-14T23:49:17.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
+    {
+      "id": "industry:a16z Says AI Will Make Pharma Even Bigger. Here’s What the Numbers Show:1794699939000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "a16z Says AI Will Make Pharma Even Bigger. Here’s What the Numbers Show",
+      "source": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qZ19HUzNkMThsWEVXTFAwdEp4UEoxMmM5a2NVOEs3elBNX1V6R3BTQ1JDY0NmS2JYT0JWZ1BrNGloR2JPY1hCLUR3VldMaVZYWUJj?oc=5",
+      "summary": "a16z Says AI Will Make Pharma Even Bigger. Here’s What the Numbers Show &nbsp;&nbsp; Wowtale",
+      "pubDate": "2026-11-14T23:45:39.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
+    {
+      "id": "industry:Better Biotech ETF: First Trust's FBT vs. Invesco's PBE:1794686640000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Better Biotech ETF: First Trust's FBT vs. Invesco's PBE",
+      "source": "The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTV1NHdHR3pTREtxaksybUxDUEI1R2xsMmp3VmNxQkJBX0phOEdzOGNVOTNNSUM1RGVIRU1MY051TVdNZ09HRGx1dWRZblJ0ZU1CeGNqR2VNVUlzRjRxb3JzQUJrRlp1TGlLSVN6T1lOc04xcWxBNGVfNmtyN2FkMEFlMnQ2dXRuTVRJSHZ3THh6QU1vS0x0d1poM0RndHZ0aHc?oc=5",
+      "summary": "Better Biotech ETF: First Trust's FBT vs. Invesco's PBE &nbsp;&nbsp; The Motley Fool",
+      "pubDate": "2026-11-14T20:04:00.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
+    {
+      "id": "science:Andelyn partners with Celliaz to advance gene therapy for retinitis pigmentosa:1794623580000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Andelyn partners with Celliaz to advance gene therapy for retinitis pigmentosa",
+      "source": "News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQai1uaW5tbURLX015Um9PdG1Ydm0wMFVTS0s5U1ZxclZIWFMzQ1pLT1lUaTZIanNpc0JyZS1qZkxjbHRzOXRyLVdibnpDZUlpTW1wRm4wcVdlUy04MzI5djlpT3RZWjc2SWtCaklPaFJlTjRNOU05aVlRbWMyZ0JfZnNlSVBkdlpfd2hvcnc3RmF5a01ISTRNNE9HMzlqR0F3QkpQbThWSTJ4d2F5dWZGdlpzU3JGcGVTWmJFV3B6R1g0RHFs?oc=5",
+      "summary": "Andelyn partners with Celliaz to advance gene therapy for retinitis pigmentosa &nbsp;&nbsp; News-Medical",
+      "pubDate": "2026-11-14T02:33:00.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
+    {
+      "id": "china:Former Sen. Roy Blunt: Trump’s latest China crackdown puts American lives on the line:1794486600000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "Former Sen. Roy Blunt: Trump’s latest China crackdown puts American lives on the line",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeU5TUkRCLXNHeVJwa3haOUEzSWFfd3F1SDVTSkNNZUxTUWM5MFdXSFA4dXlGU2xQallNVWxvZUJyeVpRZGNNem9UY0EzUWRzR2VMTkh2dE9MamNaOG1HXzRsVm12SXZFandjY3BaQ0c4LXlzRXVBcWp6Zko2VUhHZzNMVl9ObTI5VVhIeE5HTlg4ZTdpTEhyRlhB?oc=5",
+      "summary": "Former Sen. Roy Blunt: Trump’s latest China crackdown puts American lives on the line &nbsp;&nbsp; Fortune",
+      "pubDate": "2026-11-12T12:30:00.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
+    {
+      "id": "deals:Drug licensing exports grow 54-fold in 10 years as China's biotech sector advances on research talent and cost competitiveness:1794381815000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Drug licensing exports grow 54-fold in 10 years as China's biotech sector advances on research talent and cost competitiveness",
+      "source": "https://economy.ac/",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQak5NSXlGaFBpeV9MX2Itek0zWTE3cFBFWEFwVkJFNVhYbGZWMXFpQlg2eGR6c2FwY0FVM0hSMXBhZHBUdVBmc2pJdGt6cWNLbXFic0dHVXlQdw?oc=5",
+      "summary": "Drug licensing exports grow 54-fold in 10 years as China's biotech sector advances on research talent and cost competitiveness &nbsp;&nbsp; https://economy.ac/",
+      "pubDate": "2026-11-11T07:23:35.000Z",
+      "collectedAt": "2026-11-14T23:57:41.775Z"
+    },
     {
       "id": "industry:Novo Nordisk vs. Pfizer: Does a Weight Loss or Cancer Focused Pharma Stock Make a Better Buy for 2027?:1794676320000",
       "category": "industry",
