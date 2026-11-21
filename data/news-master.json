@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-11-20T21:51:14.883Z",
-  "count": 6177,
+  "lastUpdated": "2026-11-21T09:55:16.941Z",
+  "count": 6190,
   "items": [
+    {
+      "id": "industry:3 Biotech Stocks With Revenue Growth Up To 26%:1795245240000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "3 Biotech Stocks With Revenue Growth Up To 26%",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjdySTkxdlJGY3o2ZW01aElHZUp4LUVDN193VEJEelNBcUJmQTNoSnNMMlpJWVBYbkMxV1NMdzBYTlRKUk1mZDJZUTNLejBRRjlhSldvdU8wLWlUc191bHBTU1ZnUXpOZ2M5ZmR0bG55YU5WNnRIbFk2NlM2eFhTUDNqX1pvVm9aWmprYzNmeVVDUXMtRFdV?oc=5",
+      "summary": "3 Biotech Stocks With Revenue Growth Up To 26% &nbsp;&nbsp; Yahoo Finance",
+      "pubDate": "2026-11-21T07:14:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "industry:FDA Releases Annual Report on the State of Pharmaceutical Quality and Global Site Surveillance:1795238534000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "FDA Releases Annual Report on the State of Pharmaceutical Quality and Global Site Surveillance",
+      "source": "CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGg4ZEl3YzZjdjQ2Z2YyVWtScDc2Mzk4NTJVSlhWZ2h4NW5UU0JpbEZRWEI1cjBQVllCNEJFQlZ5LXE3ejhSMmh1eWt1S1htNWNSZFVUV0RnaFo5d1N0dXNqX3VEaDFNbTlTY0FyUzNyUGJhMHp0MFhYTjZkZzMxbU45TEJGN2hzNGpDQ0hXVWdyT28?oc=5",
+      "summary": "FDA Releases Annual Report on the State of Pharmaceutical Quality and Global Site Surveillance &nbsp;&nbsp; CASRAI",
+      "pubDate": "2026-11-21T05:22:14.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "industry:Updates on the evolving tariff landscape for pharmaceutical and medical device companies:1795229854000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Updates on the evolving tariff landscape for pharmaceutical and medical device companies",
+      "source": "PwC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYl9YTmtiX3NGZ194OHZsblVEenZxN1hUYjhyZ2V3cE5pV25fY0x4bnBKNzB3WHhWUlhlNU5vSW5nd3pCS2VTblM2dlFCdWU1ZC1aQXI3UEdlTU45OThMQ3RfREduc2ZFdk1PRXpQRnhyaUp2c3RTaF83ZExBZ3Q2TjBuQ2FvQ0ZOZkgycWlQcUZiUXBaYm91NUJXRXM0UGtwMmhoSDBPOW5IQ1dUbFRTQw?oc=5",
+      "summary": "Updates on the evolving tariff landscape for pharmaceutical and medical device companies &nbsp;&nbsp; PwC",
+      "pubDate": "2026-11-21T02:57:34.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "industry:Pharma Hub and Patient Access Support Service Market Forecast to Record US$ 10.0 Billion Valuation by 2035:1795220561000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Pharma Hub and Patient Access Support Service Market Forecast to Record US$ 10.0 Billion Valuation by 2035",
+      "source": "Market.us Media",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHpvM1o4QWgtbTVhMFptUklWem5QTWFJM3hqTDdGZmVNRkkwcDNMUTE2Q2wyenBjQlZQcndCdE4zTG5ZbnRxNlhOUl9EY1QyZXYtYVZOQnA5M01nd0U0X3ZsOV9YNEh2aU1fNk42aWhsNmpQekI5VzVPN1lraDJkeDgzNWY1UEowb3c?oc=5",
+      "summary": "Pharma Hub and Patient Access Support Service Market Forecast to Record US$ 10.0 Billion Valuation by 2035 &nbsp;&nbsp; Market.us Media",
+      "pubDate": "2026-11-21T00:22:41.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "industry:Biopharma M&A cycle will pick up into year-end, says Mizuho's Jared Holz:1795215720000",
+      "category": "industry",
+      "categoryLabel": "行业头条",
+      "title": "Biopharma M&A cycle will pick up into year-end, says Mizuho's Jared Holz",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelpMTjRudDNXaXJMaGdiQWJLV0JVNEg2VVh0emhFcXF4TVpOc3lFTXNmSFJDMTZPSjg0WUJTV3ZEVVJmS1dTRXlIbjFzYzBqNndKQ1hVeWRiVU5GS3ZkdFpfMHd0M3ljamNpWDZKQVJGNlR6TFFzSm84WUpfczB4QWxNM1k0SmtYQkpwSXZ4QUFqWnJ2WFRzWFBWcGhpWDdBYmU4TGpsRFpNMFU5clpHWjhn?oc=5",
+      "summary": "Biopharma M&A cycle will pick up into year-end, says Mizuho's Jared Holz &nbsp;&nbsp; CNBC",
+      "pubDate": "2026-11-20T23:02:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "manufacturing:CPA questions China commission’s push to Invest in Indian drug manufacturing:1795191060000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "CPA questions China commission’s push to Invest in Indian drug manufacturing",
+      "source": "American Journal of Transportation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlhsRUJUTmJreTRmbzg3UWFKNkFfV1NrOXRpQllHZHlLdlZJcUJwMlJfRUZVUW05Z2NoZVdVbUdRTFBzcnJ0TWZ4VDg0ZGVSNDlnUU1wY0lfbnNUSWtPdktKRnRBQW1feDVhYmdSOTdIZC12WWE3Z3ExelZwR2VrOVNJaXprYnVrZ05TNWdVTURYN1gwNmVkNGdybW4xUUdJZ1Vr?oc=5",
+      "summary": "CPA questions China commission’s push to Invest in Indian drug manufacturing &nbsp;&nbsp; American Journal of Transportation",
+      "pubDate": "2026-11-20T16:11:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "china:Big drugmakers tell House committee they will halt clinical trials at some hospitals in China:1795175095000",
+      "category": "china",
+      "categoryLabel": "中国市场",
+      "title": "Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGI0Y3BxUnl3djl4M1pTTG1UVHo2TFBLRUFWTTIwZHFNaUFZa1V3ZjJIcThQV2xDRXdHQklmZ2FaTThIaGNhNjRKNHlBc2JaYUJ0S0MySjEwTkphSFFXZm5rdS0zYUJpQWxXZHQ5Q09RLVhLNlJ2TTlhYVU5RzUyX251TkhSa1YwdmdNYmp4TThvMkR5Rl9KeTFJTmZfbmpoeng5NnhZLXRINm9GLVJKMXMxeWZkMV9wMFBoOUJGOA?oc=5",
+      "summary": "Big drugmakers tell House committee they will halt clinical trials at some hospitals in China &nbsp;&nbsp; STAT",
+      "pubDate": "2026-11-20T11:44:55.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "science:Economics, not science, is blocking preventative medicine:1795106999000",
+      "category": "science",
+      "categoryLabel": "前沿研发",
+      "title": "Economics, not science, is blocking preventative medicine",
+      "source": "European Pharmaceutical Review",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGpLNkphUzl5VmtqbW5rMXhwRXVkek5qYUVjNlRHWDRYdXN5bGtxYTFZSDdVbG4xZjFwMHdsOFI0WHUwZXRZQjlvbHp6LXRLMTU1SXRZNkx1Zm12ZHFSeWdUcmxIMGZiMW5KeTRPWUZ4cFUyQXlIOGJDNDQxWDJBZmQxZWVnMG9nd2EwQzJ2WVBMS0loRXAyMnI3eWZaUDVHQjVhRERLVXUxd1ZHV0Z0Ti1BbTA0NmlEWVJDQUVB?oc=5",
+      "summary": "Economics, not science, is blocking preventative medicine &nbsp;&nbsp; European Pharmaceutical Review",
+      "pubDate": "2026-11-19T16:49:59.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "regulatory:Sanofi secures first FDA approval to treat neurological symptoms in rare metabolic disease:1795098359000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "Sanofi secures first FDA approval to treat neurological symptoms in rare metabolic disease",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkRmSGoxOENoVUtsLWtFLWNxcHYzakFRTkJoNDVySUljY2U2N25SdU1fYkVlbl94aE1BbTBKeEtGQkVjaVoyUXFTOFBReDcxdDl4Z2JTdktHTW1oVGtEbEhVSVYtTzkzeUZfQjBiblZBY2lvMDhwSkVFRmlFRFFpWWZaTm1HdnYyMjA0WlpzVXI1elMtRURGZXVjNUVBM2UxZ21VbDQ5bWNHTzVBWjZjYkZLOHAxZ0wwSm1V?oc=5",
+      "summary": "Sanofi secures first FDA approval to treat neurological symptoms in rare metabolic disease &nbsp;&nbsp; BioSpace",
+      "pubDate": "2026-11-19T14:25:59.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "deals:Pharma sector doubles down on AI to slash costs, timelines:1795075200000",
+      "category": "deals",
+      "categoryLabel": "授权与交易",
+      "title": "Pharma sector doubles down on AI to slash costs, timelines",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObkQzcHMySmV3Q1VVdzc4c0FjX05GNzNMLThIT2N6LWktZGFPWnlNS2QzeE1uT0dNeTQ1N0E0UjZsUnhMeVpTTXBFYU9zV2lsNXp3MHJubFNSOUNZVi1lNVZxNTlaRXdyeUpyODYtTEx3U0NpZTBJaDk5MTlMbkI3UWtmUk5LMXhpTVBJamhJdEJDZmZwdXc2TjlTalV6blF0M2RWSXBjZXZldkw1aE9NTVNuZDFBTmJzSmgxdklVSFhLZG9FNnd5RDFQekU3Y2lmc2s4?oc=5",
+      "summary": "Pharma sector doubles down on AI to slash costs, timelines &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-11-19T08:00:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "manufacturing:Medical Manufacturing & Outsourcing - November 2026 v2:1795072407000",
+      "category": "manufacturing",
+      "categoryLabel": "制造与供应链",
+      "title": "Medical Manufacturing & Outsourcing - November 2026 v2",
+      "source": "Tech Briefs",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41QVNUWlJ2REtucURXU0lEa0ZIS2REQklVT2M5eDNnQWxldGFkSE1TbE5KRnNsdzBiYzBWbHJZcmM2UE1tdkxzWExxY0UyRkxieU9qaTk1ZXNRQlAyQmRmTl80T1dVbk1peUpUV0JJN2lMckY4dVhF?oc=5",
+      "summary": "Medical Manufacturing & Outsourcing - November 2026 v2 &nbsp;&nbsp; Tech Briefs",
+      "pubDate": "2026-11-19T07:13:27.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "regulatory:US FDA approves Regeneron's drug for generalized myasthenia gravis:1795043760000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "US FDA approves Regeneron's drug for generalized myasthenia gravis",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDRQczEtLVVNQktZdUFFUG9SSHYzaWlHTUlvMUwwOTNWZGtRNEV2X0lway0wUzVubjlCRnA2dlFMbDU3R0xyb0N6X2JtMjZIYmVmdEozeWh3RGRDWXU5eHRJcTlTbGZFRWFrLXNYZmd2UElLeDJ5eDdVTk1wUlp4MzNNRm5lR3JWUF9XNTdSWFJiOVY1RzhDYmVoVnZabkNqdFdIdEJWeTMxMlZidGROdW5FbGE3YzNGTGxYWk5Qck92aDR1VEZNbWl2QWlZZw?oc=5",
+      "summary": "US FDA approves Regeneron's drug for generalized myasthenia gravis &nbsp;&nbsp; Reuters",
+      "pubDate": "2026-11-18T23:16:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
+    {
+      "id": "regulatory:NIH research team lays groundwork for new treatment of Niemann-Pick Type C in infants:1794902400000",
+      "category": "regulatory",
+      "categoryLabel": "监管与审批",
+      "title": "NIH research team lays groundwork for new treatment of Niemann-Pick Type C in infants",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3EyajQ4cDJETGVaUkxPZXVYQVc5VXFEZFNCOEY5NWxrVmlQZG92Z2NnZzlqbWR1NDAwOUtLQVp1dENPZHRldllvMHl6RWVrb2p4SlRnYW5FeU9mUzY4Tnp0NE9rMTFQYmRIejlsU0xpeDlaSGh2Y05jVDZkbW9OYzN3ejBoMVAtZnBzbnBDRnZqZHFoWkQ0S0I1ZHFkN3MzbUZCWHBIV0hlOWduTmlrWk1ZX2Nmdk81ZkNGMnpB?oc=5",
+      "summary": "NIH research team lays groundwork for new treatment of Niemann-Pick Type C in infants &nbsp;&nbsp; National Institutes of Health (NIH) | (.gov)",
+      "pubDate": "2026-11-17T08:00:00.000Z",
+      "collectedAt": "2026-11-21T09:55:16.941Z"
+    },
     {
       "id": "industry:Bakersfield man known as ‘Speedy Pharma’ arrested in international drug ring operation:1795210851000",
       "category": "industry",
